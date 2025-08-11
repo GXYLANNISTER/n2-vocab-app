@@ -1,0 +1,9906 @@
+[
+  {
+    "word": "あいじょう",
+    "kanji": "愛情",
+    "partOfSpeech": "名",
+    "translation": "爱,爱情;热爱",
+    "example": "母の愛情(母爱)"
+  },
+  {
+    "word": "あいづち",
+    "kanji": "相槌",
+    "partOfSpeech": "名",
+    "translation": "随声附和,帮腔",
+    "example": "相槌を打つ(打帮腔)"
+  },
+  {
+    "word": "あかじ",
+    "kanji": "赤字",
+    "partOfSpeech": "名",
+    "translation": "赤字,亏空",
+    "related": "黒字 [くろじ (盈余)"
+  },
+  {
+    "word": "あかり",
+    "kanji": "明かり",
+    "partOfSpeech": "名",
+    "translation": "光亮;灯火",
+    "example": "明かりを消す(灭灯)"
+  },
+  {
+    "word": "あくてんこう",
+    "kanji": "悪天候",
+    "partOfSpeech": "名",
+    "translation": "坏天气"
+  },
+  {
+    "word": "あくま",
+    "kanji": "悪魔",
+    "partOfSpeech": "名",
+    "translation": "恶魔,魔鬼",
+    "related": "天使 [てんし (天使)"
+  },
+  {
+    "word": "あけがた",
+    "kanji": "明け方",
+    "partOfSpeech": "名",
+    "translation": "黎明,拂晓",
+    "related": "夕方 [ゆうがた (傍晚)"
+  },
+  {
+    "word": "あっしゅく",
+    "kanji": "圧縮",
+    "partOfSpeech": "名・他サ",
+    "translation": "压缩"
+  },
+  {
+    "word": "あてな",
+    "kanji": "宛名",
+    "partOfSpeech": "名",
+    "translation": "收信人姓名(地址)"
+  },
+  {
+    "word": "あと",
+    "kanji": "跡",
+    "partOfSpeech": "名",
+    "translation": "痕迹;行踪",
+    "example": "跡を追う(追赶;效仿)",
+    "related": "足跡 [あしあと] (足迹)"
+  },
+  {
+    "word": "あな",
+    "kanji": "穴",
+    "partOfSpeech": "名",
+    "translation": "孔,眼;洞",
+    "example": "鼻の穴(鼻孔)\n穴があれば入りたい(想找个地洞钻进去)"
+  },
+  {
+    "word": "あやまち",
+    "kanji": "過ち",
+    "partOfSpeech": "名",
+    "translation": "错误;过失",
+    "example": "過ちを犯す(犯错)",
+    "related": "間違い [まちがい(错误)"
+  },
+  {
+    "word": "あやまり",
+    "kanji": "誤り",
+    "partOfSpeech": "名",
+    "translation": "错误",
+    "related": "間違い(错误)"
+  },
+  {
+    "word": "あらし",
+    "kanji": "嵐",
+    "partOfSpeech": "名",
+    "translation": "暴风雨",
+    "example": "嵐が起こる(起风暴)\n嵐の前の静けさ(暴风雨前的平静)"
+  },
+  {
+    "word": "あらすじ",
+    "kanji": "粗筋",
+    "partOfSpeech": "名",
+    "translation": "概要,梗概",
+    "related": "要約 [ようやく」 (摘要,概要)"
+  },
+  {
+    "word": "あん",
+    "kanji": "案",
+    "partOfSpeech": "名",
+    "translation": "主意;方案",
+    "example": "案を出す(出主意)\n予算案 [よさんあん」(预算案)"
+  },
+  {
+    "word": "い",
+    "kanji": "胃",
+    "partOfSpeech": "名",
+    "translation": "胃",
+    "example": "胃が痛い(胃疼)"
+  },
+  {
+    "word": "いいん",
+    "kanji": "委員",
+    "partOfSpeech": "名",
+    "translation": "委员",
+    "related": "委員会(委员会)"
+  },
+  {
+    "word": "いき",
+    "kanji": "息",
+    "partOfSpeech": "名",
+    "translation": "呼吸;气息",
+    "example": "息が合う(步调一致;合得来)"
+  },
+  {
+    "word": "いざかや",
+    "kanji": "居酒屋",
+    "partOfSpeech": "名",
+    "translation": "日式小酒馆"
+  },
+  {
+    "word": "いじ",
+    "kanji": "維持",
+    "partOfSpeech": "名・他サ",
+    "translation": "维持",
+    "example": "現状 [げんじょう] 維持 (维持现状)"
+  },
+  {
+    "word": "いしき",
+    "kanji": "意識",
+    "partOfSpeech": "名",
+    "translation": "意识",
+    "example": "意識を失う(失去知觉)"
+  },
+  {
+    "word": "いじょう",
+    "kanji": "異常",
+    "partOfSpeech": "名・ナ形",
+    "translation": "怪异,不正常",
+    "example": "異常な行動(怪异的行为)",
+    "related": "正常 [せいじょう] (正常)"
+  },
+  {
+    "word": "いしょくじゅう",
+    "kanji": "衣食住",
+    "partOfSpeech": "名",
+    "translation": "衣食住",
+    "example": "衣食住に困らない(吃穿住都不愁)"
+  },
+  {
+    "word": "いずみ",
+    "kanji": "泉",
+    "partOfSpeech": "名",
+    "translation": "泉水;泉源"
+  },
+  {
+    "word": "いっか",
+    "kanji": "一家",
+    "partOfSpeech": "名",
+    "translation": "一家;全家",
+    "example": "一家団らん(一家团圆)"
+  },
+  {
+    "word": "いっしゅ",
+    "kanji": "一種",
+    "partOfSpeech": "名·副",
+    "translation": "一种;稍许,一点儿",
+    "example": "一種異様な味(有点怪味)"
+  },
+  {
+    "word": "いっしゅん",
+    "kanji": "一瞬",
+    "partOfSpeech": "名",
+    "translation": "一瞬间"
+  },
+  {
+    "word": "いっすい",
+    "kanji": "一睡",
+    "partOfSpeech": "名・自サ",
+    "translation": "稍睡一会儿;睡一觉"
+  },
+  {
+    "word": "いっせきにちょう",
+    "kanji": "一石二鳥",
+    "partOfSpeech": "名",
+    "translation": "一举两得"
+  },
+  {
+    "word": "いっち",
+    "kanji": "一致",
+    "partOfSpeech": "名・自サ",
+    "translation": "一致",
+    "example": "意見が一致する(意见一致)",
+    "related": "一致点[てん] (共同点);一致団結 [だんけつ] (团结一致)"
+  },
+  {
+    "word": "いっぽう",
+    "kanji": "一方",
+    "partOfSpeech": "名·接",
+    "translation": "一个方向;一方面;一直/另一方面,且说",
+    "example": "一方通行 [つうこう] (单向行驶,单行)"
+  },
+  {
+    "word": "いてん",
+    "kanji": "移転",
+    "partOfSpeech": "名・自他サ",
+    "translation": "迁移,搬家",
+    "related": "移転先 [さき (新住址)"
+  },
+  {
+    "word": "いど",
+    "kanji": "井戸",
+    "partOfSpeech": "名",
+    "translation": "井",
+    "example": "井戸をほる(挖井)"
+  },
+  {
+    "word": "いどう",
+    "kanji": "移動",
+    "partOfSpeech": "名・自他サ",
+    "translation": "移动,转移"
+  },
+  {
+    "word": "いね",
+    "kanji": "稲",
+    "partOfSpeech": "名",
+    "translation": "稻子",
+    "example": "稲を刈 [か]る(割稻子)"
+  },
+  {
+    "word": "いふく",
+    "kanji": "衣服",
+    "partOfSpeech": "名",
+    "translation": "衣服,服装",
+    "related": "服装 [ふくそう] (服装)"
+  },
+  {
+    "word": "いぶつ",
+    "kanji": "遺物",
+    "partOfSpeech": "名",
+    "translation": "遗物;遗失物",
+    "related": "遺品 [いひん](遗物)"
+  },
+  {
+    "word": "いまごろ",
+    "kanji": "今頃",
+    "partOfSpeech": "名·副",
+    "translation": "现在,此时;如今"
+  },
+  {
+    "word": "いんさつ",
+    "kanji": "印刷",
+    "partOfSpeech": "名・他サ",
+    "translation": "印刷"
+  },
+  {
+    "word": "いんたい",
+    "kanji": "引退",
+    "partOfSpeech": "名・自サ",
+    "translation": "引退,退职",
+    "related": "隠退 [いんたい」 (退隐,隐居)"
+  },
+  {
+    "word": "いんよう",
+    "kanji": "引用",
+    "partOfSpeech": "名・他サ",
+    "translation": "引用",
+    "related": "引用文(引文)"
+  },
+  {
+    "word": "いんりょく",
+    "kanji": "引力",
+    "partOfSpeech": "名",
+    "translation": "引力,万有引力"
+  },
+  {
+    "word": "うえき",
+    "kanji": "植木",
+    "partOfSpeech": "名",
+    "translation": "栽种的树,盆栽的花木",
+    "related": "植木屋[や](花匠;花店)"
+  },
+  {
+    "word": "うちあわせ",
+    "kanji": "打ち合わせ",
+    "partOfSpeech": "名",
+    "translation": "事先商量",
+    "example": "打ち合わせをする(碰头)"
+  },
+  {
+    "word": "うみぞい",
+    "kanji": "海沿い",
+    "partOfSpeech": "名",
+    "translation": "沿海边"
+  },
+  {
+    "word": "うみべ",
+    "kanji": "海辺",
+    "partOfSpeech": "名",
+    "translation": "海边,海滨",
+    "related": "岸[きし] (岸边)"
+  },
+  {
+    "word": "うむ",
+    "kanji": "有無",
+    "partOfSpeech": "名",
+    "translation": "有无",
+    "related": "あるなし(有无)"
+  },
+  {
+    "word": "うらぐち",
+    "kanji": "裏口",
+    "partOfSpeech": "名",
+    "translation": "走后门,幕后交易"
+  },
+  {
+    "word": "うらみ",
+    "kanji": "恨み",
+    "partOfSpeech": "名",
+    "translation": "恨,仇恨"
+  },
+  {
+    "word": "うれゆき",
+    "kanji": "売れ行き",
+    "partOfSpeech": "名",
+    "translation": "销路,销量",
+    "example": "売れ行きがよい (销路好)"
+  },
+  {
+    "word": "うわき",
+    "kanji": "浮気",
+    "partOfSpeech": "名・自サ・ナ形",
+    "translation": "见异思迁;花心",
+    "related": "浮気者 [もの] (水性杨花的人;沾花惹草的人)"
+  },
+  {
+    "word": "えいきゅう",
+    "kanji": "永久",
+    "partOfSpeech": "名・ナ形",
+    "translation": "永久",
+    "example": "永久の策(长久之计)"
+  },
+  {
+    "word": "えいきょう",
+    "kanji": "影響",
+    "partOfSpeech": "名・自サ",
+    "translation": "影响",
+    "example": "悪[あく] 影響(坏影响)"
+  },
+  {
+    "word": "えいせい",
+    "kanji": "衛星",
+    "partOfSpeech": "名",
+    "translation": "卫星",
+    "example": "人工 [じんこう] 衛星(人造卫星)"
+  },
+  {
+    "word": "えきたい",
+    "kanji": "液体",
+    "partOfSpeech": "名",
+    "translation": "液体",
+    "related": "固体 [こたい](固体)、気体 [きたい](气体)"
+  },
+  {
+    "word": "えさ",
+    "kanji": "餌",
+    "partOfSpeech": "名",
+    "translation": "饵食;诱饵"
+  },
+  {
+    "word": "えて",
+    "kanji": "得手",
+    "partOfSpeech": "名",
+    "translation": "拿手,擅长",
+    "related": "得意 [とくい (擅长)\n不[ふ]得手(不擅长)",
+    "example": "得手に帆 [ほ] を揚 [あ] げる(如龙得云)"
+  },
+  {
+    "word": "えのぐ",
+    "kanji": "絵の具",
+    "partOfSpeech": "名",
+    "translation": "颜料,水彩",
+    "example": "絵の具を塗る(着色)"
+  },
+  {
+    "word": "えほん",
+    "kanji": "絵本",
+    "partOfSpeech": "名",
+    "translation": "绘本,图画书"
+  },
+  {
+    "word": "えんぎ",
+    "kanji": "演技",
+    "partOfSpeech": "名",
+    "translation": "演技;花招",
+    "example": "演技がうまい(演得好)"
+  },
+  {
+    "word": "えんげい",
+    "kanji": "園芸",
+    "partOfSpeech": "名",
+    "translation": "园艺",
+    "related": "園芸植物 [しょくぶつ] (园艺作物)"
+  },
+  {
+    "word": "えんしゅう",
+    "kanji": "演習",
+    "partOfSpeech": "名",
+    "translation": "(大学里的)专题研究讨论",
+    "related": "演習室 [しつ] (讨论室)\nゼミナール(研究班)"
+  },
+  {
+    "word": "えんぜつ",
+    "kanji": "演説",
+    "partOfSpeech": "名・自サ",
+    "translation": "演说,讲演",
+    "example": "街頭 [がいとう] 演説(街头演说)"
+  },
+  {
+    "word": "えんだか",
+    "kanji": "円高",
+    "partOfSpeech": "名",
+    "translation": "日元升值",
+    "related": "円安(日元贬值)"
+  },
+  {
+    "word": "えんちょう",
+    "kanji": "延長",
+    "partOfSpeech": "名",
+    "translation": "延长;继续",
+    "related": "延長線 [せん」(延长线)"
+  },
+  {
+    "word": "えんとつ",
+    "kanji": "煙突",
+    "partOfSpeech": "名",
+    "translation": "烟筒,烟囱"
+  },
+  {
+    "word": "えんやす",
+    "kanji": "円安",
+    "partOfSpeech": "名",
+    "translation": "日元贬值",
+    "related": "円高(日元升值)"
+  },
+  {
+    "word": "おうえん",
+    "kanji": "応援",
+    "partOfSpeech": "名・他サ",
+    "translation": "支援;声援",
+    "example": "応援を求める(求援)"
+  },
+  {
+    "word": "おうせつ",
+    "kanji": "応接",
+    "partOfSpeech": "名・自他サ",
+    "translation": "接待",
+    "related": "応接係 [かかり] (接待员; 招待员)"
+  },
+  {
+    "word": "おうたい",
+    "kanji": "応対",
+    "partOfSpeech": "名・自サ",
+    "translation": "接待,应酬"
+  },
+  {
+    "word": "おうだん",
+    "kanji": "横断",
+    "partOfSpeech": "名・他サ",
+    "translation": "横渡,横穿",
+    "example": "道路を横断する(横穿马路)"
+  },
+  {
+    "word": "おうふく",
+    "kanji": "往復",
+    "partOfSpeech": "名・自サ",
+    "translation": "往返,来回",
+    "related": "往復券 [けん」(往返票)\n片道 [かたみち] (単程)"
+  },
+  {
+    "word": "おうべい",
+    "kanji": "欧米",
+    "partOfSpeech": "名",
+    "translation": "欧美"
+  },
+  {
+    "word": "おうらい",
+    "kanji": "往来",
+    "partOfSpeech": "名",
+    "translation": "往来;交际",
+    "example": "手紙の往来(通信)",
+    "related": "行 [い] き来 [き] (往来)"
+  },
+  {
+    "word": "おおがた",
+    "kanji": "大型",
+    "partOfSpeech": "名・ナ形",
+    "translation": "形状大,大型",
+    "related": "小型 [こがた](小型)"
+  },
+  {
+    "word": "おおごえ",
+    "kanji": "大声",
+    "partOfSpeech": "名",
+    "translation": "高声",
+    "example": "大声を出す(叫喊)"
+  },
+  {
+    "word": "おおめ",
+    "kanji": "多め",
+    "partOfSpeech": "名",
+    "translation": "多一些,略多"
+  },
+  {
+    "word": "おか",
+    "kanji": "丘",
+    "partOfSpeech": "名",
+    "translation": "山岗,小山"
+  },
+  {
+    "word": "おかず",
+    "kanji": "おかず",
+    "partOfSpeech": "名",
+    "translation": "菜肴"
+  },
+  {
+    "word": "おかん",
+    "kanji": "悪寒",
+    "partOfSpeech": "名",
+    "translation": "发冷,恶寒",
+    "example": "悪寒がひどい(浑身发冷)"
+  },
+  {
+    "word": "おき",
+    "kanji": "沖",
+    "partOfSpeech": "名",
+    "translation": "海上,洋面;湖心",
+    "example": "沖を越える(出类拔萃)\n沖にもつかず磯 [いそ] に離る(前不着村后不着店;进退两难)"
+  },
+  {
+    "word": "おきにいり",
+    "kanji": "お気に入り",
+    "partOfSpeech": "名",
+    "translation": "喜欢,中意",
+    "example": "お気に入りの服(喜爱的衣服)"
+  },
+  {
+    "word": "おじぎ",
+    "kanji": "お辞儀",
+    "partOfSpeech": "名・自サ",
+    "translation": "行礼,鞠躬",
+    "example": "お客さんにお辞儀をする(向客人鞠躬)"
+  },
+  {
+    "word": "おしゃべり",
+    "kanji": "お喋り",
+    "partOfSpeech": "名・自他サ・ナ形",
+    "translation": "喋喋不休(的人);聊天",
+    "example": "おしゃべりする (闲聊)"
+  },
+  {
+    "word": "おせん",
+    "kanji": "汚染",
+    "partOfSpeech": "名・自他サ",
+    "translation": "污染",
+    "related": "環境 [かんきょう] 汚染(环境污染)"
+  },
+  {
+    "word": "おそれ",
+    "kanji": "恐れ",
+    "partOfSpeech": "名",
+    "translation": "畏惧,害怕",
+    "example": "恐れを知らぬ年ごろ(初生牛犊不怕虎)"
+  },
+  {
+    "word": "おに",
+    "kanji": "鬼",
+    "partOfSpeech": "名",
+    "translation": "鬼,魔鬼"
+  },
+  {
+    "word": "おひる",
+    "kanji": "お昼",
+    "partOfSpeech": "名",
+    "translation": "白天;午饭",
+    "example": "お昼の支度 [したく]をする(准备午饭)"
+  },
+  {
+    "word": "おまけ",
+    "kanji": "お負け",
+    "partOfSpeech": "名・自他サ",
+    "translation": "作为赠品另外奉送",
+    "example": "おまけに(又加上,而且)\nおまけをつける (夸大其词;添枝加叶)"
+  },
+  {
+    "word": "およぎ",
+    "kanji": "泳ぎ",
+    "partOfSpeech": "名",
+    "translation": "游泳,游水",
+    "related": "背[せ] 泳ぎ(仰泳)\n水泳 [すいえい] (游泳)"
+  },
+  {
+    "word": "おんけい",
+    "kanji": "恩恵",
+    "partOfSpeech": "名",
+    "translation": "恩惠;受到好处",
+    "example": "恩恵に浴する(沾恩惠; 受到好处)"
+  },
+  {
+    "word": "おんたい",
+    "kanji": "温帯",
+    "partOfSpeech": "名",
+    "translation": "温带",
+    "related": "温帯林 [りん](温带林)"
+  },
+  {
+    "word": "おんちゅう",
+    "kanji": "御中",
+    "partOfSpeech": "名",
+    "translation": "公启"
+  },
+  {
+    "word": "おんてい",
+    "kanji": "音程",
+    "partOfSpeech": "名",
+    "translation": "音程",
+    "example": "音程がくるう(音程不准)"
+  },
+  {
+    "word": "か",
+    "kanji": "蚊",
+    "partOfSpeech": "名",
+    "translation": "蚊子"
+  },
+  {
+    "word": "がい",
+    "kanji": "害",
+    "partOfSpeech": "名",
+    "translation": "危害,损害",
+    "example": "害があって益なし(有害无益;有弊无利)"
+  },
+  {
+    "word": "かいかい",
+    "kanji": "開会",
+    "partOfSpeech": "名・自他サ",
+    "translation": "开会",
+    "example": "開会のあいさつ(开幕词)",
+    "related": "開会式 [しき] (开幕式)"
+  },
+  {
+    "word": "かいけん",
+    "kanji": "会見",
+    "partOfSpeech": "名・自サ",
+    "translation": "会见,接见",
+    "related": "記者 [きしゃ] 会見 (记者招待会)"
+  },
+  {
+    "word": "がいけん",
+    "kanji": "外見",
+    "partOfSpeech": "名",
+    "translation": "表面;外貌",
+    "example": "外見で他人を占ってはいけない(不要以外貌取人)"
+  },
+  {
+    "word": "がいこう",
+    "kanji": "外交",
+    "partOfSpeech": "名",
+    "translation": "外交;对外事务",
+    "example": "外交事務(外事)"
+  },
+  {
+    "word": "かいさい",
+    "kanji": "開催",
+    "partOfSpeech": "名・他サ",
+    "translation": "召开,举办",
+    "example": "体育大会を開催する(举办运动会)",
+    "related": "催 [もよおす(召开); 主催 [しゅさい] (主办)"
+  },
+  {
+    "word": "かいさつ",
+    "kanji": "改札",
+    "partOfSpeech": "名・自サ",
+    "translation": "检票",
+    "related": "改札口 [ぐち (检票口)"
+  },
+  {
+    "word": "かいし",
+    "kanji": "開始",
+    "partOfSpeech": "名・自他サ",
+    "translation": "开始",
+    "related": "始める(开始)"
+  },
+  {
+    "word": "かいしゃく",
+    "kanji": "解釈",
+    "partOfSpeech": "名・他サ",
+    "translation": "解释,理解",
+    "example": "解釈を誤 [あやま] る (解释错误)",
+    "related": "説明(说明)"
+  },
+  {
+    "word": "かいすう",
+    "kanji": "回数",
+    "partOfSpeech": "名",
+    "translation": "次数",
+    "example": "回数を重ねる(屡次)"
+  },
+  {
+    "word": "かいせい",
+    "kanji": "快晴",
+    "partOfSpeech": "名",
+    "translation": "晴朗,万里无云"
+  },
+  {
+    "word": "かいぜん",
+    "kanji": "改善",
+    "partOfSpeech": "名・他サ",
+    "translation": "改善,改进"
+  },
+  {
+    "word": "かいそう",
+    "kanji": "改装",
+    "partOfSpeech": "名・他サ",
+    "translation": "改装",
+    "example": "室内を改装する(室内改装)"
+  },
+  {
+    "word": "かいぞう",
+    "kanji": "改造",
+    "partOfSpeech": "名・他サ",
+    "translation": "改造,改组,改建"
+  },
+  {
+    "word": "かいつう",
+    "kanji": "開通",
+    "partOfSpeech": "名・自他サ",
+    "translation": "开通;通行",
+    "example": "鉄道を開通する(开通铁路)"
+  },
+  {
+    "word": "かいてん",
+    "kanji": "開店",
+    "partOfSpeech": "名・自他サ",
+    "translation": "开业,开张;(开门)营业",
+    "related": "閉店 [へいてん](关门,停业)"
+  },
+  {
+    "word": "かいてん",
+    "kanji": "回転",
+    "partOfSpeech": "名・自サ",
+    "translation": "转,转动",
+    "example": "回転ドア(旋转门)"
+  },
+  {
+    "word": "かいほう",
+    "kanji": "解放",
+    "partOfSpeech": "名・他サ",
+    "translation": "解放,摆脱"
+  },
+  {
+    "word": "かいめん",
+    "kanji": "海面",
+    "partOfSpeech": "名",
+    "translation": "海面"
+  },
+  {
+    "word": "かいよう",
+    "kanji": "海洋",
+    "partOfSpeech": "名",
+    "translation": "海洋"
+  },
+  {
+    "word": "がいろん",
+    "kanji": "概論",
+    "partOfSpeech": "名",
+    "translation": "概论"
+  },
+  {
+    "word": "かおく",
+    "kanji": "家屋",
+    "partOfSpeech": "名",
+    "translation": "房屋,住房",
+    "related": "住 [す] まい(住所,房舍)"
+  },
+  {
+    "word": "かおつき",
+    "kanji": "顔つき",
+    "partOfSpeech": "名",
+    "translation": "相貌;表情",
+    "example": "うれしそうな顔つき(喜形于色的样子)"
+  },
+  {
+    "word": "かおり",
+    "kanji": "香り",
+    "partOfSpeech": "名",
+    "translation": "香味,芳香",
+    "example": "花の香り(花香)"
+  },
+  {
+    "word": "かきね",
+    "kanji": "垣根",
+    "partOfSpeech": "名",
+    "translation": "篱笆;墙根",
+    "example": "垣根をつくる(围篱笆)"
+  },
+  {
+    "word": "かぎり",
+    "kanji": "限り",
+    "partOfSpeech": "名",
+    "translation": "限度;只要",
+    "example": "限りがある(有限)"
+  },
+  {
+    "word": "かくう",
+    "kanji": "架空",
+    "partOfSpeech": "名",
+    "translation": "虚构,空想",
+    "example": "架空の人物(虚构的人物)",
+    "related": "空想 [くうそう] (空想)"
+  },
+  {
+    "word": "かくしん",
+    "kanji": "核心",
+    "partOfSpeech": "名",
+    "translation": "核心,关键",
+    "related": "キーポイント(key point,关键)"
+  },
+  {
+    "word": "かくじん",
+    "kanji": "各人",
+    "partOfSpeech": "名",
+    "translation": "各人;所有人",
+    "example": "各人各様 [かくよう] (各自不同;各人各样)"
+  },
+  {
+    "word": "かくち",
+    "kanji": "各地",
+    "partOfSpeech": "名",
+    "translation": "各地",
+    "example": "全国各地から集まる(来自全国各地)"
+  },
+  {
+    "word": "かくちょう",
+    "kanji": "拡張",
+    "partOfSpeech": "名・他サ",
+    "translation": "扩张,扩大",
+    "example": "事業を拡張する(扩大事业)"
+  },
+  {
+    "word": "かくど",
+    "kanji": "角度",
+    "partOfSpeech": "名",
+    "translation": "角度;立场",
+    "example": "角度をはかる(测量角度)"
+  },
+  {
+    "word": "がくねん",
+    "kanji": "学年",
+    "partOfSpeech": "名",
+    "translation": "学年;年级"
+  },
+  {
+    "word": "かくほ",
+    "kanji": "確保",
+    "partOfSpeech": "名・他サ",
+    "translation": "确保",
+    "example": "権利を確保する (确保权利)"
+  },
+  {
+    "word": "かけら",
+    "kanji": "欠片",
+    "partOfSpeech": "名",
+    "translation": "碎片"
+  },
+  {
+    "word": "かげん",
+    "kanji": "加減",
+    "partOfSpeech": "名・他サ",
+    "translation": "调节;程度",
+    "example": "湯の加減(水的凉热程度)"
+  },
+  {
+    "word": "かこ",
+    "kanji": "過去",
+    "partOfSpeech": "名",
+    "translation": "过去,既往"
+  },
+  {
+    "word": "かご",
+    "kanji": "籠",
+    "partOfSpeech": "名",
+    "translation": "筐,笼",
+    "example": "鳥かご(鸟笼)\n籠で水をくむ(竹篮打水一场空;徒劳无功)"
+  },
+  {
+    "word": "かこう",
+    "kanji": "加工",
+    "partOfSpeech": "名・他サ",
+    "translation": "加工",
+    "related": "加工品 [ひん (加工品)"
+  },
+  {
+    "word": "かこう",
+    "kanji": "下降",
+    "partOfSpeech": "名・自サ",
+    "translation": "下降",
+    "related": "上昇 [じょうしょう](上升)"
+  },
+  {
+    "word": "かざん",
+    "kanji": "火山",
+    "partOfSpeech": "名",
+    "translation": "火山",
+    "example": "活 [かつ] 火山(活火山)"
+  },
+  {
+    "word": "かじ",
+    "kanji": "家事",
+    "partOfSpeech": "名",
+    "translation": "家务,家政",
+    "example": "家事をする(做家务)"
+  },
+  {
+    "word": "かしつ",
+    "kanji": "過失",
+    "partOfSpeech": "名",
+    "translation": "过失,过错",
+    "example": "過失を犯す(犯错误)",
+    "related": "過 [あやま] ち(过失,过错)"
+  },
+  {
+    "word": "かじつ",
+    "kanji": "果実",
+    "partOfSpeech": "名",
+    "translation": "果实",
+    "example": "果実を結ぶ(结果)"
+  },
+  {
+    "word": "かしや",
+    "kanji": "貸家",
+    "partOfSpeech": "名",
+    "translation": "出租屋"
+  },
+  {
+    "word": "かせん",
+    "kanji": "下線",
+    "partOfSpeech": "名",
+    "translation": "下画线",
+    "example": "下線を引く(划下画线)"
+  },
+  {
+    "word": "かそく",
+    "kanji": "加速",
+    "partOfSpeech": "名・自他サ",
+    "translation": "加速",
+    "example": "加速運動(加速运动)",
+    "related": "減速 [げんそく] (减速)"
+  },
+  {
+    "word": "かたほう",
+    "kanji": "片方",
+    "partOfSpeech": "名",
+    "translation": "(两个中的)一个,一只"
+  },
+  {
+    "word": "がっかい",
+    "kanji": "学会",
+    "partOfSpeech": "名",
+    "translation": "学会"
+  },
+  {
+    "word": "がっきゅう",
+    "kanji": "学級",
+    "partOfSpeech": "名",
+    "translation": "学级,班级",
+    "related": "学級委員 [いいん (班级委员)"
+  },
+  {
+    "word": "かっこ",
+    "kanji": "括弧",
+    "partOfSpeech": "名",
+    "translation": "括号,括弧"
+  },
+  {
+    "word": "かっこく",
+    "kanji": "各国",
+    "partOfSpeech": "名",
+    "translation": "各国"
+  },
+  {
+    "word": "かつじ",
+    "kanji": "活字",
+    "partOfSpeech": "名",
+    "translation": "活字,铅字"
+  },
+  {
+    "word": "かつやく",
+    "kanji": "活躍",
+    "partOfSpeech": "名・自サ",
+    "translation": "活跃,活动"
+  },
+  {
+    "word": "かつよう",
+    "kanji": "活用",
+    "partOfSpeech": "名・他サ",
+    "translation": "有效利用",
+    "example": "人材を活用する(合理利用人才)"
+  },
+  {
+    "word": "かどう",
+    "kanji": "稼動",
+    "partOfSpeech": "名・自サ",
+    "translation": "开动",
+    "example": "機械が稼働する (机器起动)"
+  },
+  {
+    "word": "かな",
+    "kanji": "仮名",
+    "partOfSpeech": "名",
+    "translation": "假名",
+    "example": "平仮名(平假名)"
+  },
+  {
+    "word": "かね",
+    "kanji": "鐘",
+    "partOfSpeech": "名",
+    "translation": "钟",
+    "example": "鐘が鳴る(钟响)"
+  },
+  {
+    "word": "かねつ",
+    "kanji": "加熱",
+    "partOfSpeech": "名・他サ",
+    "translation": "加热"
+  },
+  {
+    "word": "かはんすう",
+    "kanji": "過半数",
+    "partOfSpeech": "名",
+    "translation": "过半"
+  },
+  {
+    "word": "かび",
+    "kanji": "かび",
+    "partOfSpeech": "名",
+    "translation": "霉",
+    "example": "かびがはえる(发霉)"
+  },
+  {
+    "word": "かぶ",
+    "kanji": "株",
+    "partOfSpeech": "名",
+    "translation": "股份"
+  },
+  {
+    "word": "かま",
+    "kanji": "釜",
+    "partOfSpeech": "名",
+    "translation": "锅"
+  },
+  {
+    "word": "がまん",
+    "kanji": "我慢",
+    "partOfSpeech": "名・他サ",
+    "translation": "忍耐",
+    "example": "これ以上我慢できない(忍无可忍)"
+  },
+  {
+    "word": "かみがた",
+    "kanji": "髪型",
+    "partOfSpeech": "名",
+    "translation": "发型"
+  },
+  {
+    "word": "かみくず",
+    "kanji": "紙くず",
+    "partOfSpeech": "名",
+    "translation": "纸屑"
+  },
+  {
+    "word": "かみさま",
+    "kanji": "神様",
+    "partOfSpeech": "名",
+    "translation": "神"
+  },
+  {
+    "word": "かみそり",
+    "kanji": "剃刀",
+    "partOfSpeech": "名",
+    "translation": "剃刀",
+    "related": "電気 [でんき」 剃刀(电动剃刀)"
+  },
+  {
+    "word": "かみなり",
+    "kanji": "雷",
+    "partOfSpeech": "名",
+    "translation": "雷",
+    "example": "雷がなる(打雷)"
+  },
+  {
+    "word": "かみのけ",
+    "kanji": "髪の毛",
+    "partOfSpeech": "名",
+    "translation": "头发",
+    "example": "髪の毛をきる(剪发)"
+  },
+  {
+    "word": "かもつ",
+    "kanji": "貨物",
+    "partOfSpeech": "名",
+    "translation": "货物",
+    "related": "貨物船 [せん」(货船)"
+  },
+  {
+    "word": "から",
+    "kanji": "殻",
+    "partOfSpeech": "名",
+    "translation": "外壳,外皮"
+  },
+  {
+    "word": "がら",
+    "kanji": "柄",
+    "partOfSpeech": "名",
+    "translation": "身材,体格",
+    "example": "柄が小さい(小个子)"
+  },
+  {
+    "word": "からつゆ",
+    "kanji": "空梅雨",
+    "partOfSpeech": "名",
+    "translation": "梅雨期不下雨"
+  },
+  {
+    "word": "かわぎし",
+    "kanji": "川岸",
+    "partOfSpeech": "名",
+    "translation": "河岸"
+  },
+  {
+    "word": "かわぐつ",
+    "kanji": "革靴",
+    "partOfSpeech": "名",
+    "translation": "皮鞋"
+  },
+  {
+    "word": "かわせ",
+    "kanji": "為替",
+    "partOfSpeech": "名",
+    "translation": "汇兑",
+    "example": "為替レート(汇率)"
+  },
+  {
+    "word": "かわら",
+    "kanji": "瓦",
+    "partOfSpeech": "名",
+    "translation": "瓦",
+    "example": "かわらをふく (铺瓦)"
+  },
+  {
+    "word": "かんきゃく",
+    "kanji": "観客",
+    "partOfSpeech": "名",
+    "translation": "观众",
+    "related": "観客席 [せき」(观众席)"
+  },
+  {
+    "word": "かんげい",
+    "kanji": "歓迎",
+    "partOfSpeech": "名・他サ",
+    "translation": "欢迎,期待",
+    "related": "歓迎会 [かい (欢迎会)"
+  },
+  {
+    "word": "がんじつ",
+    "kanji": "元日",
+    "partOfSpeech": "名",
+    "translation": "元旦"
+  },
+  {
+    "word": "かんしょう",
+    "kanji": "鑑賞",
+    "partOfSpeech": "名・他サ",
+    "translation": "鉴赏",
+    "example": "音楽を鑑賞する(欣赏音乐)"
+  },
+  {
+    "word": "かんしん",
+    "kanji": "関心",
+    "partOfSpeech": "名",
+    "translation": "感兴趣",
+    "example": "関心がある(感兴趣)"
+  },
+  {
+    "word": "かんせい",
+    "kanji": "完成",
+    "partOfSpeech": "名・自他サ",
+    "translation": "完成"
+  },
+  {
+    "word": "かんそう",
+    "kanji": "乾燥",
+    "partOfSpeech": "名・自他サ",
+    "translation": "干燥"
+  },
+  {
+    "word": "かんそく",
+    "kanji": "観測",
+    "partOfSpeech": "名・他サ",
+    "translation": "观测",
+    "related": "観測所 [じょ](观测所)"
+  },
+  {
+    "word": "かんでんち",
+    "kanji": "乾電池",
+    "partOfSpeech": "名",
+    "translation": "干电池"
+  },
+  {
+    "word": "かんとく",
+    "kanji": "監督",
+    "partOfSpeech": "名・他サ",
+    "translation": "监督;导演",
+    "related": "映画 [えいが] 監督(电影导演)"
+  },
+  {
+    "word": "かんない",
+    "kanji": "館内",
+    "partOfSpeech": "名",
+    "translation": "馆内"
+  },
+  {
+    "word": "かんねん",
+    "kanji": "観念",
+    "partOfSpeech": "名",
+    "translation": "观念"
+  },
+  {
+    "word": "かんばん",
+    "kanji": "看板",
+    "partOfSpeech": "名",
+    "translation": "招牌"
+  },
+  {
+    "word": "かんびょう",
+    "kanji": "看病",
+    "partOfSpeech": "名・他サ",
+    "translation": "看护",
+    "example": "病人を看病する(看护病人)"
+  },
+  {
+    "word": "がんぼう",
+    "kanji": "願望",
+    "partOfSpeech": "名・他サ",
+    "translation": "愿望",
+    "example": "願望がかなう(如愿以偿)"
+  },
+  {
+    "word": "きあつ",
+    "kanji": "気圧",
+    "partOfSpeech": "名",
+    "translation": "气压",
+    "example": "高[こう] 気圧(高气压)"
+  },
+  {
+    "word": "ぎいん",
+    "kanji": "議員",
+    "partOfSpeech": "名",
+    "translation": "议员"
+  },
+  {
+    "word": "きおく",
+    "kanji": "記憶",
+    "partOfSpeech": "名",
+    "translation": "记忆",
+    "example": "記憶がよい(记性好)"
+  },
+  {
+    "word": "ぎかい",
+    "kanji": "議会",
+    "partOfSpeech": "名",
+    "translation": "议会"
+  },
+  {
+    "word": "きがえ",
+    "kanji": "着替え",
+    "partOfSpeech": "名・自サ",
+    "translation": "换衣服",
+    "related": "着替え室 [しつ (更衣室)"
+  },
+  {
+    "word": "きかん",
+    "kanji": "機関",
+    "partOfSpeech": "名",
+    "translation": "机关,机构"
+  },
+  {
+    "word": "きげん",
+    "kanji": "期限",
+    "partOfSpeech": "名",
+    "translation": "期限",
+    "example": "期限になる(到期)"
+  },
+  {
+    "word": "きげん",
+    "kanji": "機嫌",
+    "partOfSpeech": "名・ナ形",
+    "translation": "心情,情绪",
+    "example": "機嫌がよい(高兴)"
+  },
+  {
+    "word": "きこう",
+    "kanji": "気候",
+    "partOfSpeech": "名",
+    "translation": "气候"
+  },
+  {
+    "word": "きごう",
+    "kanji": "記号",
+    "partOfSpeech": "名",
+    "translation": "记号,符号",
+    "example": "記号をつける(标记号)"
+  },
+  {
+    "word": "きし",
+    "kanji": "岸",
+    "partOfSpeech": "名",
+    "translation": "岸",
+    "example": "海の岸(海岸)"
+  },
+  {
+    "word": "きじ",
+    "kanji": "生地",
+    "partOfSpeech": "名",
+    "translation": "布料",
+    "example": "生地が細かい(质地细腻)"
+  },
+  {
+    "word": "ぎし",
+    "kanji": "技師",
+    "partOfSpeech": "名",
+    "translation": "工程师"
+  },
+  {
+    "word": "ぎしき",
+    "kanji": "儀式",
+    "partOfSpeech": "名",
+    "translation": "仪式",
+    "example": "儀式を行う(举行仪式)"
+  },
+  {
+    "word": "きしゃ",
+    "kanji": "貴社",
+    "partOfSpeech": "名",
+    "translation": "贵公司"
+  },
+  {
+    "word": "きじゅん",
+    "kanji": "基準",
+    "partOfSpeech": "名",
+    "translation": "标准"
+  },
+  {
+    "word": "きしょう",
+    "kanji": "起床",
+    "partOfSpeech": "名・自サ",
+    "translation": "起床"
+  },
+  {
+    "word": "きすう",
+    "kanji": "奇数",
+    "partOfSpeech": "名",
+    "translation": "奇数",
+    "related": "偶数 [ぐうすう] (偶数)"
+  },
+  {
+    "word": "きせい",
+    "kanji": "規制",
+    "partOfSpeech": "名・他サ",
+    "translation": "规定,限制",
+    "example": "法律で規制する(用法律限制)"
+  },
+  {
+    "word": "きせい",
+    "kanji": "帰省",
+    "partOfSpeech": "名・自サ",
+    "translation": "回乡"
+  },
+  {
+    "word": "きそ",
+    "kanji": "基礎",
+    "partOfSpeech": "名",
+    "translation": "基础;根基"
+  },
+  {
+    "word": "きのう",
+    "kanji": "機能",
+    "partOfSpeech": "名・自サ",
+    "translation": "功能",
+    "example": "機能を果たす(发挥机能)"
+  },
+  {
+    "word": "きばん",
+    "kanji": "基盤",
+    "partOfSpeech": "名",
+    "translation": "基础"
+  },
+  {
+    "word": "きふ",
+    "kanji": "寄付",
+    "partOfSpeech": "名・他サ",
+    "translation": "捐献",
+    "related": "寄付金 [きん](捐款)"
+  },
+  {
+    "word": "きぼ",
+    "kanji": "規模",
+    "partOfSpeech": "名",
+    "translation": "规模",
+    "example": "規模が大きい(规模大)"
+  },
+  {
+    "word": "きほん",
+    "kanji": "基本",
+    "partOfSpeech": "名",
+    "translation": "基本,基础"
+  },
+  {
+    "word": "きみ",
+    "kanji": "気味",
+    "partOfSpeech": "名",
+    "translation": "感受;情绪",
+    "example": "気味が悪い(令人不快)"
+  },
+  {
+    "word": "ぎむ",
+    "kanji": "義務",
+    "partOfSpeech": "名",
+    "translation": "义务",
+    "related": "義務教育 [きょういく] (义务教育)"
+  },
+  {
+    "word": "きゃくせき",
+    "kanji": "客席",
+    "partOfSpeech": "名",
+    "translation": "观众席"
+  },
+  {
+    "word": "きゅうぎょう",
+    "kanji": "休業",
+    "partOfSpeech": "名・自サ",
+    "translation": "停业",
+    "related": "休業日 [び] (停业日)"
+  },
+  {
+    "word": "きゅうこう",
+    "kanji": "休講",
+    "partOfSpeech": "名・自サ",
+    "translation": "停课"
+  },
+  {
+    "word": "きゅうこん",
+    "kanji": "求婚",
+    "partOfSpeech": "名・自サ",
+    "translation": "求婚"
+  },
+  {
+    "word": "きゅうしゅう",
+    "kanji": "吸収",
+    "partOfSpeech": "名・他サ",
+    "translation": "吸收"
+  },
+  {
+    "word": "きゅうじょ",
+    "kanji": "救助",
+    "partOfSpeech": "名・他サ",
+    "translation": "救助",
+    "related": "救助金 [きん」(救济金)"
+  },
+  {
+    "word": "きゅうしん",
+    "kanji": "休診",
+    "partOfSpeech": "名・自サ",
+    "translation": "停诊"
+  },
+  {
+    "word": "きゅうよ",
+    "kanji": "窮余",
+    "partOfSpeech": "名",
+    "translation": "穷极",
+    "example": "窮余の一策 [いっさく] (最后一招)"
+  },
+  {
+    "word": "きょういん",
+    "kanji": "教員",
+    "partOfSpeech": "名",
+    "translation": "教师",
+    "example": "教員になる(当教师)"
+  },
+  {
+    "word": "ぎょうぎ",
+    "kanji": "行儀",
+    "partOfSpeech": "名",
+    "translation": "举止,礼貌",
+    "example": "行儀がよい(有礼貌)"
+  },
+  {
+    "word": "きょうきゅう",
+    "kanji": "供給",
+    "partOfSpeech": "名・他サ",
+    "translation": "供给",
+    "example": "供給が足りない(供不应求)"
+  },
+  {
+    "word": "きょうしゅく",
+    "kanji": "恐縮",
+    "partOfSpeech": "名・自サ",
+    "translation": "惶恐"
+  },
+  {
+    "word": "きょうちょう",
+    "kanji": "協調",
+    "partOfSpeech": "名・自サ",
+    "translation": "协调,合作",
+    "example": "協調合作 [がっさく] (共同合作)"
+  },
+  {
+    "word": "きょうどう",
+    "kanji": "共同",
+    "partOfSpeech": "名・自サ",
+    "translation": "共同"
+  },
+  {
+    "word": "きょうふ",
+    "kanji": "恐怖",
+    "partOfSpeech": "名・自他サ",
+    "translation": "恐惧,害怕"
+  },
+  {
+    "word": "ぎょうむ",
+    "kanji": "業務",
+    "partOfSpeech": "名",
+    "translation": "业务"
+  },
+  {
+    "word": "きょくせん",
+    "kanji": "曲線",
+    "partOfSpeech": "名",
+    "translation": "曲线"
+  },
+  {
+    "word": "きり",
+    "kanji": "霧",
+    "partOfSpeech": "名",
+    "translation": "雾"
+  },
+  {
+    "word": "きりつ",
+    "kanji": "規律",
+    "partOfSpeech": "名",
+    "translation": "纪律,秩序",
+    "example": "規律を守る(遵守纪律)"
+  },
+  {
+    "word": "ぎろん",
+    "kanji": "議論",
+    "partOfSpeech": "名・他サ",
+    "translation": "讨论"
+  },
+  {
+    "word": "きんがく",
+    "kanji": "金額",
+    "partOfSpeech": "名",
+    "translation": "金额"
+  },
+  {
+    "word": "きんこ",
+    "kanji": "金庫",
+    "partOfSpeech": "名",
+    "translation": "保险柜"
+  },
+  {
+    "word": "きんせん",
+    "kanji": "金錢",
+    "partOfSpeech": "名",
+    "translation": "金钱"
+  },
+  {
+    "word": "きんぞく",
+    "kanji": "金属",
+    "partOfSpeech": "名",
+    "translation": "金属"
+  },
+  {
+    "word": "きんだい",
+    "kanji": "近代",
+    "partOfSpeech": "名",
+    "translation": "近代"
+  },
+  {
+    "word": "きんちょう",
+    "kanji": "緊張",
+    "partOfSpeech": "名・自サ",
+    "translation": "紧张",
+    "example": "緊張した顔つき(紧张的神色)",
+    "related": "緊張感 [かん (紧张感)"
+  },
+  {
+    "word": "きんにく",
+    "kanji": "筋肉",
+    "partOfSpeech": "名",
+    "translation": "肌肉"
+  },
+  {
+    "word": "きんゆう",
+    "kanji": "金融",
+    "partOfSpeech": "名",
+    "translation": "金融"
+  },
+  {
+    "word": "ぐうすう",
+    "kanji": "偶数",
+    "partOfSpeech": "名",
+    "translation": "偶数",
+    "related": "奇数 [きすう] (奇数)"
+  },
+  {
+    "word": "ぐうぜん",
+    "kanji": "偶然",
+    "partOfSpeech": "名・ナ形",
+    "translation": "偶然",
+    "example": "偶然のでき事(偶然的事)"
+  },
+  {
+    "word": "くうそう",
+    "kanji": "空想",
+    "partOfSpeech": "名・他サ",
+    "translation": "空想,幻想"
+  },
+  {
+    "word": "くうちゅう",
+    "kanji": "空中",
+    "partOfSpeech": "名",
+    "translation": "空中"
+  },
+  {
+    "word": "くじょう",
+    "kanji": "苦情",
+    "partOfSpeech": "名",
+    "translation": "抱怨"
+  },
+  {
+    "word": "くしん",
+    "kanji": "苦心",
+    "partOfSpeech": "名・自サ",
+    "translation": "费心",
+    "example": "苦心の作(费尽心血的作品,力作)"
+  },
+  {
+    "word": "くつう",
+    "kanji": "苦痛",
+    "partOfSpeech": "名",
+    "translation": "痛苦"
+  },
+  {
+    "word": "くなん",
+    "kanji": "苦難",
+    "partOfSpeech": "名",
+    "translation": "苦难"
+  },
+  {
+    "word": "くふう",
+    "kanji": "工夫",
+    "partOfSpeech": "名・他サ",
+    "translation": "想办法",
+    "example": "あれこれ工夫する(千方百计)"
+  },
+  {
+    "word": "くぶん",
+    "kanji": "区分",
+    "partOfSpeech": "名・他サ",
+    "translation": "分开,分割"
+  },
+  {
+    "word": "くみあい",
+    "kanji": "組合",
+    "partOfSpeech": "名",
+    "translation": "行会;公会"
+  },
+  {
+    "word": "くみあわせ",
+    "kanji": "組み合わせ",
+    "partOfSpeech": "名",
+    "translation": "搭配;组合"
+  },
+  {
+    "word": "くれ",
+    "kanji": "暮れ",
+    "partOfSpeech": "名",
+    "translation": "日暮"
+  },
+  {
+    "word": "くろじ",
+    "kanji": "黒字",
+    "partOfSpeech": "名",
+    "translation": "黑字,盈余",
+    "related": "赤字 [あかじ] (赤字)"
+  },
+  {
+    "word": "ぐんたい",
+    "kanji": "軍隊",
+    "partOfSpeech": "名",
+    "translation": "军队"
+  },
+  {
+    "word": "くんれん",
+    "kanji": "訓練",
+    "partOfSpeech": "名・他サ",
+    "translation": "训练"
+  },
+  {
+    "word": "けいい",
+    "kanji": "敬意",
+    "partOfSpeech": "名",
+    "translation": "敬意"
+  },
+  {
+    "word": "けいき",
+    "kanji": "契機",
+    "partOfSpeech": "名",
+    "translation": "契机"
+  },
+  {
+    "word": "けいこうとう",
+    "kanji": "蛍光灯",
+    "partOfSpeech": "名",
+    "translation": "荧光灯"
+  },
+  {
+    "word": "けいこく",
+    "kanji": "警告",
+    "partOfSpeech": "名・他サ",
+    "translation": "警告"
+  },
+  {
+    "word": "けいじ",
+    "kanji": "掲示",
+    "partOfSpeech": "名・他サ",
+    "translation": "揭示,布告",
+    "related": "掲示板 [ばん」(布告牌)"
+  },
+  {
+    "word": "けいしき",
+    "kanji": "形式",
+    "partOfSpeech": "名",
+    "translation": "形式"
+  },
+  {
+    "word": "けいぞく",
+    "kanji": "継続",
+    "partOfSpeech": "名・自他サ",
+    "translation": "继续",
+    "example": "仕事を継続する(继续工作)"
+  },
+  {
+    "word": "けいど",
+    "kanji": "経度",
+    "partOfSpeech": "名",
+    "translation": "经度"
+  },
+  {
+    "word": "げいのうじん",
+    "kanji": "芸能人",
+    "partOfSpeech": "名",
+    "translation": "艺人"
+  },
+  {
+    "word": "けいば",
+    "kanji": "競馬",
+    "partOfSpeech": "名",
+    "translation": "赛马"
+  },
+  {
+    "word": "けいび",
+    "kanji": "警備",
+    "partOfSpeech": "名・他サ",
+    "translation": "警备,警卫",
+    "related": "警備員 [いん  (警卫员)"
+  },
+  {
+    "word": "けいゆ",
+    "kanji": "経由",
+    "partOfSpeech": "名・自サ",
+    "translation": "经由"
+  },
+  {
+    "word": "げか",
+    "kanji": "外科",
+    "partOfSpeech": "名",
+    "translation": "外科",
+    "related": "内科 [ないか (内科)"
+  },
+  {
+    "word": "げしゃ",
+    "kanji": "下車",
+    "partOfSpeech": "名・自サ",
+    "translation": "下车"
+  },
+  {
+    "word": "けた",
+    "kanji": "桁",
+    "partOfSpeech": "名",
+    "translation": "位数"
+  },
+  {
+    "word": "げた",
+    "kanji": "下駄",
+    "partOfSpeech": "名",
+    "translation": "木屐"
+  },
+  {
+    "word": "けつあつ",
+    "kanji": "血圧",
+    "partOfSpeech": "名",
+    "translation": "血压"
+  },
+  {
+    "word": "けっかん",
+    "kanji": "欠陥",
+    "partOfSpeech": "名",
+    "translation": "缺陷,毛病",
+    "example": "欠陥がある(有缺陷)"
+  },
+  {
+    "word": "げっきゅう",
+    "kanji": "月給",
+    "partOfSpeech": "名",
+    "translation": "月薪"
+  },
+  {
+    "word": "けっこんしき",
+    "kanji": "結婚式",
+    "partOfSpeech": "名",
+    "translation": "婚礼"
+  },
+  {
+    "word": "けっさく",
+    "kanji": "傑作",
+    "partOfSpeech": "名",
+    "translation": "杰作"
+  },
+  {
+    "word": "けつまつ",
+    "kanji": "結末",
+    "partOfSpeech": "名",
+    "translation": "结尾"
+  },
+  {
+    "word": "げつまつ",
+    "kanji": "月末",
+    "partOfSpeech": "名",
+    "translation": "月末"
+  },
+  {
+    "word": "けはい",
+    "kanji": "気配",
+    "partOfSpeech": "名",
+    "translation": "情形,样子"
+  },
+  {
+    "word": "けん",
+    "kanji": "県",
+    "partOfSpeech": "名",
+    "translation": "县"
+  },
+  {
+    "word": "けんかい",
+    "kanji": "見解",
+    "partOfSpeech": "名",
+    "translation": "见解,看法"
+  },
+  {
+    "word": "けんきゅうじょ",
+    "kanji": "研究所",
+    "partOfSpeech": "名",
+    "translation": "研究所"
+  },
+  {
+    "word": "げんこう",
+    "kanji": "原稿",
+    "partOfSpeech": "名",
+    "translation": "原稿"
+  },
+  {
+    "word": "げんじょう",
+    "kanji": "現状",
+    "partOfSpeech": "名",
+    "translation": "现状",
+    "example": "現状を維持する(维持现状)"
+  },
+  {
+    "word": "げんしりょく",
+    "kanji": "原子力",
+    "partOfSpeech": "名",
+    "translation": "核能"
+  },
+  {
+    "word": "けんそん",
+    "kanji": "謙遜",
+    "partOfSpeech": "名・自サ",
+    "translation": "谦逊"
+  },
+  {
+    "word": "けんちく",
+    "kanji": "建築",
+    "partOfSpeech": "名",
+    "translation": "建筑"
+  },
+  {
+    "word": "けんとう",
+    "kanji": "見当",
+    "partOfSpeech": "名",
+    "translation": "推测",
+    "example": "見当がつく(可以推断)"
+  },
+  {
+    "word": "けんとう",
+    "kanji": "検討",
+    "partOfSpeech": "名・他サ",
+    "translation": "讨论",
+    "related": "再[さい] 検討(重新探讨)"
+  },
+  {
+    "word": "げんば",
+    "kanji": "現場",
+    "partOfSpeech": "名",
+    "translation": "现场"
+  },
+  {
+    "word": "けんぽう",
+    "kanji": "憲法",
+    "partOfSpeech": "名",
+    "translation": "宪法"
+  },
+  {
+    "word": "けんめい",
+    "kanji": "懸命",
+    "partOfSpeech": "名・ナ形",
+    "translation": "拼命的",
+    "example": "懸命に働く(拼命工作)"
+  },
+  {
+    "word": "げんゆ",
+    "kanji": "原油",
+    "partOfSpeech": "名",
+    "translation": "原油"
+  },
+  {
+    "word": "げんりょう",
+    "kanji": "原料",
+    "partOfSpeech": "名",
+    "translation": "原料"
+  },
+  {
+    "word": "こううん",
+    "kanji": "幸運",
+    "partOfSpeech": "名・ナ形",
+    "translation": "幸运",
+    "related": "幸運児 [じ](幸运儿)"
+  },
+  {
+    "word": "こうえん",
+    "kanji": "講演",
+    "partOfSpeech": "名・他サ",
+    "translation": "讲演"
+  },
+  {
+    "word": "こうかん",
+    "kanji": "交換",
+    "partOfSpeech": "名・他サ",
+    "translation": "交换",
+    "example": "意見を交換する(交换意见)"
+  },
+  {
+    "word": "こうき",
+    "kanji": "後期",
+    "partOfSpeech": "名",
+    "translation": "后期",
+    "related": "前期 [ぜんき](前期)"
+  },
+  {
+    "word": "こうげい",
+    "kanji": "工芸",
+    "partOfSpeech": "名",
+    "translation": "工艺"
+  },
+  {
+    "word": "ごうけい",
+    "kanji": "合計",
+    "partOfSpeech": "名",
+    "translation": "合计"
+  },
+  {
+    "word": "こうけいしゃ",
+    "kanji": "後継者",
+    "partOfSpeech": "名",
+    "translation": "继承人"
+  },
+  {
+    "word": "こうげき",
+    "kanji": "攻撃",
+    "partOfSpeech": "名・他サ",
+    "translation": "攻击",
+    "related": "総 [そう] 攻擊(总攻)"
+  },
+  {
+    "word": "こうけん",
+    "kanji": "貢献",
+    "partOfSpeech": "名・自サ",
+    "translation": "贡献",
+    "related": "貢献度[ど] (贡献大小)"
+  },
+  {
+    "word": "こうさ",
+    "kanji": "交差",
+    "partOfSpeech": "名・自サ",
+    "translation": "交叉",
+    "related": "交差点 [てん」(十字路口)"
+  },
+  {
+    "word": "こうさく",
+    "kanji": "耕作",
+    "partOfSpeech": "名・他サ",
+    "translation": "耕作"
+  },
+  {
+    "word": "こうし",
+    "kanji": "講師",
+    "partOfSpeech": "名",
+    "translation": "讲师"
+  },
+  {
+    "word": "こうじ",
+    "kanji": "工事",
+    "partOfSpeech": "名・自サ",
+    "translation": "工程,施工",
+    "example": "工事中(正在施工)"
+  },
+  {
+    "word": "こうしき",
+    "kanji": "公式",
+    "partOfSpeech": "名",
+    "translation": "正式",
+    "example": "公式訪問 [ほうもん (正式访问)"
+  },
+  {
+    "word": "こうじつ",
+    "kanji": "口実",
+    "partOfSpeech": "名",
+    "translation": "借口",
+    "example": "うまい口実(冠冕堂皇)"
+  },
+  {
+    "word": "こうすい",
+    "kanji": "香水",
+    "partOfSpeech": "名",
+    "translation": "香水"
+  },
+  {
+    "word": "こうせい",
+    "kanji": "厚生",
+    "partOfSpeech": "名",
+    "translation": "保健;提高生活",
+    "related": "福利 [ふくり] 厚生(福利保健)"
+  },
+  {
+    "word": "こうせき",
+    "kanji": "功績",
+    "partOfSpeech": "名",
+    "translation": "功绩"
+  },
+  {
+    "word": "こうせん",
+    "kanji": "光線",
+    "partOfSpeech": "名",
+    "translation": "光线"
+  },
+  {
+    "word": "こうそう",
+    "kanji": "高層",
+    "partOfSpeech": "名",
+    "translation": "高层"
+  },
+  {
+    "word": "こうぞう",
+    "kanji": "構造",
+    "partOfSpeech": "名",
+    "translation": "结构"
+  },
+  {
+    "word": "こうそく",
+    "kanji": "高速",
+    "partOfSpeech": "名",
+    "translation": "高速"
+  },
+  {
+    "word": "こうたい",
+    "kanji": "交替",
+    "partOfSpeech": "名・自他サ",
+    "translation": "交替",
+    "example": "交替で食事をする(轮班吃饭)"
+  },
+  {
+    "word": "こうち",
+    "kanji": "耕地",
+    "partOfSpeech": "名",
+    "translation": "耕地"
+  },
+  {
+    "word": "こうてい",
+    "kanji": "肯定",
+    "partOfSpeech": "名・他サ",
+    "translation": "肯定",
+    "related": "否定 [ひてい (否定)"
+  },
+  {
+    "word": "ごうとう",
+    "kanji": "強盗",
+    "partOfSpeech": "名",
+    "translation": "强盗"
+  },
+  {
+    "word": "こうひょう",
+    "kanji": "公表",
+    "partOfSpeech": "名・他サ",
+    "translation": "公布",
+    "example": "結果を公表する(公布结果)"
+  },
+  {
+    "word": "こうぶつ",
+    "kanji": "鉱物",
+    "partOfSpeech": "名",
+    "translation": "矿物"
+  },
+  {
+    "word": "こうほ",
+    "kanji": "候補",
+    "partOfSpeech": "名",
+    "translation": "候补"
+  },
+  {
+    "word": "こうむ",
+    "kanji": "公務",
+    "partOfSpeech": "名",
+    "translation": "公务",
+    "related": "公務員 [いん (公务员)"
+  },
+  {
+    "word": "こうもく",
+    "kanji": "項目",
+    "partOfSpeech": "名",
+    "translation": "细目;索引或目录"
+  },
+  {
+    "word": "こうりょ",
+    "kanji": "考慮",
+    "partOfSpeech": "名・他サ",
+    "translation": "考虑",
+    "example": "考慮に入れる(考虑在内)"
+  },
+  {
+    "word": "こうれいか",
+    "kanji": "高齢化",
+    "partOfSpeech": "名",
+    "translation": "老龄化"
+  },
+  {
+    "word": "こおりまくら",
+    "kanji": "氷枕",
+    "partOfSpeech": "名",
+    "translation": "冰枕"
+  },
+  {
+    "word": "こがた",
+    "kanji": "小型",
+    "partOfSpeech": "名・ナ形",
+    "translation": "小型",
+    "related": "大型 [おおがた (大型)"
+  },
+  {
+    "word": "こきゅう",
+    "kanji": "呼吸",
+    "partOfSpeech": "名・自サ",
+    "translation": "呼吸",
+    "example": "呼吸が絶える(咽气)"
+  },
+  {
+    "word": "こくおう",
+    "kanji": "国王",
+    "partOfSpeech": "名",
+    "translation": "国王"
+  },
+  {
+    "word": "こくせき",
+    "kanji": "国籍",
+    "partOfSpeech": "名",
+    "translation": "国籍"
+  },
+  {
+    "word": "こくふく",
+    "kanji": "克服",
+    "partOfSpeech": "名・他サ",
+    "translation": "克服",
+    "example": "困難を克服する(克服困难)"
+  },
+  {
+    "word": "こくもつ",
+    "kanji": "穀物",
+    "partOfSpeech": "名",
+    "translation": "谷物"
+  },
+  {
+    "word": "こごと",
+    "kanji": "小言",
+    "partOfSpeech": "名",
+    "translation": "牢骚",
+    "example": "小言を言う(发牢骚)"
+  },
+  {
+    "word": "こころあたり",
+    "kanji": "心当たり",
+    "partOfSpeech": "名",
+    "translation": "猜想,估计,线索",
+    "example": "心当たりがある(猜得到; 有线索)"
+  },
+  {
+    "word": "こっせつ",
+    "kanji": "骨折",
+    "partOfSpeech": "名・自サ",
+    "translation": "骨折"
+  },
+  {
+    "word": "こてん",
+    "kanji": "古典",
+    "partOfSpeech": "名",
+    "translation": "古典"
+  },
+  {
+    "word": "ことばづかい",
+    "kanji": "言葉遣い",
+    "partOfSpeech": "名",
+    "translation": "说法",
+    "example": "きれいな言葉遣いをする(说话措词漂亮)"
+  },
+  {
+    "word": "こな",
+    "kanji": "粉",
+    "partOfSpeech": "名",
+    "translation": "粉末"
+  },
+  {
+    "word": "こんごう",
+    "kanji": "混合",
+    "partOfSpeech": "名・自他サ",
+    "translation": "混合"
+  },
+  {
+    "word": "こんだて",
+    "kanji": "献立",
+    "partOfSpeech": "名",
+    "translation": "菜单",
+    "related": "献立表 [ひょう] (菜单)"
+  },
+  {
+    "word": "こんなん",
+    "kanji": "困難",
+    "partOfSpeech": "名・ナ形",
+    "translation": "困难"
+  },
+  {
+    "word": "こんやく",
+    "kanji": "婚約",
+    "partOfSpeech": "名・自サ",
+    "translation": "婚约",
+    "related": "婚約者 [しゃ] (订婚者;未婚妻/夫)"
+  },
+  {
+    "word": "さ",
+    "kanji": "差",
+    "partOfSpeech": "名",
+    "translation": "差,差别"
+  },
+  {
+    "word": "さい",
+    "kanji": "差異",
+    "partOfSpeech": "名",
+    "translation": "差异"
+  },
+  {
+    "word": "ざいさん",
+    "kanji": "財産",
+    "partOfSpeech": "名",
+    "translation": "财产"
+  },
+  {
+    "word": "さいしゅう",
+    "kanji": "最終",
+    "partOfSpeech": "名",
+    "translation": "最后",
+    "related": "最終駅 [えき] (终点站)"
+  },
+  {
+    "word": "ざいもく",
+    "kanji": "材木",
+    "partOfSpeech": "名",
+    "translation": "木材"
+  },
+  {
+    "word": "さかい",
+    "kanji": "境",
+    "partOfSpeech": "名",
+    "translation": "边界",
+    "example": "境を接する(接壤)"
+  },
+  {
+    "word": "さかさ",
+    "kanji": "逆さ",
+    "partOfSpeech": "名・ナ形",
+    "translation": "颠倒",
+    "example": "逆さになる(颠倒)"
+  },
+  {
+    "word": "さかさま",
+    "kanji": "逆様",
+    "partOfSpeech": "名・ナ形",
+    "translation": "颠倒",
+    "example": "切手を逆さまに貼る(倒贴邮票)"
+  },
+  {
+    "word": "さかば",
+    "kanji": "酒場",
+    "partOfSpeech": "名",
+    "translation": "酒馆"
+  },
+  {
+    "word": "さき",
+    "kanji": "左記",
+    "partOfSpeech": "名",
+    "translation": "左面所书",
+    "example": "左記のとおり(如左)"
+  },
+  {
+    "word": "さきほど",
+    "kanji": "先程",
+    "partOfSpeech": "名",
+    "translation": "刚才"
+  },
+  {
+    "word": "さくいん",
+    "kanji": "索引",
+    "partOfSpeech": "名",
+    "translation": "索引"
+  },
+  {
+    "word": "さくじょ",
+    "kanji": "削除",
+    "partOfSpeech": "名・他サ",
+    "translation": "删除"
+  },
+  {
+    "word": "さくせい",
+    "kanji": "作成",
+    "partOfSpeech": "名・他サ",
+    "translation": "写,作",
+    "example": "報告書を作成する(写报告)"
+  },
+  {
+    "word": "さしつかえ",
+    "kanji": "差し支え",
+    "partOfSpeech": "名",
+    "translation": "妨碍"
+  },
+  {
+    "word": "さどう",
+    "kanji": "茶道",
+    "partOfSpeech": "名",
+    "translation": "茶道"
+  },
+  {
+    "word": "さどう",
+    "kanji": "作動",
+    "partOfSpeech": "名・自サ",
+    "translation": "运转",
+    "example": "エンジンが作動する(发动机运转)"
+  },
+  {
+    "word": "さばく",
+    "kanji": "砂漠",
+    "partOfSpeech": "名",
+    "translation": "沙漠"
+  },
+  {
+    "word": "さび",
+    "kanji": "錆",
+    "partOfSpeech": "名",
+    "translation": "锈"
+  },
+  {
+    "word": "さべつ",
+    "kanji": "差別",
+    "partOfSpeech": "名・他サ",
+    "translation": "区别;歧视",
+    "example": "差別をなくす(消灭歧视)",
+    "related": "人種 [じんしゅ 差別 (种族歧视)"
+  },
+  {
+    "word": "さほう",
+    "kanji": "作法",
+    "partOfSpeech": "名",
+    "translation": "礼貌"
+  },
+  {
+    "word": "さゆう",
+    "kanji": "左右",
+    "partOfSpeech": "名・他サ",
+    "translation": "左右;支配",
+    "example": "運命を左右する(支配命运)"
+  },
+  {
+    "word": "さんこう",
+    "kanji": "参考",
+    "partOfSpeech": "名",
+    "translation": "参考",
+    "example": "参考にする(作为参考,借鉴)"
+  },
+  {
+    "word": "さんち",
+    "kanji": "産地",
+    "partOfSpeech": "名",
+    "translation": "产地"
+  },
+  {
+    "word": "しあわせ",
+    "kanji": "幸せ",
+    "partOfSpeech": "名・ナ形",
+    "translation": "幸福",
+    "example": "幸せな家庭(幸福的家庭)"
+  },
+  {
+    "word": "しか",
+    "kanji": "鹿",
+    "partOfSpeech": "名",
+    "translation": "鹿"
+  },
+  {
+    "word": "しきち",
+    "kanji": "敷地",
+    "partOfSpeech": "名",
+    "translation": "地皮"
+  },
+  {
+    "word": "しきゅう",
+    "kanji": "支給",
+    "partOfSpeech": "名・他サ",
+    "translation": "支付",
+    "example": "給料を支給する(支付工资)"
+  },
+  {
+    "word": "じきゅう",
+    "kanji": "時給",
+    "partOfSpeech": "名",
+    "translation": "计时工资"
+  },
+  {
+    "word": "しこう",
+    "kanji": "思考",
+    "partOfSpeech": "名・自他サ",
+    "translation": "思考"
+  },
+  {
+    "word": "じさん",
+    "kanji": "持参",
+    "partOfSpeech": "名・他サ",
+    "translation": "带来(去)",
+    "example": "昼食は持参する(自备午饭)"
+  },
+  {
+    "word": "じじつ",
+    "kanji": "事実",
+    "partOfSpeech": "名",
+    "translation": "事实"
+  },
+  {
+    "word": "じしゃく",
+    "kanji": "磁石",
+    "partOfSpeech": "名",
+    "translation": "磁铁"
+  },
+  {
+    "word": "ししゅつ",
+    "kanji": "支出",
+    "partOfSpeech": "名・他サ",
+    "translation": "支出",
+    "related": "支出オーバー(超支)"
+  },
+  {
+    "word": "じしん",
+    "kanji": "自身",
+    "partOfSpeech": "名",
+    "translation": "自己"
+  },
+  {
+    "word": "しせい",
+    "kanji": "姿勢",
+    "partOfSpeech": "名",
+    "translation": "姿势"
+  },
+  {
+    "word": "しそう",
+    "kanji": "思想",
+    "partOfSpeech": "名",
+    "translation": "思想"
+  },
+  {
+    "word": "しそん",
+    "kanji": "子孫",
+    "partOfSpeech": "名",
+    "translation": "子孙"
+  },
+  {
+    "word": "じたい",
+    "kanji": "自体",
+    "partOfSpeech": "名",
+    "translation": "本身"
+  },
+  {
+    "word": "じたく",
+    "kanji": "自宅",
+    "partOfSpeech": "名",
+    "translation": "自己家"
+  },
+  {
+    "word": "じっけん",
+    "kanji": "実験",
+    "partOfSpeech": "名・他サ",
+    "translation": "实验"
+  },
+  {
+    "word": "じっさい",
+    "kanji": "実際",
+    "partOfSpeech": "名",
+    "translation": "实际"
+  },
+  {
+    "word": "じっし",
+    "kanji": "実施",
+    "partOfSpeech": "名・他サ",
+    "translation": "实施"
+  },
+  {
+    "word": "じっしゅう",
+    "kanji": "実習",
+    "partOfSpeech": "名・他サ",
+    "translation": "实习",
+    "example": "料理の実習をする(实习做菜)",
+    "related": "実習生 [せい]/见(实)习生"
+  },
+  {
+    "word": "じっせき",
+    "kanji": "実績",
+    "partOfSpeech": "名",
+    "translation": "实际成果"
+  },
+  {
+    "word": "しっぴつ",
+    "kanji": "執筆",
+    "partOfSpeech": "名・他サ",
+    "translation": "执笔",
+    "related": "執筆者 [しゃ] (执笔者; 撰稿人)"
+  },
+  {
+    "word": "じつぶつ",
+    "kanji": "実物",
+    "partOfSpeech": "名",
+    "translation": "实物"
+  },
+  {
+    "word": "しっぽ",
+    "kanji": "尻尾",
+    "partOfSpeech": "名",
+    "translation": "尾巴"
+  },
+  {
+    "word": "しつぼう",
+    "kanji": "失望",
+    "partOfSpeech": "名・自サ",
+    "translation": "失望",
+    "example": "わたしは君に失望した(我对你失望了)"
+  },
+  {
+    "word": "じどう",
+    "kanji": "児童",
+    "partOfSpeech": "名",
+    "translation": "儿童"
+  },
+  {
+    "word": "しなぎれ",
+    "kanji": "品切れ",
+    "partOfSpeech": "名",
+    "translation": "脱销"
+  },
+  {
+    "word": "しはい",
+    "kanji": "支配",
+    "partOfSpeech": "名・他サ",
+    "translation": "支配",
+    "example": "世の中を支配する(掌权治世)"
+  },
+  {
+    "word": "しばい",
+    "kanji": "芝居",
+    "partOfSpeech": "名",
+    "translation": "戏剧"
+  },
+  {
+    "word": "しばふ",
+    "kanji": "芝生",
+    "partOfSpeech": "名",
+    "translation": "草坪"
+  },
+  {
+    "word": "じばん",
+    "kanji": "地盤",
+    "partOfSpeech": "名",
+    "translation": "地基"
+  },
+  {
+    "word": "しへい",
+    "kanji": "紙幣",
+    "partOfSpeech": "名",
+    "translation": "纸币"
+  },
+  {
+    "word": "しほん",
+    "kanji": "資本",
+    "partOfSpeech": "名",
+    "translation": "资本"
+  },
+  {
+    "word": "しゃしょう",
+    "kanji": "車掌",
+    "partOfSpeech": "名",
+    "translation": "乘务员"
+  },
+  {
+    "word": "しゃっきん",
+    "kanji": "借金",
+    "partOfSpeech": "名・自サ",
+    "translation": "借钱",
+    "example": "借金がある(有负债)"
+  },
+  {
+    "word": "しゃっくり",
+    "kanji": "しゃっくり",
+    "partOfSpeech": "名・自サ",
+    "translation": "打嗝",
+    "example": "しゃっくりが出る(打嗝儿)"
+  },
+  {
+    "word": "じゃんけん",
+    "kanji": "じゃんけん",
+    "partOfSpeech": "名・自サ",
+    "translation": "猜拳",
+    "example": "じゃんけんをする(猜拳); じゃんけんで決める (猜拳决定)"
+  },
+  {
+    "word": "じゅう",
+    "kanji": "銃",
+    "partOfSpeech": "名",
+    "translation": "枪"
+  },
+  {
+    "word": "しゅうかい",
+    "kanji": "集会",
+    "partOfSpeech": "名・自サ",
+    "translation": "集会",
+    "related": "集会所 [しょ] (集会地)"
+  },
+  {
+    "word": "しゅうし",
+    "kanji": "修士",
+    "partOfSpeech": "名",
+    "translation": "硕士"
+  },
+  {
+    "word": "しゅうせい",
+    "kanji": "修正",
+    "partOfSpeech": "名・他サ",
+    "translation": "修正"
+  },
+  {
+    "word": "じゅうたい",
+    "kanji": "渋滞",
+    "partOfSpeech": "名・自サ",
+    "translation": "拥堵",
+    "example": "交通 [こうつう] 渋滞 (塞车)"
+  },
+  {
+    "word": "しゅうだん",
+    "kanji": "集団",
+    "partOfSpeech": "名",
+    "translation": "集体"
+  },
+  {
+    "word": "しゅうちゃく",
+    "kanji": "執着",
+    "partOfSpeech": "名・自サ",
+    "translation": "执着,留恋",
+    "example": "生に執着する(贪生)"
+  },
+  {
+    "word": "しゅうちゅう",
+    "kanji": "集中",
+    "partOfSpeech": "名・自他サ",
+    "translation": "集中"
+  },
+  {
+    "word": "じゅうやく",
+    "kanji": "重役",
+    "partOfSpeech": "名",
+    "translation": "重任者"
+  },
+  {
+    "word": "しゅうりょう",
+    "kanji": "終了",
+    "partOfSpeech": "名・自他サ",
+    "translation": "结束"
+  },
+  {
+    "word": "じゅうりょう",
+    "kanji": "重量",
+    "partOfSpeech": "名",
+    "translation": "重量"
+  },
+  {
+    "word": "じゅうりょく",
+    "kanji": "重力",
+    "partOfSpeech": "名",
+    "translation": "重力"
+  },
+  {
+    "word": "しゅぎ",
+    "kanji": "主義",
+    "partOfSpeech": "名",
+    "translation": "主义"
+  },
+  {
+    "word": "しゅざい",
+    "kanji": "取材",
+    "partOfSpeech": "名・自他サ",
+    "translation": "采访",
+    "related": "取材記者(采访记者)"
+  },
+  {
+    "word": "しゅしょう",
+    "kanji": "首相",
+    "partOfSpeech": "名",
+    "translation": "首相"
+  },
+  {
+    "word": "しゅじんこう",
+    "kanji": "主人公",
+    "partOfSpeech": "名",
+    "translation": "主人公"
+  },
+  {
+    "word": "しゅっか",
+    "kanji": "出荷",
+    "partOfSpeech": "名・他サ",
+    "translation": "出货",
+    "related": "出荷量 [りょう] (出货量;上市量)\n入荷[にゅうか (进货)"
+  },
+  {
+    "word": "しゅっせ",
+    "kanji": "出世",
+    "partOfSpeech": "名・自サ",
+    "translation": "发迹",
+    "example": "出世が早い(很快发迹;地位升得快)"
+  },
+  {
+    "word": "しゅっちょう",
+    "kanji": "出張",
+    "partOfSpeech": "名・自サ",
+    "translation": "出差",
+    "related": "出張先 [さき (出差地)"
+  },
+  {
+    "word": "しゅやく",
+    "kanji": "主役",
+    "partOfSpeech": "名",
+    "translation": "主角"
+  },
+  {
+    "word": "じゅよう",
+    "kanji": "需要",
+    "partOfSpeech": "名",
+    "translation": "需要",
+    "example": "需要に応える(满足需求)"
+  },
+  {
+    "word": "じゅん",
+    "kanji": "順",
+    "partOfSpeech": "名",
+    "translation": "顺序"
+  },
+  {
+    "word": "しゅんかん",
+    "kanji": "瞬間",
+    "partOfSpeech": "名",
+    "translation": "瞬间"
+  },
+  {
+    "word": "じゅんじょ",
+    "kanji": "順序",
+    "partOfSpeech": "名",
+    "translation": "顺序"
+  },
+  {
+    "word": "しょうがい",
+    "kanji": "障害",
+    "partOfSpeech": "名",
+    "translation": "障碍,损害"
+  },
+  {
+    "word": "しょうがくきん",
+    "kanji": "奨学金",
+    "partOfSpeech": "名",
+    "translation": "奖学金"
+  },
+  {
+    "word": "しょうがくせい",
+    "kanji": "小学生",
+    "partOfSpeech": "名",
+    "translation": "小学生"
+  },
+  {
+    "word": "じょうき",
+    "kanji": "蒸気",
+    "partOfSpeech": "名",
+    "translation": "蒸汽"
+  },
+  {
+    "word": "じょうぎ",
+    "kanji": "定規",
+    "partOfSpeech": "名",
+    "translation": "规尺,尺"
+  },
+  {
+    "word": "しょうぎょう",
+    "kanji": "商業",
+    "partOfSpeech": "名",
+    "translation": "商业"
+  },
+  {
+    "word": "じょうきょう",
+    "kanji": "状況",
+    "partOfSpeech": "名",
+    "translation": "状况"
+  },
+  {
+    "word": "しょうきん",
+    "kanji": "賞金",
+    "partOfSpeech": "名",
+    "translation": "奖金"
+  },
+  {
+    "word": "しょうしか",
+    "kanji": "少子化",
+    "partOfSpeech": "名",
+    "translation": "少子化"
+  },
+  {
+    "word": "しょうしゃ",
+    "kanji": "商社",
+    "partOfSpeech": "名",
+    "translation": "商社"
+  },
+  {
+    "word": "じょうしょう",
+    "kanji": "上昇",
+    "partOfSpeech": "名・自サ",
+    "translation": "上升",
+    "related": "下降 [かこう] (下降)"
+  },
+  {
+    "word": "しょうてん",
+    "kanji": "焦点",
+    "partOfSpeech": "名",
+    "translation": "焦点",
+    "example": "話題の焦点(话题的中心)"
+  },
+  {
+    "word": "しょうどく",
+    "kanji": "消毒",
+    "partOfSpeech": "名・他サ",
+    "translation": "消毒"
+  },
+  {
+    "word": "しょうとつ",
+    "kanji": "衝突",
+    "partOfSpeech": "名・自サ",
+    "translation": "碰撞,冲撞",
+    "example": "意見が衝突する(意见不合)"
+  },
+  {
+    "word": "しょうにん",
+    "kanji": "承認",
+    "partOfSpeech": "名・他サ",
+    "translation": "承认;批准",
+    "example": "承認を求める(请求批准)"
+  },
+  {
+    "word": "しょうにんずう",
+    "kanji": "少人数",
+    "partOfSpeech": "名",
+    "translation": "人数少",
+    "related": "大人数 [おおにんずう (人数多)"
+  },
+  {
+    "word": "しょうはい",
+    "kanji": "勝敗",
+    "partOfSpeech": "名",
+    "translation": "胜败",
+    "example": "勝敗を決する(决胜负)"
+  },
+  {
+    "word": "しょうもう",
+    "kanji": "消耗",
+    "partOfSpeech": "名・自他サ",
+    "translation": "消耗"
+  },
+  {
+    "word": "しょうりゃく",
+    "kanji": "省略",
+    "partOfSpeech": "名・他サ",
+    "translation": "省略"
+  },
+  {
+    "word": "じょおう",
+    "kanji": "女王",
+    "partOfSpeech": "名",
+    "translation": "女王"
+  },
+  {
+    "word": "しょくえん",
+    "kanji": "食塩",
+    "partOfSpeech": "名",
+    "translation": "食盐"
+  },
+  {
+    "word": "しょくたく",
+    "kanji": "食卓",
+    "partOfSpeech": "名",
+    "translation": "餐桌"
+  },
+  {
+    "word": "しょくにん",
+    "kanji": "職人",
+    "partOfSpeech": "名",
+    "translation": "工匠,手艺人"
+  },
+  {
+    "word": "しょくば",
+    "kanji": "職場",
+    "partOfSpeech": "名",
+    "translation": "职场"
+  },
+  {
+    "word": "しょくもつ",
+    "kanji": "食物",
+    "partOfSpeech": "名",
+    "translation": "食物"
+  },
+  {
+    "word": "しょたいめん",
+    "kanji": "初対面",
+    "partOfSpeech": "名",
+    "translation": "初次见面"
+  },
+  {
+    "word": "しょてい",
+    "kanji": "所定",
+    "partOfSpeech": "名",
+    "translation": "指定",
+    "example": "所定の場所(指定的地点)"
+  },
+  {
+    "word": "しょめい",
+    "kanji": "署名",
+    "partOfSpeech": "名・自他サ",
+    "translation": "签名"
+  },
+  {
+    "word": "しょもつ",
+    "kanji": "書物",
+    "partOfSpeech": "名",
+    "translation": "书籍"
+  },
+  {
+    "word": "しょり",
+    "kanji": "処理",
+    "partOfSpeech": "名・他サ",
+    "translation": "处理"
+  },
+  {
+    "word": "しょるい",
+    "kanji": "書類",
+    "partOfSpeech": "名",
+    "translation": "文件"
+  },
+  {
+    "word": "しらが",
+    "kanji": "白髪",
+    "partOfSpeech": "名",
+    "translation": "白发"
+  },
+  {
+    "word": "しろ",
+    "kanji": "城",
+    "partOfSpeech": "名",
+    "translation": "城堡",
+    "example": "城を築く(筑城)"
+  },
+  {
+    "word": "しろうと",
+    "kanji": "素人",
+    "partOfSpeech": "名",
+    "translation": "外行"
+  },
+  {
+    "word": "しわ",
+    "kanji": "しわ",
+    "partOfSpeech": "名",
+    "translation": "皱纹"
+  },
+  {
+    "word": "しんこう",
+    "kanji": "信仰",
+    "partOfSpeech": "名・他サ",
+    "translation": "信仰",
+    "related": "信仰心 [しん (信仰之心)"
+  },
+  {
+    "word": "しんこう",
+    "kanji": "進行",
+    "partOfSpeech": "名・自サ",
+    "translation": "进行",
+    "example": "進行が早い(进展迅速)"
+  },
+  {
+    "word": "しんこく",
+    "kanji": "申告",
+    "partOfSpeech": "名・他サ",
+    "translation": "申报",
+    "related": "申告書 [しょ] (申报书)"
+  },
+  {
+    "word": "しんさ",
+    "kanji": "審査",
+    "partOfSpeech": "名・他サ",
+    "translation": "审查",
+    "related": "審査員 [いん](评委)"
+  },
+  {
+    "word": "じんざい",
+    "kanji": "人材",
+    "partOfSpeech": "名",
+    "translation": "人才"
+  },
+  {
+    "word": "しんそつ",
+    "kanji": "新卒",
+    "partOfSpeech": "名",
+    "translation": "新毕业生"
+  },
+  {
+    "word": "しんたい",
+    "kanji": "身体",
+    "partOfSpeech": "名",
+    "translation": "身体"
+  },
+  {
+    "word": "しんだん",
+    "kanji": "診断",
+    "partOfSpeech": "名・他サ",
+    "translation": "诊断",
+    "related": "診断書 [しょ] (诊断书)"
+  },
+  {
+    "word": "しんにゅう",
+    "kanji": "侵入",
+    "partOfSpeech": "名・自サ",
+    "translation": "侵入",
+    "related": "侵入者 [しゃ] (入侵者)"
+  },
+  {
+    "word": "しんぱん",
+    "kanji": "審判",
+    "partOfSpeech": "名・他サ",
+    "translation": "审判",
+    "example": "審判を待つ(等待审判)"
+  },
+  {
+    "word": "じんぶつ",
+    "kanji": "人物",
+    "partOfSpeech": "名",
+    "translation": "人物"
+  },
+  {
+    "word": "じんめい",
+    "kanji": "人命",
+    "partOfSpeech": "名",
+    "translation": "人命"
+  },
+  {
+    "word": "しんや",
+    "kanji": "深夜",
+    "partOfSpeech": "名",
+    "translation": "深夜"
+  },
+  {
+    "word": "しんよう",
+    "kanji": "信用",
+    "partOfSpeech": "名・他サ",
+    "translation": "信任"
+  },
+  {
+    "word": "しんらい",
+    "kanji": "信頼",
+    "partOfSpeech": "名・他サ",
+    "translation": "信赖",
+    "example": "信頼を置く(信得过;置信)"
+  },
+  {
+    "word": "しんりん",
+    "kanji": "森林",
+    "partOfSpeech": "名",
+    "translation": "森林"
+  },
+  {
+    "word": "じんるい",
+    "kanji": "人類",
+    "partOfSpeech": "名",
+    "translation": "人类"
+  },
+  {
+    "word": "ず",
+    "kanji": "図",
+    "partOfSpeech": "名",
+    "translation": "图"
+  },
+  {
+    "word": "すいがら",
+    "kanji": "吸殻",
+    "partOfSpeech": "名",
+    "translation": "烟蒂"
+  },
+  {
+    "word": "すいさん",
+    "kanji": "水産",
+    "partOfSpeech": "名",
+    "translation": "水产"
+  },
+  {
+    "word": "すいじゅん",
+    "kanji": "水準",
+    "partOfSpeech": "名",
+    "translation": "水准"
+  },
+  {
+    "word": "すいじょうき",
+    "kanji": "水蒸気",
+    "partOfSpeech": "名",
+    "translation": "水蒸气"
+  },
+  {
+    "word": "すいせん",
+    "kanji": "推薦",
+    "partOfSpeech": "名・他サ",
+    "translation": "推荐",
+    "related": "推薦状 [じょう] (介绍信)"
+  },
+  {
+    "word": "すいちょく",
+    "kanji": "垂直",
+    "partOfSpeech": "名・ナ形",
+    "translation": "垂直",
+    "related": "水平(水平)"
+  },
+  {
+    "word": "すいめん",
+    "kanji": "水面",
+    "partOfSpeech": "名",
+    "translation": "水面"
+  },
+  {
+    "word": "すうじ",
+    "kanji": "数字",
+    "partOfSpeech": "名",
+    "translation": "数字"
+  },
+  {
+    "word": "すえ",
+    "kanji": "末",
+    "partOfSpeech": "名",
+    "translation": "末尾"
+  },
+  {
+    "word": "すがた",
+    "kanji": "姿",
+    "partOfSpeech": "名",
+    "translation": "姿态"
+  },
+  {
+    "word": "ずかん",
+    "kanji": "図鑑",
+    "partOfSpeech": "名",
+    "translation": "图鉴"
+  },
+  {
+    "word": "すきま",
+    "kanji": "隙間",
+    "partOfSpeech": "名",
+    "translation": "缝隙",
+    "example": "仕事隙間(工作间隙)"
+  },
+  {
+    "word": "ずけい",
+    "kanji": "図形",
+    "partOfSpeech": "名",
+    "translation": "图形"
+  },
+  {
+    "word": "すじ",
+    "kanji": "筋",
+    "partOfSpeech": "名",
+    "translation": "纹理;条理",
+    "example": "筋がたたない(不合逻辑)"
+  },
+  {
+    "word": "ずつう",
+    "kanji": "頭痛",
+    "partOfSpeech": "名",
+    "translation": "头痛"
+  },
+  {
+    "word": "ずのう",
+    "kanji": "頭脳",
+    "partOfSpeech": "名",
+    "translation": "头脑"
+  },
+  {
+    "word": "ずひょう",
+    "kanji": "図表",
+    "partOfSpeech": "名",
+    "translation": "图表"
+  },
+  {
+    "word": "すみ",
+    "kanji": "炭",
+    "partOfSpeech": "名",
+    "translation": "炭"
+  },
+  {
+    "word": "すんぽう",
+    "kanji": "寸法",
+    "partOfSpeech": "名",
+    "translation": "尺寸",
+    "example": "寸法を量る(量尺寸)"
+  },
+  {
+    "word": "せいう",
+    "kanji": "晴雨",
+    "partOfSpeech": "名",
+    "translation": "晴雨"
+  },
+  {
+    "word": "せいかい",
+    "kanji": "正解",
+    "partOfSpeech": "名",
+    "translation": "正确答案"
+  },
+  {
+    "word": "せいき",
+    "kanji": "世紀",
+    "partOfSpeech": "名",
+    "translation": "世纪"
+  },
+  {
+    "word": "せいきゅう",
+    "kanji": "請求",
+    "partOfSpeech": "名・他サ",
+    "translation": "要求,索取",
+    "example": "支払いを請求する(要求付款)",
+    "related": "請求書 [しょ] (账单;付款通知单)"
+  },
+  {
+    "word": "せいけつ",
+    "kanji": "清潔",
+    "partOfSpeech": "名・ナ形",
+    "translation": "干净"
+  },
+  {
+    "word": "せいげん",
+    "kanji": "制限",
+    "partOfSpeech": "名・他サ",
+    "translation": "限制",
+    "example": "輸入 [ゆにゅう] 制限(限制进口)"
+  },
+  {
+    "word": "せいさく",
+    "kanji": "製作",
+    "partOfSpeech": "名・他サ",
+    "translation": "制作"
+  },
+  {
+    "word": "ぜいたく",
+    "kanji": "贅沢",
+    "partOfSpeech": "名・ナ形",
+    "translation": "奢侈",
+    "example": "贅沢な生活(奢侈的生活)"
+  },
+  {
+    "word": "せいど",
+    "kanji": "制度",
+    "partOfSpeech": "名",
+    "translation": "制度"
+  },
+  {
+    "word": "せいのう",
+    "kanji": "性能",
+    "partOfSpeech": "名",
+    "translation": "性能",
+    "example": "性能がよい(性能好)"
+  },
+  {
+    "word": "せいび",
+    "kanji": "整備",
+    "partOfSpeech": "名・他サ",
+    "translation": "配备",
+    "example": "部品を整備する(修整零部件)"
+  },
+  {
+    "word": "せいめい",
+    "kanji": "生命",
+    "partOfSpeech": "名",
+    "translation": "生命"
+  },
+  {
+    "word": "せいりつ",
+    "kanji": "成立",
+    "partOfSpeech": "名・自サ",
+    "translation": "成立"
+  },
+  {
+    "word": "せいれき",
+    "kanji": "西暦",
+    "partOfSpeech": "名",
+    "translation": "西历"
+  },
+  {
+    "word": "せきたん",
+    "kanji": "石炭",
+    "partOfSpeech": "名",
+    "translation": "煤炭"
+  },
+  {
+    "word": "せけん",
+    "kanji": "世間",
+    "partOfSpeech": "名",
+    "translation": "社会,世上"
+  },
+  {
+    "word": "せっきゃく",
+    "kanji": "接客",
+    "partOfSpeech": "名・自サ",
+    "translation": "接待顾客"
+  },
+  {
+    "word": "せっきん",
+    "kanji": "接近",
+    "partOfSpeech": "名・自サ",
+    "translation": "接近",
+    "example": "台風が接近する(台风靠近了)"
+  },
+  {
+    "word": "せっけい",
+    "kanji": "設計",
+    "partOfSpeech": "名・他サ",
+    "translation": "设计"
+  },
+  {
+    "word": "ぜっこうちょう",
+    "kanji": "絶好調",
+    "partOfSpeech": "名・ナ形",
+    "translation": "势头大好"
+  },
+  {
+    "word": "せつぞく",
+    "kanji": "接続",
+    "partOfSpeech": "名・自他サ",
+    "translation": "继续;连结",
+    "example": "･･･に接続する(和………………连接)",
+    "related": "接続駅 [えき] (联运站)"
+  },
+  {
+    "word": "せったい",
+    "kanji": "接待",
+    "partOfSpeech": "名・他サ",
+    "translation": "招待",
+    "example": "客を接待する(招待客人)"
+  },
+  {
+    "word": "せっとく",
+    "kanji": "説得",
+    "partOfSpeech": "名・他サ",
+    "translation": "说服",
+    "example": "説得される(被说服)",
+    "related": "説得力 [りょく] (说服力)"
+  },
+  {
+    "word": "せつび",
+    "kanji": "設備",
+    "partOfSpeech": "名",
+    "translation": "设备"
+  },
+  {
+    "word": "ぜんしゃ",
+    "kanji": "前者",
+    "partOfSpeech": "名",
+    "translation": "前者",
+    "related": "後者 [こうしゃ] (后者)"
+  },
+  {
+    "word": "ぜんしん",
+    "kanji": "前進",
+    "partOfSpeech": "名・自サ",
+    "translation": "前进",
+    "example": "一歩前進する(前进一步)",
+    "related": "後退(后退)"
+  },
+  {
+    "word": "せんぞ",
+    "kanji": "先祖",
+    "partOfSpeech": "名",
+    "translation": "祖先"
+  },
+  {
+    "word": "せんたん",
+    "kanji": "先端",
+    "partOfSpeech": "名",
+    "translation": "顶端;尖端"
+  },
+  {
+    "word": "せんてい",
+    "kanji": "選定",
+    "partOfSpeech": "名・他サ",
+    "translation": "选定",
+    "example": "図書を選定する(选定图书)"
+  },
+  {
+    "word": "せんとう",
+    "kanji": "先頭",
+    "partOfSpeech": "名",
+    "translation": "最前头"
+  },
+  {
+    "word": "ぜんぱん",
+    "kanji": "全般",
+    "partOfSpeech": "名",
+    "translation": "普遍;全面;所有",
+    "example": "仕事全般(全部工作)"
+  },
+  {
+    "word": "ぜんりょく",
+    "kanji": "全力",
+    "partOfSpeech": "名",
+    "translation": "全力",
+    "example": "全力を尽くす(竭尽全力)"
+  },
+  {
+    "word": "ぞう",
+    "kanji": "象",
+    "partOfSpeech": "名",
+    "translation": "象"
+  },
+  {
+    "word": "そうい",
+    "kanji": "相違",
+    "partOfSpeech": "名",
+    "translation": "差异",
+    "example": "非常な相違がある(有很大差异)"
+  },
+  {
+    "word": "ぞうか",
+    "kanji": "増加",
+    "partOfSpeech": "名・自他サ",
+    "translation": "增加",
+    "related": "減少 [げんしょう] (减少)"
+  },
+  {
+    "word": "ぞうげん",
+    "kanji": "増減",
+    "partOfSpeech": "名・自他サ",
+    "translation": "增减"
+  },
+  {
+    "word": "そうさく",
+    "kanji": "創作",
+    "partOfSpeech": "名・他サ",
+    "translation": "创作",
+    "related": "創作力 [りょく] (创造力)"
+  },
+  {
+    "word": "ぞうせん",
+    "kanji": "造船",
+    "partOfSpeech": "名・自サ",
+    "translation": "造船"
+  },
+  {
+    "word": "ぞうだい",
+    "kanji": "増大",
+    "partOfSpeech": "名・自他サ",
+    "translation": "増大,增多"
+  },
+  {
+    "word": "そうち",
+    "kanji": "装置",
+    "partOfSpeech": "名",
+    "translation": "装置"
+  },
+  {
+    "word": "そうてい",
+    "kanji": "想定",
+    "partOfSpeech": "名・他サ",
+    "translation": "设想"
+  },
+  {
+    "word": "ぞくしゅつ",
+    "kanji": "続出",
+    "partOfSpeech": "名・自サ",
+    "translation": "接连发生",
+    "example": "事故が続出している(接连发生事故)"
+  },
+  {
+    "word": "そくりょく",
+    "kanji": "速力",
+    "partOfSpeech": "名",
+    "translation": "速度"
+  },
+  {
+    "word": "そしき",
+    "kanji": "組織",
+    "partOfSpeech": "名",
+    "translation": "组织"
+  },
+  {
+    "word": "そしつ",
+    "kanji": "素質",
+    "partOfSpeech": "名",
+    "translation": "素质;天分"
+  },
+  {
+    "word": "そせん",
+    "kanji": "祖先",
+    "partOfSpeech": "名",
+    "translation": "祖先",
+    "related": "子孫 [しそん (子孙)"
+  },
+  {
+    "word": "そん",
+    "kanji": "損",
+    "partOfSpeech": "名・ナ形",
+    "translation": "亏损;不利的",
+    "example": "損になる(吃亏)\n損をして得を取る(吃小亏占大便宜)",
+    "related": "得 [とく] (利益)"
+  },
+  {
+    "word": "そんがい",
+    "kanji": "損害",
+    "partOfSpeech": "名",
+    "translation": "损失"
+  },
+  {
+    "word": "そんけい",
+    "kanji": "尊敬",
+    "partOfSpeech": "名・他サ",
+    "translation": "尊敬",
+    "example": "尊敬をうける(受到尊敬)"
+  },
+  {
+    "word": "そんざい",
+    "kanji": "存在",
+    "partOfSpeech": "名・自サ",
+    "translation": "存在"
+  },
+  {
+    "word": "そんちょう",
+    "kanji": "尊重",
+    "partOfSpeech": "名・他サ",
+    "translation": "尊重"
+  },
+  {
+    "word": "そんとく",
+    "kanji": "損得",
+    "partOfSpeech": "名",
+    "translation": "损益"
+  },
+  {
+    "word": "たい",
+    "kanji": "対",
+    "partOfSpeech": "名",
+    "translation": "对,比"
+  },
+  {
+    "word": "だいいちいんしょう",
+    "kanji": "第一印象",
+    "partOfSpeech": "名",
+    "translation": "第一印象"
+  },
+  {
+    "word": "だいがくいん",
+    "kanji": "大学院",
+    "partOfSpeech": "名",
+    "translation": "研究生院"
+  },
+  {
+    "word": "たいかん",
+    "kanji": "体感",
+    "partOfSpeech": "名・自サ",
+    "translation": "身体感觉;体感"
+  },
+  {
+    "word": "たいき",
+    "kanji": "大気",
+    "partOfSpeech": "名",
+    "translation": "大气"
+  },
+  {
+    "word": "たいしょう",
+    "kanji": "対照",
+    "partOfSpeech": "名・他サ",
+    "translation": "对照",
+    "example": "おもしろい対照(有趣的对比)"
+  },
+  {
+    "word": "だいしょう",
+    "kanji": "大小",
+    "partOfSpeech": "名",
+    "translation": "大小"
+  },
+  {
+    "word": "だいじん",
+    "kanji": "大臣",
+    "partOfSpeech": "名",
+    "translation": "大臣"
+  },
+  {
+    "word": "たいせい",
+    "kanji": "体制",
+    "partOfSpeech": "名",
+    "translation": "体制"
+  },
+  {
+    "word": "たいせき",
+    "kanji": "体積",
+    "partOfSpeech": "名",
+    "translation": "体积"
+  },
+  {
+    "word": "たいせん",
+    "kanji": "大戦",
+    "partOfSpeech": "名",
+    "translation": "大战"
+  },
+  {
+    "word": "たいせん",
+    "kanji": "対戦",
+    "partOfSpeech": "名・自サ",
+    "translation": "竞赛",
+    "related": "対戦チーム(比赛的两队)"
+  },
+  {
+    "word": "たいそう",
+    "kanji": "体操",
+    "partOfSpeech": "名",
+    "translation": "体操",
+    "example": "毎朝体操をする(我每天做早操)"
+  },
+  {
+    "word": "たいはん",
+    "kanji": "大半",
+    "partOfSpeech": "名",
+    "translation": "大半、多半"
+  },
+  {
+    "word": "だいぶぶん",
+    "kanji": "大部分",
+    "partOfSpeech": "名",
+    "translation": "大部分"
+  },
+  {
+    "word": "たいぼく",
+    "kanji": "大木",
+    "partOfSpeech": "名",
+    "translation": "大树"
+  },
+  {
+    "word": "だいめいし",
+    "kanji": "代名詞",
+    "partOfSpeech": "名",
+    "translation": "代名词"
+  },
+  {
+    "word": "だえん",
+    "kanji": "楕円",
+    "partOfSpeech": "名",
+    "translation": "椭圆"
+  },
+  {
+    "word": "たき",
+    "kanji": "滝",
+    "partOfSpeech": "名",
+    "translation": "瀑布"
+  },
+  {
+    "word": "たちば",
+    "kanji": "立場",
+    "partOfSpeech": "名",
+    "translation": "立场"
+  },
+  {
+    "word": "だっせん",
+    "kanji": "脱線",
+    "partOfSpeech": "名・自サ",
+    "translation": "脱轨",
+    "example": "列車が脱線する(火车脱轨)"
+  },
+  {
+    "word": "たに",
+    "kanji": "谷",
+    "partOfSpeech": "名",
+    "translation": "山谷"
+  },
+  {
+    "word": "たにん",
+    "kanji": "他人",
+    "partOfSpeech": "名",
+    "translation": "他人"
+  },
+  {
+    "word": "たば",
+    "kanji": "束",
+    "partOfSpeech": "名",
+    "translation": "把,束"
+  },
+  {
+    "word": "たはた",
+    "kanji": "田畑",
+    "partOfSpeech": "名",
+    "translation": "水田和旱田"
+  },
+  {
+    "word": "たより",
+    "kanji": "便り",
+    "partOfSpeech": "名",
+    "translation": "消息;信",
+    "example": "家からの便り(家书)"
+  },
+  {
+    "word": "たんい",
+    "kanji": "単位",
+    "partOfSpeech": "名",
+    "translation": "学分"
+  },
+  {
+    "word": "だんかい",
+    "kanji": "段階",
+    "partOfSpeech": "名",
+    "translation": "阶段"
+  },
+  {
+    "word": "たんしょ",
+    "kanji": "短所",
+    "partOfSpeech": "名",
+    "translation": "短处",
+    "related": "長所 [ちょうしょ (长处)"
+  },
+  {
+    "word": "だんじょ",
+    "kanji": "男女",
+    "partOfSpeech": "名",
+    "translation": "男女"
+  },
+  {
+    "word": "たんぼ",
+    "kanji": "田んぼ",
+    "partOfSpeech": "名",
+    "translation": "田地"
+  },
+  {
+    "word": "ちい",
+    "kanji": "地位",
+    "partOfSpeech": "名",
+    "translation": "地位"
+  },
+  {
+    "word": "ちいき",
+    "kanji": "地域",
+    "partOfSpeech": "名",
+    "translation": "地方"
+  },
+  {
+    "word": "ちえ",
+    "kanji": "知恵",
+    "partOfSpeech": "名",
+    "translation": "智慧"
+  },
+  {
+    "word": "ちかごろ",
+    "kanji": "近頃",
+    "partOfSpeech": "名",
+    "translation": "近日"
+  },
+  {
+    "word": "ちく",
+    "kanji": "地区",
+    "partOfSpeech": "名",
+    "translation": "地区"
+  },
+  {
+    "word": "ちじ",
+    "kanji": "知事",
+    "partOfSpeech": "名",
+    "translation": "知事(地区行政长官)"
+  },
+  {
+    "word": "ちしき",
+    "kanji": "知識",
+    "partOfSpeech": "名",
+    "translation": "知识"
+  },
+  {
+    "word": "ちたい",
+    "kanji": "地帯",
+    "partOfSpeech": "名",
+    "translation": "地带,地区"
+  },
+  {
+    "word": "ちてん",
+    "kanji": "地点",
+    "partOfSpeech": "名",
+    "translation": "地点"
+  },
+  {
+    "word": "ちのう",
+    "kanji": "知能",
+    "partOfSpeech": "名",
+    "translation": "智力",
+    "example": "知能が低い(智力低)"
+  },
+  {
+    "word": "ちへいせん",
+    "kanji": "地平線",
+    "partOfSpeech": "名",
+    "translation": "地平线"
+  },
+  {
+    "word": "ちょうき",
+    "kanji": "長期",
+    "partOfSpeech": "名",
+    "translation": "长期",
+    "related": "短期 [たんき】(短期)"
+  },
+  {
+    "word": "ちょうこく",
+    "kanji": "彫刻",
+    "partOfSpeech": "名・自他サ",
+    "translation": "雕刻"
+  },
+  {
+    "word": "ちょうじかん",
+    "kanji": "長時間",
+    "partOfSpeech": "名",
+    "translation": "长时间",
+    "related": "短時間 [たんじかん (短时间)"
+  },
+  {
+    "word": "ちょうじょう",
+    "kanji": "頂上",
+    "partOfSpeech": "名",
+    "translation": "顶峰"
+  },
+  {
+    "word": "ちょうせつ",
+    "kanji": "調節",
+    "partOfSpeech": "名・他サ",
+    "translation": "调节",
+    "example": "音量を調節する(调节音量)",
+    "related": "調整 [ちょうせい (调整)"
+  },
+  {
+    "word": "ちょうてん",
+    "kanji": "頂点",
+    "partOfSpeech": "名",
+    "translation": "顶点;极点"
+  },
+  {
+    "word": "ちょうほうけい",
+    "kanji": "長方形",
+    "partOfSpeech": "名",
+    "translation": "长方形"
+  },
+  {
+    "word": "ちょうり",
+    "kanji": "調理",
+    "partOfSpeech": "名・他サ",
+    "translation": "烹调",
+    "example": "魚を調理する(做鱼)",
+    "related": "調理人 [にん (厨师)"
+  },
+  {
+    "word": "ちりょう",
+    "kanji": "治療",
+    "partOfSpeech": "名・他サ",
+    "translation": "治疗"
+  },
+  {
+    "word": "ついか",
+    "kanji": "追加",
+    "partOfSpeech": "名・他サ",
+    "translation": "追加",
+    "example": "人員を追加する(添补人员)"
+  },
+  {
+    "word": "つうか",
+    "kanji": "通貨",
+    "partOfSpeech": "名",
+    "translation": "通货"
+  },
+  {
+    "word": "つうがく",
+    "kanji": "通学",
+    "partOfSpeech": "名・自サ",
+    "translation": "走读"
+  },
+  {
+    "word": "つうじょう",
+    "kanji": "通常",
+    "partOfSpeech": "名",
+    "translation": "通常,一般"
+  },
+  {
+    "word": "つかれ",
+    "kanji": "疲れ",
+    "partOfSpeech": "名",
+    "translation": "疲劳",
+    "example": "お疲れさま(你辛苦了)"
+  },
+  {
+    "word": "つきあたり",
+    "kanji": "突き当たり",
+    "partOfSpeech": "名",
+    "translation": "尽头"
+  },
+  {
+    "word": "つば",
+    "kanji": "唾",
+    "partOfSpeech": "名",
+    "translation": "唾液"
+  },
+  {
+    "word": "つぶ",
+    "kanji": "粒",
+    "partOfSpeech": "名",
+    "translation": "粒",
+    "example": "米の粒(米粒)"
+  },
+  {
+    "word": "つみ",
+    "kanji": "罪",
+    "partOfSpeech": "名",
+    "translation": "罪",
+    "example": "罪を犯す(犯罪)"
+  },
+  {
+    "word": "つみかさね",
+    "kanji": "積み重ね",
+    "partOfSpeech": "名",
+    "translation": "积累"
+  },
+  {
+    "word": "つや",
+    "kanji": "艶",
+    "partOfSpeech": "名",
+    "translation": "光泽"
+  },
+  {
+    "word": "つよみ",
+    "kanji": "強み",
+    "partOfSpeech": "名",
+    "translation": "强项"
+  },
+  {
+    "word": "つり",
+    "kanji": "釣り",
+    "partOfSpeech": "名",
+    "translation": "钓鱼"
+  },
+  {
+    "word": "つれ",
+    "kanji": "連れ",
+    "partOfSpeech": "名",
+    "translation": "同伴",
+    "example": "よい連れがある(有个好伴儿)"
+  },
+  {
+    "word": "てあて",
+    "kanji": "手当(て)",
+    "partOfSpeech": "名",
+    "translation": "津贴",
+    "example": "出張手当(出差津贴)"
+  },
+  {
+    "word": "ていか",
+    "kanji": "定価",
+    "partOfSpeech": "名",
+    "translation": "定价"
+  },
+  {
+    "word": "ていきゅうび",
+    "kanji": "定休日",
+    "partOfSpeech": "名",
+    "translation": "定期休息日"
+  },
+  {
+    "word": "ていこう",
+    "kanji": "抵抗",
+    "partOfSpeech": "名・自サ",
+    "translation": "抵抗;电阻"
+  },
+  {
+    "word": "ていし",
+    "kanji": "停止",
+    "partOfSpeech": "名・自他サ",
+    "translation": "停止"
+  },
+  {
+    "word": "てきよう",
+    "kanji": "適用",
+    "partOfSpeech": "名・他サ",
+    "translation": "适用"
+  },
+  {
+    "word": "でし",
+    "kanji": "弟子",
+    "partOfSpeech": "名",
+    "translation": "弟子",
+    "example": "弟子になる(当徒弟)\n弟子入[い]り(拜师)"
+  },
+  {
+    "word": "てちょう",
+    "kanji": "手帳",
+    "partOfSpeech": "名",
+    "translation": "笔记本"
+  },
+  {
+    "word": "てつ",
+    "kanji": "鉄",
+    "partOfSpeech": "名",
+    "translation": "铁"
+  },
+  {
+    "word": "てつがく",
+    "kanji": "哲学",
+    "partOfSpeech": "名",
+    "translation": "哲学"
+  },
+  {
+    "word": "てっきょう",
+    "kanji": "鉄橋",
+    "partOfSpeech": "名",
+    "translation": "铁桥"
+  },
+  {
+    "word": "てづくり",
+    "kanji": "手作り",
+    "partOfSpeech": "名",
+    "translation": "手工制作",
+    "example": "手作りの酒(家酿的酒)"
+  },
+  {
+    "word": "てつづき",
+    "kanji": "手続き",
+    "partOfSpeech": "名",
+    "translation": "手续",
+    "example": "手続きをすませる (办好手续)"
+  },
+  {
+    "word": "てってい",
+    "kanji": "徹底",
+    "partOfSpeech": "名・自サ",
+    "translation": "彻底;贯彻"
+  },
+  {
+    "word": "てっぽう",
+    "kanji": "鉄砲",
+    "partOfSpeech": "名",
+    "translation": "步枪",
+    "example": "鉄砲を向ける(举枪瞄准)"
+  },
+  {
+    "word": "てつや",
+    "kanji": "徹夜",
+    "partOfSpeech": "名・自サ",
+    "translation": "熬夜",
+    "example": "徹夜で勉強する (熬夜学习)"
+  },
+  {
+    "word": "てま",
+    "kanji": "手間",
+    "partOfSpeech": "名",
+    "translation": "劳力和时间",
+    "example": "手間がかかる(费事)"
+  },
+  {
+    "word": "てんけん",
+    "kanji": "点検",
+    "partOfSpeech": "名・他サ",
+    "translation": "逐一检查",
+    "example": "点検を受ける(接受检查)"
+  },
+  {
+    "word": "てんこう",
+    "kanji": "天候",
+    "partOfSpeech": "名",
+    "translation": "天气"
+  },
+  {
+    "word": "でんし",
+    "kanji": "電子",
+    "partOfSpeech": "名",
+    "translation": "电子"
+  },
+  {
+    "word": "てんじょう",
+    "kanji": "天井",
+    "partOfSpeech": "名",
+    "translation": "天花板"
+  },
+  {
+    "word": "てんしょく",
+    "kanji": "転職",
+    "partOfSpeech": "名・自サ",
+    "translation": "转业,改行"
+  },
+  {
+    "word": "てんすう",
+    "kanji": "点数",
+    "partOfSpeech": "名",
+    "translation": "分数"
+  },
+  {
+    "word": "でんたく",
+    "kanji": "電卓",
+    "partOfSpeech": "名",
+    "translation": "台式计算器"
+  },
+  {
+    "word": "でんち",
+    "kanji": "電池",
+    "partOfSpeech": "名",
+    "translation": "电池"
+  },
+  {
+    "word": "てんぷ",
+    "kanji": "添付",
+    "partOfSpeech": "名・他サ",
+    "translation": "附上",
+    "example": "写真を添付する(附上照片)"
+  },
+  {
+    "word": "てんぽ",
+    "kanji": "店舗",
+    "partOfSpeech": "名",
+    "translation": "店铺"
+  },
+  {
+    "word": "でんりゅう",
+    "kanji": "電流",
+    "partOfSpeech": "名",
+    "translation": "电流",
+    "related": "電流計 [けい](电流表)"
+  },
+  {
+    "word": "でんりょく",
+    "kanji": "電力",
+    "partOfSpeech": "名",
+    "translation": "电力,电",
+    "related": "電力料金 [りょうきん] (电费)"
+  },
+  {
+    "word": "とういつ",
+    "kanji": "統一",
+    "partOfSpeech": "名・他サ",
+    "translation": "统一;集中",
+    "example": "思想を統一する (统一思想)"
+  },
+  {
+    "word": "どうかく",
+    "kanji": "同格",
+    "partOfSpeech": "名",
+    "translation": "同等资格"
+  },
+  {
+    "word": "とうげ",
+    "kanji": "峠",
+    "partOfSpeech": "名",
+    "translation": "山岭",
+    "example": "峠を越える(越过山岭)"
+  },
+  {
+    "word": "とうしょ",
+    "kanji": "投書",
+    "partOfSpeech": "名・自他サ",
+    "translation": "投稿",
+    "related": "投書欄 [らん](读者来信栏)"
+  },
+  {
+    "word": "どうとく",
+    "kanji": "道徳",
+    "partOfSpeech": "名",
+    "translation": "道德"
+  },
+  {
+    "word": "とうなん",
+    "kanji": "盗難",
+    "partOfSpeech": "名",
+    "translation": "失盗",
+    "example": "盗難にあう(被盗)"
+  },
+  {
+    "word": "とうばん",
+    "kanji": "当番",
+    "partOfSpeech": "名",
+    "translation": "值日生,值班"
+  },
+  {
+    "word": "とうひょう",
+    "kanji": "投票",
+    "partOfSpeech": "名・自サ",
+    "translation": "投票"
+  },
+  {
+    "word": "どうよう",
+    "kanji": "童謡",
+    "partOfSpeech": "名",
+    "translation": "童谣"
+  },
+  {
+    "word": "どうりょう",
+    "kanji": "同僚",
+    "partOfSpeech": "名",
+    "translation": "同事"
+  },
+  {
+    "word": "とうろく",
+    "kanji": "登録",
+    "partOfSpeech": "名・他サ",
+    "translation": "登录",
+    "related": "住民  じゅうみん」 登録(居民登记)"
+  },
+  {
+    "word": "とうろん",
+    "kanji": "討論",
+    "partOfSpeech": "名・他サ",
+    "translation": "讨论"
+  },
+  {
+    "word": "としょ",
+    "kanji": "図書",
+    "partOfSpeech": "名",
+    "translation": "图书"
+  },
+  {
+    "word": "とだな",
+    "kanji": "戸棚",
+    "partOfSpeech": "名",
+    "translation": "橱,柜"
+  },
+  {
+    "word": "とたん",
+    "kanji": "途端",
+    "partOfSpeech": "名",
+    "translation": "刚 时,就"
+  },
+  {
+    "word": "とら",
+    "kanji": "虎",
+    "partOfSpeech": "名",
+    "translation": "老虎"
+  },
+  {
+    "word": "どんぶり",
+    "kanji": "丼",
+    "partOfSpeech": "名",
+    "translation": "大碗;大碗盖饭",
+    "example": "うなぎ丼(鳗鱼盖饭)"
+  },
+  {
+    "word": "ながいき",
+    "kanji": "長生き",
+    "partOfSpeech": "名・自サ",
+    "translation": "长寿",
+    "example": "女は男より長生きする(女人比男人活得长)"
+  },
+  {
+    "word": "なかなおり",
+    "kanji": "仲直り",
+    "partOfSpeech": "名・自サ",
+    "translation": "和好",
+    "example": "仲直りができた(和好了)"
+  },
+  {
+    "word": "ながねん",
+    "kanji": "長年",
+    "partOfSpeech": "名",
+    "translation": "多年"
+  },
+  {
+    "word": "なぞ",
+    "kanji": "謎",
+    "partOfSpeech": "名",
+    "translation": "谜,谜语",
+    "example": "謎が解けた(谜底解开)"
+  },
+  {
+    "word": "なっとう",
+    "kanji": "納豆",
+    "partOfSpeech": "名",
+    "translation": "纳豆"
+  },
+  {
+    "word": "なっとく",
+    "kanji": "納得",
+    "partOfSpeech": "名・他サ",
+    "translation": "领会;信服",
+    "example": "納得がいく(能理解)"
+  },
+  {
+    "word": "なべ",
+    "kanji": "鍋",
+    "partOfSpeech": "名",
+    "translation": "锅"
+  },
+  {
+    "word": "なまもの",
+    "kanji": "生物",
+    "partOfSpeech": "名",
+    "translation": "生鲜食品"
+  },
+  {
+    "word": "なわ",
+    "kanji": "縄",
+    "partOfSpeech": "名",
+    "translation": "绳"
+  },
+  {
+    "word": "なんきょく",
+    "kanji": "南極",
+    "partOfSpeech": "名",
+    "translation": "南极",
+    "related": "北極 [ほっきょく] (北极)"
+  },
+  {
+    "word": "なんべい",
+    "kanji": "南米",
+    "partOfSpeech": "名",
+    "translation": "南美",
+    "related": "北米 [ほくべい」(北美)"
+  },
+  {
+    "word": "にくるい",
+    "kanji": "肉類",
+    "partOfSpeech": "名",
+    "translation": "肉类"
+  },
+  {
+    "word": "にじ",
+    "kanji": "虹",
+    "partOfSpeech": "名",
+    "translation": "彩虹",
+    "example": "虹がかかる(挂彩虹)"
+  },
+  {
+    "word": "にっか",
+    "kanji": "日課",
+    "partOfSpeech": "名",
+    "translation": "每天的习惯"
+  },
+  {
+    "word": "にっこう",
+    "kanji": "日光",
+    "partOfSpeech": "名",
+    "translation": "日光"
+  },
+  {
+    "word": "にゅうか",
+    "kanji": "入荷",
+    "partOfSpeech": "名・自他サ",
+    "translation": "进货",
+    "related": "出荷 [しゅっか (出货)"
+  },
+  {
+    "word": "にんげん",
+    "kanji": "人間",
+    "partOfSpeech": "名",
+    "translation": "人,人类",
+    "example": "人間関係(人际关系)",
+    "related": "人物 [じんぶつ] (人物)"
+  },
+  {
+    "word": "ぬの",
+    "kanji": "布",
+    "partOfSpeech": "名",
+    "translation": "布"
+  },
+  {
+    "word": "ねじ",
+    "kanji": "螺子",
+    "partOfSpeech": "名",
+    "translation": "螺丝,螺钉"
+  },
+  {
+    "word": "ねったい",
+    "kanji": "熱帯",
+    "partOfSpeech": "名",
+    "translation": "热带"
+  },
+  {
+    "word": "ねびき",
+    "kanji": "値引き",
+    "partOfSpeech": "名・他サ",
+    "translation": "打折,降价",
+    "example": "200円値引きする(减价两百日元)"
+  },
+  {
+    "word": "ねまき",
+    "kanji": "寝巻き",
+    "partOfSpeech": "名",
+    "translation": "睡衣"
+  },
+  {
+    "word": "ねむり",
+    "kanji": "眠り",
+    "partOfSpeech": "名",
+    "translation": "睡觉"
+  },
+  {
+    "word": "のうぎょう",
+    "kanji": "農業",
+    "partOfSpeech": "名",
+    "translation": "农业"
+  },
+  {
+    "word": "のうさんぶつ",
+    "kanji": "農産物",
+    "partOfSpeech": "名",
+    "translation": "农产品"
+  },
+  {
+    "word": "のうぜい",
+    "kanji": "納税",
+    "partOfSpeech": "名・自サ",
+    "translation": "纳税"
+  },
+  {
+    "word": "のうど",
+    "kanji": "濃度",
+    "partOfSpeech": "名",
+    "translation": "浓度"
+  },
+  {
+    "word": "のうふ",
+    "kanji": "納付",
+    "partOfSpeech": "名・他サ",
+    "translation": "缴纳",
+    "example": "税金を納付する (缴纳税款)"
+  },
+  {
+    "word": "のり",
+    "kanji": "糊",
+    "partOfSpeech": "名",
+    "translation": "浆糊"
+  },
+  {
+    "word": "ば",
+    "kanji": "場",
+    "partOfSpeech": "名",
+    "translation": "场所,地方"
+  },
+  {
+    "word": "はいぶん",
+    "kanji": "配分",
+    "partOfSpeech": "名・他サ",
+    "translation": "分配",
+    "example": "富の配分(财富的分配)"
+  },
+  {
+    "word": "ばいばい",
+    "kanji": "売買",
+    "partOfSpeech": "名・他サ",
+    "translation": "买卖"
+  },
+  {
+    "word": "はかり",
+    "kanji": "秤",
+    "partOfSpeech": "名",
+    "translation": "秤,天平"
+  },
+  {
+    "word": "はきけ",
+    "kanji": "吐き気",
+    "partOfSpeech": "名",
+    "translation": "恶心",
+    "example": "吐き気がする(想吐)"
+  },
+  {
+    "word": "ばくはつ",
+    "kanji": "爆発",
+    "partOfSpeech": "名・自サ",
+    "translation": "爆发",
+    "example": "火山が爆発した(火山爆发了)"
+  },
+  {
+    "word": "はぐるま",
+    "kanji": "歯車",
+    "partOfSpeech": "名",
+    "translation": "齿轮"
+  },
+  {
+    "word": "はさん",
+    "kanji": "破産",
+    "partOfSpeech": "名・自サ",
+    "translation": "破产"
+  },
+  {
+    "word": "はし",
+    "kanji": "端",
+    "partOfSpeech": "名",
+    "translation": "头,端"
+  },
+  {
+    "word": "はしご",
+    "kanji": "梯子",
+    "partOfSpeech": "名",
+    "translation": "梯子"
+  },
+  {
+    "word": "はじめ",
+    "kanji": "初め",
+    "partOfSpeech": "名",
+    "translation": "初次"
+  },
+  {
+    "word": "はた",
+    "kanji": "旗",
+    "partOfSpeech": "名",
+    "translation": "旗帜",
+    "example": "旗を上げる(升旗)"
+  },
+  {
+    "word": "はつげん",
+    "kanji": "発言",
+    "partOfSpeech": "名・自他サ",
+    "translation": "发言"
+  },
+  {
+    "word": "はっくつ",
+    "kanji": "発掘",
+    "partOfSpeech": "名・他サ",
+    "translation": "发掘",
+    "example": "人材を発掘する(发掘人才)"
+  },
+  {
+    "word": "はっこう",
+    "kanji": "発行",
+    "partOfSpeech": "名・他サ",
+    "translation": "发行",
+    "example": "雑誌を発行する(发行杂志)"
+  },
+  {
+    "word": "はっしゃ",
+    "kanji": "発射",
+    "partOfSpeech": "名・他サ",
+    "translation": "发射",
+    "related": "発射台 [だい] (发射架)"
+  },
+  {
+    "word": "はなよめ",
+    "kanji": "花嫁",
+    "partOfSpeech": "名",
+    "translation": "新娘"
+  },
+  {
+    "word": "ばね",
+    "kanji": "ばね",
+    "partOfSpeech": "名",
+    "translation": "发条,弹簧"
+  },
+  {
+    "word": "はへん",
+    "kanji": "破片",
+    "partOfSpeech": "名",
+    "translation": "碎片"
+  },
+  {
+    "word": "はんこ",
+    "kanji": "判子",
+    "partOfSpeech": "名",
+    "translation": "印章"
+  },
+  {
+    "word": "はんこう",
+    "kanji": "反抗",
+    "partOfSpeech": "名・自サ",
+    "translation": "反抗",
+    "example": "命令に反抗する (违抗命令)"
+  },
+  {
+    "word": "はんざい",
+    "kanji": "犯罪",
+    "partOfSpeech": "名",
+    "translation": "犯罪",
+    "related": "犯罪人 [にん](罪犯)"
+  },
+  {
+    "word": "ばんざい",
+    "kanji": "万歳",
+    "partOfSpeech": "名・自サ",
+    "translation": "万岁,万幸"
+  },
+  {
+    "word": "はんじ",
+    "kanji": "判事",
+    "partOfSpeech": "名",
+    "translation": "法官"
+  },
+  {
+    "word": "はんすう",
+    "kanji": "半数",
+    "partOfSpeech": "名",
+    "translation": "半数"
+  },
+  {
+    "word": "はんそで",
+    "kanji": "半袖",
+    "partOfSpeech": "名",
+    "translation": "短袖"
+  },
+  {
+    "word": "はんだん",
+    "kanji": "判断",
+    "partOfSpeech": "名・他サ",
+    "translation": "判断",
+    "example": "判断を下す(下判断)"
+  },
+  {
+    "word": "はんのう",
+    "kanji": "反応",
+    "partOfSpeech": "名・自サ",
+    "translation": "反应"
+  },
+  {
+    "word": "はんばい",
+    "kanji": "販売",
+    "partOfSpeech": "名・他サ",
+    "translation": "贩卖"
+  },
+  {
+    "word": "はんめん",
+    "kanji": "反面",
+    "partOfSpeech": "名",
+    "translation": "反面"
+  },
+  {
+    "word": "はんろん",
+    "kanji": "反論",
+    "partOfSpeech": "名・自他サ",
+    "translation": "反驳",
+    "example": "反論を加える(加以反驳)"
+  },
+  {
+    "word": "ひかく",
+    "kanji": "比較",
+    "partOfSpeech": "名・他サ",
+    "translation": "比较"
+  },
+  {
+    "word": "ひかげ",
+    "kanji": "日陰",
+    "partOfSpeech": "名",
+    "translation": "背阴处"
+  },
+  {
+    "word": "ひきわけ",
+    "kanji": "引き分け",
+    "partOfSpeech": "名",
+    "translation": "平局",
+    "example": "引き分けになる(打成平局)"
+  },
+  {
+    "word": "ひげき",
+    "kanji": "悲劇",
+    "partOfSpeech": "名",
+    "translation": "悲剧",
+    "related": "喜劇 [きげき] (喜剧)"
+  },
+  {
+    "word": "ひっし",
+    "kanji": "必死",
+    "partOfSpeech": "名・ナ形",
+    "translation": "拼命",
+    "example": "必死になって働く(拼命干)"
+  },
+  {
+    "word": "ひっしゃ",
+    "kanji": "筆者",
+    "partOfSpeech": "名",
+    "translation": "笔者"
+  },
+  {
+    "word": "ひつじゅひん",
+    "kanji": "必需品",
+    "partOfSpeech": "名",
+    "translation": "必需品"
+  },
+  {
+    "word": "ひてい",
+    "kanji": "否定",
+    "partOfSpeech": "名・他サ",
+    "translation": "否定",
+    "related": "肯定 [こうてい (肯定)"
+  },
+  {
+    "word": "ひとこと",
+    "kanji": "一言",
+    "partOfSpeech": "名",
+    "translation": "一句话"
+  },
+  {
+    "word": "ひとごみ",
+    "kanji": "人込み",
+    "partOfSpeech": "名",
+    "translation": "人群"
+  },
+  {
+    "word": "ひとどおり",
+    "kanji": "人通り",
+    "partOfSpeech": "名",
+    "translation": "人来人往"
+  },
+  {
+    "word": "ひとねむり",
+    "kanji": "一眠り",
+    "partOfSpeech": "名・自サ",
+    "translation": "打盹儿"
+  },
+  {
+    "word": "ひとみ",
+    "kanji": "瞳",
+    "partOfSpeech": "名",
+    "translation": "瞳孔"
+  },
+  {
+    "word": "ひとりぐらし",
+    "kanji": "一人暮らし",
+    "partOfSpeech": "名",
+    "translation": "单身生活"
+  },
+  {
+    "word": "ひとりごと",
+    "kanji": "独り言",
+    "partOfSpeech": "名",
+    "translation": "自言自语"
+  },
+  {
+    "word": "ひなん",
+    "kanji": "非難",
+    "partOfSpeech": "名・他サ",
+    "translation": "非难,非议",
+    "example": "非難を招く(招致责难)"
+  },
+  {
+    "word": "ひにく",
+    "kanji": "皮肉",
+    "partOfSpeech": "名・ナ形",
+    "translation": "挖苦",
+    "example": "皮肉な言葉(讥讽话);皮肉を言う(讽刺)"
+  },
+  {
+    "word": "ひふ",
+    "kanji": "皮膚",
+    "partOfSpeech": "名",
+    "translation": "皮肤"
+  },
+  {
+    "word": "ひみつ",
+    "kanji": "秘密",
+    "partOfSpeech": "名・ナ形",
+    "translation": "秘密"
+  },
+  {
+    "word": "ひょうか",
+    "kanji": "評価",
+    "partOfSpeech": "名・他サ",
+    "translation": "评价",
+    "example": "過大/小評価(过高/低评价)"
+  },
+  {
+    "word": "ひょうしき",
+    "kanji": "標識",
+    "partOfSpeech": "名",
+    "translation": "标识"
+  },
+  {
+    "word": "ひょうじゅん",
+    "kanji": "標準",
+    "partOfSpeech": "名",
+    "translation": "标准"
+  },
+  {
+    "word": "ひょうばん",
+    "kanji": "評判",
+    "partOfSpeech": "名・ナ形",
+    "translation": "评价",
+    "example": "評判がよい(评价好)"
+  },
+  {
+    "word": "ひょうほん",
+    "kanji": "標本",
+    "partOfSpeech": "名",
+    "translation": "标本"
+  },
+  {
+    "word": "ひょうろん",
+    "kanji": "評論",
+    "partOfSpeech": "名・他サ",
+    "translation": "评论",
+    "related": "映画評論(影评)"
+  },
+  {
+    "word": "ひろう",
+    "kanji": "疲労",
+    "partOfSpeech": "名・自サ",
+    "translation": "疲劳",
+    "example": "疲労を感じる(感觉疲劳)"
+  },
+  {
+    "word": "ひろば",
+    "kanji": "広場",
+    "partOfSpeech": "名",
+    "translation": "广场"
+  },
+  {
+    "word": "ふえ",
+    "kanji": "笛",
+    "partOfSpeech": "名",
+    "translation": "笛子"
+  },
+  {
+    "word": "ふか",
+    "kanji": "不可",
+    "partOfSpeech": "名",
+    "translation": "不可"
+  },
+  {
+    "word": "ぶかつ",
+    "kanji": "部活",
+    "partOfSpeech": "名",
+    "translation": "社团活动"
+  },
+  {
+    "word": "ぶき",
+    "kanji": "武器",
+    "partOfSpeech": "名",
+    "translation": "武器"
+  },
+  {
+    "word": "ふきゅう",
+    "kanji": "普及",
+    "partOfSpeech": "名・自サ",
+    "translation": "普及"
+  },
+  {
+    "word": "ふきん",
+    "kanji": "付近",
+    "partOfSpeech": "名",
+    "translation": "附近",
+    "example": "東京付近(东京一带)"
+  },
+  {
+    "word": "ふごう",
+    "kanji": "符号",
+    "partOfSpeech": "名",
+    "translation": "符号"
+  },
+  {
+    "word": "ぶさた",
+    "kanji": "無沙汰",
+    "partOfSpeech": "名・自サ",
+    "translation": "久违",
+    "example": "ご無沙汰しています。(久违了。)"
+  },
+  {
+    "word": "ふし",
+    "kanji": "節",
+    "partOfSpeech": "名",
+    "translation": "节"
+  },
+  {
+    "word": "ぶし",
+    "kanji": "武士",
+    "partOfSpeech": "名",
+    "translation": "武士"
+  },
+  {
+    "word": "ぶしょ",
+    "kanji": "部署",
+    "partOfSpeech": "名",
+    "translation": "岗位"
+  },
+  {
+    "word": "ふしょうじ",
+    "kanji": "不祥事",
+    "partOfSpeech": "名",
+    "translation": "不祥之事"
+  },
+  {
+    "word": "ふせい",
+    "kanji": "不正",
+    "partOfSpeech": "名・ナ形",
+    "translation": "不正当",
+    "example": "不正な商品(黑货)"
+  },
+  {
+    "word": "ふぞく",
+    "kanji": "付属",
+    "partOfSpeech": "名・自サ",
+    "translation": "附属",
+    "related": "付属品 [ひん」(配件)"
+  },
+  {
+    "word": "ふぶき",
+    "kanji": "吹雪",
+    "partOfSpeech": "名",
+    "translation": "暴风雪"
+  },
+  {
+    "word": "ふへい",
+    "kanji": "不平",
+    "partOfSpeech": "名・ナ形",
+    "translation": "不平,牢骚",
+    "example": "不平を抱く(心怀不满)"
+  },
+  {
+    "word": "ふぼ",
+    "kanji": "父母",
+    "partOfSpeech": "名",
+    "translation": "父母"
+  },
+  {
+    "word": "ふもと",
+    "kanji": "麓",
+    "partOfSpeech": "名",
+    "translation": "山脚"
+  },
+  {
+    "word": "ふりえき",
+    "kanji": "不利益",
+    "partOfSpeech": "名・ナ形",
+    "translation": "不利",
+    "example": "不利益な処置(不利的处置)"
+  },
+  {
+    "word": "ふるさと",
+    "kanji": "故郷・古里",
+    "partOfSpeech": "名",
+    "translation": "故乡"
+  },
+  {
+    "word": "ふんか",
+    "kanji": "噴火",
+    "partOfSpeech": "名・自サ",
+    "translation": "喷火"
+  },
+  {
+    "word": "ぶんかい",
+    "kanji": "分解",
+    "partOfSpeech": "名・自他サ",
+    "translation": "分解;拆开",
+    "example": "文を分解する(拆分句子)"
+  },
+  {
+    "word": "ふんしつ",
+    "kanji": "紛失",
+    "partOfSpeech": "名・自他サ",
+    "translation": "遗失",
+    "related": "紛失届 [とど] け (遗失登记)"
+  },
+  {
+    "word": "ぶんや",
+    "kanji": "分野",
+    "partOfSpeech": "名",
+    "translation": "领域",
+    "example": "研究分野(研究领域)"
+  },
+  {
+    "word": "ぶんりょう",
+    "kanji": "分量",
+    "partOfSpeech": "名",
+    "translation": "分量"
+  },
+  {
+    "word": "ぶんるい",
+    "kanji": "分類",
+    "partOfSpeech": "名・他サ",
+    "translation": "分类"
+  },
+  {
+    "word": "へい",
+    "kanji": "塀",
+    "partOfSpeech": "名",
+    "translation": "围墙"
+  },
+  {
+    "word": "へいかい",
+    "kanji": "閉会",
+    "partOfSpeech": "名・自他サ",
+    "translation": "散会;闭幕",
+    "example": "閉会式(闭幕式)",
+    "related": "開会 [かいかい (开会; 开幕)"
+  },
+  {
+    "word": "へいたい",
+    "kanji": "兵隊",
+    "partOfSpeech": "名",
+    "translation": "士兵;军队",
+    "example": "兵隊になる(参军)"
+  },
+  {
+    "word": "へんぴん",
+    "kanji": "返品",
+    "partOfSpeech": "名・自他サ",
+    "translation": "退货",
+    "example": "売れない商品を返品する(退回不销之货)"
+  },
+  {
+    "word": "ぼう",
+    "kanji": "棒",
+    "partOfSpeech": "名",
+    "translation": "棍子",
+    "example": "棒を折る(半途而废)"
+  },
+  {
+    "word": "ぼうえんきょう",
+    "kanji": "望遠鏡",
+    "partOfSpeech": "名",
+    "translation": "望远镜"
+  },
+  {
+    "word": "ほうがく",
+    "kanji": "方角",
+    "partOfSpeech": "名",
+    "translation": "方位"
+  },
+  {
+    "word": "ほうき",
+    "kanji": "ほうき",
+    "partOfSpeech": "名",
+    "translation": "笤帚"
+  },
+  {
+    "word": "ほうげん",
+    "kanji": "方言",
+    "partOfSpeech": "名",
+    "translation": "方言"
+  },
+  {
+    "word": "ぼうけん",
+    "kanji": "冒険",
+    "partOfSpeech": "名・自サ",
+    "translation": "冒险"
+  },
+  {
+    "word": "ぼうげん",
+    "kanji": "暴言",
+    "partOfSpeech": "名",
+    "translation": "粗暴的话",
+    "example": "暴言を吐く(出口骂人)"
+  },
+  {
+    "word": "ほうしん",
+    "kanji": "方針",
+    "partOfSpeech": "名",
+    "translation": "方针",
+    "example": "方針を立てる(制定方针)"
+  },
+  {
+    "word": "ほうそう",
+    "kanji": "包装",
+    "partOfSpeech": "名・他サ",
+    "translation": "包装"
+  },
+  {
+    "word": "ほうたい",
+    "kanji": "包帯",
+    "partOfSpeech": "名",
+    "translation": "绷带"
+  },
+  {
+    "word": "ぼうはん",
+    "kanji": "防犯",
+    "partOfSpeech": "名",
+    "translation": "防犯"
+  },
+  {
+    "word": "ほうもん",
+    "kanji": "訪問",
+    "partOfSpeech": "名・他サ",
+    "translation": "访问",
+    "example": "中国を訪問する(访华)",
+    "related": "訪問客 [きゃく」(来客)"
+  },
+  {
+    "word": "ぼうりょく",
+    "kanji": "暴力",
+    "partOfSpeech": "名",
+    "translation": "暴力"
+  },
+  {
+    "word": "ほお",
+    "kanji": "頬",
+    "partOfSpeech": "名",
+    "translation": "脸蛋儿"
+  },
+  {
+    "word": "ぼくじょう",
+    "kanji": "牧場",
+    "partOfSpeech": "名",
+    "translation": "牧场"
+  },
+  {
+    "word": "ぼくちく",
+    "kanji": "牧畜",
+    "partOfSpeech": "名",
+    "translation": "畜牧"
+  },
+  {
+    "word": "ほくべい",
+    "kanji": "北米",
+    "partOfSpeech": "名",
+    "translation": "北美",
+    "related": "南米 [なんべい」(南美)"
+  },
+  {
+    "word": "ほけん",
+    "kanji": "保健",
+    "partOfSpeech": "名",
+    "translation": "保健"
+  },
+  {
+    "word": "ぼしゅう",
+    "kanji": "募集",
+    "partOfSpeech": "名・他サ",
+    "translation": "募集",
+    "example": "会員を募集する(招募会员)"
+  },
+  {
+    "word": "ほしょう",
+    "kanji": "保証",
+    "partOfSpeech": "名・他サ",
+    "translation": "保证",
+    "related": "保証人 [にん (保证人;担保人)"
+  },
+  {
+    "word": "ほっきょく",
+    "kanji": "北極",
+    "partOfSpeech": "名",
+    "translation": "北极",
+    "related": "南極 [なんきょく] (南极)"
+  },
+  {
+    "word": "ほのお",
+    "kanji": "炎",
+    "partOfSpeech": "名",
+    "translation": "火焰,火苗"
+  },
+  {
+    "word": "ぼろ",
+    "kanji": "ぼろ",
+    "partOfSpeech": "名",
+    "translation": "褴褛"
+  },
+  {
+    "word": "ほんろん",
+    "kanji": "本論",
+    "partOfSpeech": "名",
+    "translation": "正文"
+  },
+  {
+    "word": "まいかい",
+    "kanji": "毎回",
+    "partOfSpeech": "名・副",
+    "translation": "每次"
+  },
+  {
+    "word": "まくら",
+    "kanji": "枕",
+    "partOfSpeech": "名",
+    "translation": "枕头"
+  },
+  {
+    "word": "まさつ",
+    "kanji": "摩擦",
+    "partOfSpeech": "名",
+    "translation": "摩擦"
+  },
+  {
+    "word": "まちあいしつ",
+    "kanji": "待合室",
+    "partOfSpeech": "名",
+    "translation": "等候室"
+  },
+  {
+    "word": "まんびき",
+    "kanji": "万引き",
+    "partOfSpeech": "名・他サ",
+    "translation": "扒窃",
+    "example": "高級品が万引きされる(贵重物品遭扒窃)"
+  },
+  {
+    "word": "み",
+    "kanji": "実",
+    "partOfSpeech": "名",
+    "translation": "果实"
+  },
+  {
+    "word": "みかけ",
+    "kanji": "見かけ",
+    "partOfSpeech": "名",
+    "translation": "外表",
+    "example": "見かけ倒 [だお] し (虚有其表,华而不实)",
+    "related": "外見 [がいけん」(外表)"
+  },
+  {
+    "word": "みかた",
+    "kanji": "見方",
+    "partOfSpeech": "名",
+    "translation": "看法",
+    "example": "二人の見方が違う (两人见解不同)"
+  },
+  {
+    "word": "みかづき",
+    "kanji": "三日月",
+    "partOfSpeech": "名",
+    "translation": "新月"
+  },
+  {
+    "word": "みそしる",
+    "kanji": "味噌汁",
+    "partOfSpeech": "名",
+    "translation": "酱汤"
+  },
+  {
+    "word": "みぶん",
+    "kanji": "身分",
+    "partOfSpeech": "名",
+    "translation": "身份",
+    "example": "身分の高い人(地位高贵的人)"
+  },
+  {
+    "word": "みほん",
+    "kanji": "見本",
+    "partOfSpeech": "名",
+    "translation": "样品",
+    "example": "見本を供する(提供货样)"
+  },
+  {
+    "word": "みんよう",
+    "kanji": "民謡",
+    "partOfSpeech": "名",
+    "translation": "民谣"
+  },
+  {
+    "word": "むげん",
+    "kanji": "無限",
+    "partOfSpeech": "名・ナ形",
+    "translation": "无限",
+    "related": "有限 [ゆうげん (有限)"
+  },
+  {
+    "word": "むじゅん",
+    "kanji": "矛盾",
+    "partOfSpeech": "名",
+    "translation": "矛盾"
+  },
+  {
+    "word": "むすう",
+    "kanji": "無数",
+    "partOfSpeech": "名・ナ形",
+    "translation": "无数",
+    "example": "無数の人(无数的人)"
+  },
+  {
+    "word": "むせきにん",
+    "kanji": "無責任",
+    "partOfSpeech": "名・ナ形",
+    "translation": "没责任心",
+    "example": "無責任な男(不负责任的男人)"
+  },
+  {
+    "word": "めいしん",
+    "kanji": "迷信",
+    "partOfSpeech": "名",
+    "translation": "迷信"
+  },
+  {
+    "word": "めいぶつ",
+    "kanji": "名物",
+    "partOfSpeech": "名",
+    "translation": "有名的东西"
+  },
+  {
+    "word": "めいれい",
+    "kanji": "命令",
+    "partOfSpeech": "名",
+    "translation": "命令",
+    "example": "命令を堅く守る(严守命令)"
+  },
+  {
+    "word": "めいろ",
+    "kanji": "迷路",
+    "partOfSpeech": "名",
+    "translation": "迷途"
+  },
+  {
+    "word": "めじるし",
+    "kanji": "目印",
+    "partOfSpeech": "名",
+    "translation": "记号",
+    "example": "目印をつける(作记号)"
+  },
+  {
+    "word": "めやす",
+    "kanji": "目安",
+    "partOfSpeech": "名",
+    "translation": "目标",
+    "example": "目安を立てる(定目标)"
+  },
+  {
+    "word": "めん",
+    "kanji": "面",
+    "partOfSpeech": "名",
+    "translation": "脸;面,表面"
+  },
+  {
+    "word": "めんえき",
+    "kanji": "免疫",
+    "partOfSpeech": "名",
+    "translation": "免疫"
+  },
+  {
+    "word": "めんせき",
+    "kanji": "面積",
+    "partOfSpeech": "名",
+    "translation": "面积"
+  },
+  {
+    "word": "もくざい",
+    "kanji": "木材",
+    "partOfSpeech": "名",
+    "translation": "木材"
+  },
+  {
+    "word": "もくじ",
+    "kanji": "目次",
+    "partOfSpeech": "名",
+    "translation": "目录",
+    "example": "目次を作る(编目录)"
+  },
+  {
+    "word": "もくせい",
+    "kanji": "木製",
+    "partOfSpeech": "名",
+    "translation": "木制"
+  },
+  {
+    "word": "もくぞう",
+    "kanji": "木造",
+    "partOfSpeech": "名",
+    "translation": "木造",
+    "related": "木造船 [せん」(木船)"
+  },
+  {
+    "word": "もち",
+    "kanji": "餅",
+    "partOfSpeech": "名",
+    "translation": "年糕"
+  },
+  {
+    "word": "もちぬし",
+    "kanji": "持ち主",
+    "partOfSpeech": "名",
+    "translation": "持有者;物主",
+    "example": "家の持ち主(房屋的主人)"
+  },
+  {
+    "word": "もと",
+    "kanji": "元",
+    "partOfSpeech": "名",
+    "translation": "原来"
+  },
+  {
+    "word": "もんどう",
+    "kanji": "問答",
+    "partOfSpeech": "名・自他サ",
+    "translation": "问答"
+  },
+  {
+    "word": "やかん",
+    "kanji": "夜間",
+    "partOfSpeech": "名",
+    "translation": "夜间",
+    "related": "昼間 [ひるま] (白天)"
+  },
+  {
+    "word": "やきもの",
+    "kanji": "焼き物",
+    "partOfSpeech": "名",
+    "translation": "陶瓷器;烧烤"
+  },
+  {
+    "word": "やくしゃ",
+    "kanji": "役者",
+    "partOfSpeech": "名",
+    "translation": "演员"
+  },
+  {
+    "word": "やじるし",
+    "kanji": "矢印",
+    "partOfSpeech": "名",
+    "translation": "箭头"
+  },
+  {
+    "word": "やせい",
+    "kanji": "野生",
+    "partOfSpeech": "名・自サ",
+    "translation": "野生",
+    "example": "野生の馬(野马)"
+  },
+  {
+    "word": "やど",
+    "kanji": "宿",
+    "partOfSpeech": "名",
+    "translation": "房屋"
+  },
+  {
+    "word": "やぬし",
+    "kanji": "家主",
+    "partOfSpeech": "名",
+    "translation": "户主"
+  },
+  {
+    "word": "やね",
+    "kanji": "屋根",
+    "partOfSpeech": "名",
+    "translation": "屋顶"
+  },
+  {
+    "word": "やまかじ",
+    "kanji": "山火事",
+    "partOfSpeech": "名",
+    "translation": "山火"
+  },
+  {
+    "word": "やまごや",
+    "kanji": "山小屋",
+    "partOfSpeech": "名",
+    "translation": "山中小屋"
+  },
+  {
+    "word": "ゆいいつ",
+    "kanji": "唯一",
+    "partOfSpeech": "名",
+    "translation": "唯一"
+  },
+  {
+    "word": "ゆいごん",
+    "kanji": "遺言",
+    "partOfSpeech": "名",
+    "translation": "遗言"
+  },
+  {
+    "word": "ゆうえんち",
+    "kanji": "遊園地",
+    "partOfSpeech": "名",
+    "translation": "游乐场所"
+  },
+  {
+    "word": "ゆうかん",
+    "kanji": "夕刊",
+    "partOfSpeech": "名",
+    "translation": "晚报",
+    "related": "朝刊 [ちょうかん」(早报)"
+  },
+  {
+    "word": "ゆうこう",
+    "kanji": "有効",
+    "partOfSpeech": "名・ナ形",
+    "translation": "有效"
+  },
+  {
+    "word": "ゆうしょう",
+    "kanji": "優勝",
+    "partOfSpeech": "名・自サ",
+    "translation": "冠军"
+  },
+  {
+    "word": "ゆうりょう",
+    "kanji": "優良",
+    "partOfSpeech": "名・ナ形",
+    "translation": "优良",
+    "related": "優良品 [ひん」(高档货)"
+  },
+  {
+    "word": "ゆそう",
+    "kanji": "輸送",
+    "partOfSpeech": "名・他サ",
+    "translation": "运输"
+  },
+  {
+    "word": "ゆだん",
+    "kanji": "油断",
+    "partOfSpeech": "名・自サ",
+    "translation": "疏忽大意",
+    "example": "人の油断に乗ずる (趁别人疏忽大意)\n油断大敵 [たいてき] (粗心大意害死人)"
+  },
+  {
+    "word": "ゆのみ",
+    "kanji": "湯飲み",
+    "partOfSpeech": "名",
+    "translation": "茶碗"
+  },
+  {
+    "word": "ようがん",
+    "kanji": "溶岩",
+    "partOfSpeech": "名",
+    "translation": "熔岩"
+  },
+  {
+    "word": "ようき",
+    "kanji": "容器",
+    "partOfSpeech": "名",
+    "translation": "容器"
+  },
+  {
+    "word": "ようご",
+    "kanji": "用語",
+    "partOfSpeech": "名",
+    "translation": "用语,措词"
+  },
+  {
+    "word": "ようし",
+    "kanji": "用紙",
+    "partOfSpeech": "名",
+    "translation": "纸张"
+  },
+  {
+    "word": "ようじん",
+    "kanji": "用心",
+    "partOfSpeech": "名・自他サ",
+    "translation": "注意,留心",
+    "related": "用心深[ぶかりい(十分谨慎)"
+  },
+  {
+    "word": "ようもう",
+    "kanji": "羊毛",
+    "partOfSpeech": "名",
+    "translation": "羊毛"
+  },
+  {
+    "word": "ようりょう",
+    "kanji": "要領",
+    "partOfSpeech": "名",
+    "translation": "要领"
+  },
+  {
+    "word": "よかん",
+    "kanji": "予感",
+    "partOfSpeech": "名・他サ",
+    "translation": "预感",
+    "example": "不吉な予感(不祥的预兆)"
+  },
+  {
+    "word": "よき",
+    "kanji": "予期",
+    "partOfSpeech": "名・他サ",
+    "translation": "预期",
+    "example": "予期のごとく(正如所料)"
+  },
+  {
+    "word": "よくあさ",
+    "kanji": "翌朝",
+    "partOfSpeech": "名",
+    "translation": "次日早晨"
+  },
+  {
+    "word": "よくとし",
+    "kanji": "翌年",
+    "partOfSpeech": "名",
+    "translation": "次年"
+  },
+  {
+    "word": "よこく",
+    "kanji": "予告",
+    "partOfSpeech": "名・他サ",
+    "translation": "预告"
+  },
+  {
+    "word": "よこみち",
+    "kanji": "横道",
+    "partOfSpeech": "名",
+    "translation": "岔道"
+  },
+  {
+    "word": "よせん",
+    "kanji": "予選",
+    "partOfSpeech": "名",
+    "translation": "预选"
+  },
+  {
+    "word": "よそく",
+    "kanji": "予測",
+    "partOfSpeech": "名・他サ",
+    "translation": "预测",
+    "example": "予測がつかない(无法预测)"
+  },
+  {
+    "word": "よぞら",
+    "kanji": "夜空",
+    "partOfSpeech": "名",
+    "translation": "夜空"
+  },
+  {
+    "word": "よっぱらい",
+    "kanji": "酔っ払い",
+    "partOfSpeech": "名",
+    "translation": "醉汉"
+  },
+  {
+    "word": "よゆう",
+    "kanji": "余裕",
+    "partOfSpeech": "名",
+    "translation": "充裕"
+  },
+  {
+    "word": "よわき",
+    "kanji": "弱気",
+    "partOfSpeech": "名・ナ形",
+    "translation": "怯懦",
+    "example": "弱気になる(气馁起来)"
+  },
+  {
+    "word": "よわみ",
+    "kanji": "弱み",
+    "partOfSpeech": "名",
+    "translation": "弱点",
+    "related": "強 [つよ] み (强项)"
+  },
+  {
+    "word": "らいにち",
+    "kanji": "来日",
+    "partOfSpeech": "名・自サ",
+    "translation": "来日本"
+  },
+  {
+    "word": "らくせん",
+    "kanji": "落選",
+    "partOfSpeech": "名・自サ",
+    "translation": "落选",
+    "related": "当選 [とうせん」(当选)"
+  },
+  {
+    "word": "らくだい",
+    "kanji": "落第",
+    "partOfSpeech": "名・自サ",
+    "translation": "不及格",
+    "related": "落第生 [せい](留级生)"
+  },
+  {
+    "word": "らん",
+    "kanji": "欄",
+    "partOfSpeech": "名",
+    "translation": "栏"
+  },
+  {
+    "word": "りえき",
+    "kanji": "利益",
+    "partOfSpeech": "名",
+    "translation": "利益"
+  },
+  {
+    "word": "りがい",
+    "kanji": "利害",
+    "partOfSpeech": "名",
+    "translation": "损益"
+  },
+  {
+    "word": "りょうじ",
+    "kanji": "領事",
+    "partOfSpeech": "名",
+    "translation": "领事"
+  },
+  {
+    "word": "りょうしゅう",
+    "kanji": "領収",
+    "partOfSpeech": "名・他サ",
+    "translation": "收取",
+    "example": "会費を領収する(收取会费)"
+  },
+  {
+    "word": "りんじ",
+    "kanji": "臨時",
+    "partOfSpeech": "名",
+    "translation": "临时"
+  },
+  {
+    "word": "れいぎ",
+    "kanji": "礼儀",
+    "partOfSpeech": "名",
+    "translation": "礼仪"
+  },
+  {
+    "word": "れいてん",
+    "kanji": "零点",
+    "partOfSpeech": "名",
+    "translation": "零分"
+  },
+  {
+    "word": "れっとう",
+    "kanji": "列島",
+    "partOfSpeech": "名",
+    "translation": "列岛"
+  },
+  {
+    "word": "れんごう",
+    "kanji": "連合",
+    "partOfSpeech": "名·自他サ",
+    "translation": "联合",
+    "related": "国際 [こくさい]連合（联合国）"
+  },
+  {
+    "word": "ろしゅつ",
+    "kanji": "露出",
+    "partOfSpeech": "名·自サ",
+    "translation": "露出，露天",
+    "related": "露出工事（露天工程）"
+  },
+  {
+    "word": "ろせん",
+    "kanji": "路線",
+    "partOfSpeech": "名",
+    "translation": "线路"
+  },
+  {
+    "word": "ろんそう",
+    "kanji": "論争",
+    "partOfSpeech": "名·自サ",
+    "translation": "争论",
+    "example": "論争が起こっている（引起了争论）"
+  },
+  {
+    "word": "ろんぶん",
+    "kanji": "論文",
+    "partOfSpeech": "名",
+    "translation": "论文",
+    "related": "国際 [こくさい]連合\n露出工事\n論争が起こっている"
+  },
+  {
+    "word": "わき",
+    "kanji": "脇",
+    "partOfSpeech": "名",
+    "translation": "旁边"
+  },
+  {
+    "word": "わこうど",
+    "kanji": "若人",
+    "partOfSpeech": "名",
+    "translation": "年轻人",
+    "related": "若者 [わかもの]（年轻人）"
+  },
+  {
+    "word": "わた",
+    "kanji": "綿",
+    "partOfSpeech": "名",
+    "translation": "棉，棉花"
+  },
+  {
+    "word": "わふく",
+    "kanji": "和服",
+    "partOfSpeech": "名",
+    "translation": "和服"
+  },
+  {
+    "word": "わりかん",
+    "kanji": "割り勘",
+    "partOfSpeech": "名",
+    "translation": "均摊"
+  },
+  {
+    "word": "わりだか",
+    "kanji": "割高",
+    "partOfSpeech": "名·ナ形",
+    "translation": "较贵"
+  },
+  {
+    "word": "わりやす",
+    "kanji": "割安",
+    "partOfSpeech": "名·ナ形",
+    "translation": "较便宜"
+  },
+  {
+    "word": "わるくち",
+    "kanji": "悪口",
+    "partOfSpeech": "名",
+    "translation": "坏话",
+    "example": "悪口を言う（说坏话）"
+  },
+  {
+    "word": "われわれ",
+    "kanji": "我々",
+    "partOfSpeech": "名",
+    "translation": "我们",
+    "related": "若者 [わかもの]\n悪口を言う"
+  },
+  {
+    "word": "あう",
+    "kanji": "遭う",
+    "partOfSpeech": "自五",
+    "translation": "遭遇",
+    "example": "天災 [てんさい] に遭う（遭遇天灾）\nひどい目に遭う（倒大霉）"
+  },
+  {
+    "word": "あおぐ",
+    "kanji": "扇ぐ",
+    "partOfSpeech": "他五",
+    "translation": "扇（风）",
+    "example": "団扇 [うちわ] で扇ぐ（用扇子扇风）"
+  },
+  {
+    "word": "あきれる",
+    "kanji": "呆れる",
+    "partOfSpeech": "自下一",
+    "translation": "惊呆",
+    "example": "呆れた話だ（令人吃惊的话）\n呆れてものが言えない（惊讶得哑口无言）"
+  },
+  {
+    "word": "あせる",
+    "kanji": "焦る",
+    "partOfSpeech": "自·他五",
+    "translation": "焦躁，着急",
+    "example": "成功 [せいこう] を焦るな（不要急于求成）"
+  },
+  {
+    "word": "あてはまる",
+    "kanji": "当てはまる",
+    "partOfSpeech": "自五",
+    "translation": "适用；合适",
+    "example": "条件 [じょうけん] に当てはまる（与条件相符）"
+  },
+  {
+    "word": "あばれる",
+    "kanji": "暴れる",
+    "partOfSpeech": "自下一",
+    "translation": "乱闹；放荡",
+    "example": "酔って暴れる（醉酒后乱闹）"
+  },
+  {
+    "word": "あぶる",
+    "kanji": "あぶる",
+    "partOfSpeech": "他五",
+    "translation": "烤；晒；烘",
+    "example": "着物 [きもの] を火であぶる（在火上烘衣服）"
+  },
+  {
+    "word": "あまやかす",
+    "kanji": "甘やかす",
+    "partOfSpeech": "他五",
+    "translation": "姑息；纵容",
+    "example": "甘やかした子（被惯坏了的孩子）"
+  },
+  {
+    "word": "あまる",
+    "kanji": "余る",
+    "partOfSpeech": "自五",
+    "translation": "剩余",
+    "example": "余った金（余钱）"
+  },
+  {
+    "word": "あむ",
+    "kanji": "編む",
+    "partOfSpeech": "他五",
+    "translation": "编织",
+    "example": "靴下 [くつした] を編む（织袜子）"
+  },
+  {
+    "word": "あらそう",
+    "kanji": "争う",
+    "partOfSpeech": "自五",
+    "translation": "争夺",
+    "example": "先を争う（争先）"
+  },
+  {
+    "word": "いばる",
+    "kanji": "威張る",
+    "partOfSpeech": "自五",
+    "translation": "吹牛；摆架子",
+    "example": "いばって歩く（大摇大摆地走路）"
+  },
+  {
+    "word": "うえる",
+    "kanji": "飢える",
+    "partOfSpeech": "自下一",
+    "translation": "饥饿",
+    "example": "愛に飢える（渴望爱情）"
+  },
+  {
+    "word": "うかぶ",
+    "kanji": "浮かぶ",
+    "partOfSpeech": "自五",
+    "translation": "浮出；浮现",
+    "example": "魚が水面 [すいめん] に浮かぶ（鱼浮出水面）"
+  },
+  {
+    "word": "うけたまわる",
+    "kanji": "承る",
+    "partOfSpeech": "他五",
+    "translation": "恭听；接受",
+    "example": "ご意見を承る（洗耳恭听）"
+  },
+  {
+    "word": "うしなう",
+    "kanji": "失う",
+    "partOfSpeech": "他五",
+    "translation": "丢失；迷失",
+    "example": "命を失う（丧命）"
+  },
+  {
+    "word": "うすめる",
+    "kanji": "薄める",
+    "partOfSpeech": "他下一",
+    "translation": "弄淡；稀释",
+    "example": "味を薄める（把味道弄淡）"
+  },
+  {
+    "word": "うたがう",
+    "kanji": "疑う",
+    "partOfSpeech": "他五",
+    "translation": "怀疑；猜疑",
+    "example": "自分の目を疑った（怀疑自己的眼睛）"
+  },
+  {
+    "word": "うちけす",
+    "kanji": "打ち消す",
+    "partOfSpeech": "他五",
+    "translation": "否定；消除",
+    "example": "事実 [じじつ] を打ち消す（否定事实）"
+  },
+  {
+    "word": "うつ",
+    "kanji": "撃つ",
+    "partOfSpeech": "他五",
+    "translation": "射击；攻击",
+    "example": "ピストルを撃つ（开枪）"
+  },
+  {
+    "word": "うったえる",
+    "kanji": "訴える",
+    "partOfSpeech": "他下一",
+    "translation": "诉说；诉讼",
+    "example": "不平 [ふへい] を訴える（发牢骚）"
+  },
+  {
+    "word": "うなずく",
+    "kanji": "うなずく",
+    "partOfSpeech": "自五",
+    "translation": "点头",
+    "example": "軽くうなずく（微微点头）"
+  },
+  {
+    "word": "うばう",
+    "kanji": "奪う",
+    "partOfSpeech": "他五",
+    "translation": "抢夺；吸引",
+    "example": "心を奪う（迷人）"
+  },
+  {
+    "word": "うみだす",
+    "kanji": "生み出す",
+    "partOfSpeech": "他五",
+    "translation": "产生出，创造",
+    "example": "作品を生み出す（创作出作品）"
+  },
+  {
+    "word": "うやまう",
+    "kanji": "敬う",
+    "partOfSpeech": "他五",
+    "translation": "尊敬",
+    "example": "先生を敬う（尊师）"
+  },
+  {
+    "word": "うらがえす",
+    "kanji": "裏返す",
+    "partOfSpeech": "他五",
+    "translation": "反过来",
+    "example": "裏返して言えば（反过来说）"
+  },
+  {
+    "word": "うらぎる",
+    "kanji": "裏切る",
+    "partOfSpeech": "他五",
+    "translation": "辜负；背叛",
+    "example": "信頼 [しんらい] を裏切る（辜负信任）"
+  },
+  {
+    "word": "うらなう",
+    "kanji": "占う",
+    "partOfSpeech": "他五",
+    "translation": "占卦",
+    "example": "身の上を占う（算命）"
+  },
+  {
+    "word": "うらむ",
+    "kanji": "恨む",
+    "partOfSpeech": "他五",
+    "translation": "怨，恨",
+    "example": "人に恨まれる（招人恨;得罪）"
+  },
+  {
+    "word": "うらやむ",
+    "kanji": "羨む",
+    "partOfSpeech": "他五",
+    "translation": "羡慕",
+    "example": "人の成績 [せいせき] を羨む（羡慕别人的成绩）"
+  },
+  {
+    "word": "えがく",
+    "kanji": "描く",
+    "partOfSpeech": "他五",
+    "translation": "描绘",
+    "example": "絵を描く（画画）"
+  },
+  {
+    "word": "える",
+    "kanji": "得る",
+    "partOfSpeech": "他下一",
+    "translation": "获得",
+    "example": "利益 [りえき] を得る（得到利益）"
+  },
+  {
+    "word": "えんじる",
+    "kanji": "演じる",
+    "partOfSpeech": "他上一",
+    "translation": "表演",
+    "example": "劇を演じる（演剧）"
+  },
+  {
+    "word": "おいかける",
+    "kanji": "追いかける",
+    "partOfSpeech": "他下一",
+    "translation": "追赶",
+    "example": "犯人 [はんにん] を追いかける（追捕犯人）"
+  },
+  {
+    "word": "おいつく",
+    "kanji": "追い付く",
+    "partOfSpeech": "自五",
+    "translation": "追赶，追平",
+    "example": "急いで彼に追いつこう（让我们赶紧追上他吧）"
+  },
+  {
+    "word": "おうじる",
+    "kanji": "応じる",
+    "partOfSpeech": "自上一",
+    "translation": "答应；按照",
+    "example": "招きに応じる（应邀）"
+  },
+  {
+    "word": "おおう",
+    "kanji": "覆う",
+    "partOfSpeech": "他五",
+    "translation": "覆盖；掩饰",
+    "example": "雪に覆われた山々（白雪覆盖的群山）"
+  },
+  {
+    "word": "おかす",
+    "kanji": "侵す",
+    "partOfSpeech": "他五",
+    "translation": "侵犯",
+    "example": "権利 [けんり] を侵す（侵犯权利）"
+  },
+  {
+    "word": "おがむ",
+    "kanji": "拝む",
+    "partOfSpeech": "他五",
+    "translation": "拜；央求",
+    "example": "神仏 [かみほとけ] を拝む（拜神佛）"
+  },
+  {
+    "word": "おぎなう",
+    "kanji": "補う",
+    "partOfSpeech": "他五",
+    "translation": "补充",
+    "example": "欠損 [けっそん] を補う（补偿亏损）"
+  },
+  {
+    "word": "おくる",
+    "kanji": "贈る",
+    "partOfSpeech": "他五",
+    "translation": "赠送",
+    "example": "みやげを贈る（送礼物）"
+  },
+  {
+    "word": "おさめる",
+    "kanji": "納める",
+    "partOfSpeech": "他下一",
+    "translation": "缴纳",
+    "example": "費用 [ひよう] を納める（缴费）"
+  },
+  {
+    "word": "おさめる",
+    "kanji": "治める",
+    "partOfSpeech": "他下一",
+    "translation": "治理",
+    "example": "水を治める（治水）"
+  },
+  {
+    "word": "おさめる",
+    "kanji": "収める",
+    "partOfSpeech": "他下一",
+    "translation": "接受；取得",
+    "example": "利益を収める（取得利益）"
+  },
+  {
+    "word": "おしとおす",
+    "kanji": "押し通す",
+    "partOfSpeech": "他五",
+    "translation": "贯彻",
+    "example": "わがままを押し通す（一意孤行）"
+  },
+  {
+    "word": "おそれる",
+    "kanji": "恐れる",
+    "partOfSpeech": "自他下一",
+    "translation": "害怕，恐惧",
+    "example": "へびを恐れる（怕蛇）"
+  },
+  {
+    "word": "おどかす",
+    "kanji": "脅かす",
+    "partOfSpeech": "他五",
+    "translation": "威胁",
+    "example": "人を脅かす（威胁他人）"
+  },
+  {
+    "word": "おとる",
+    "kanji": "劣る",
+    "partOfSpeech": "自五",
+    "translation": "不如，劣",
+    "example": "牛馬 [ぎゅうば] にも劣る生活（牛马不如的生活）"
+  },
+  {
+    "word": "おびやかす",
+    "kanji": "脅かす",
+    "partOfSpeech": "他五",
+    "translation": "威胁",
+    "example": "安全を脅かす（威胁安全）"
+  },
+  {
+    "word": "おぼれる",
+    "kanji": "溺れる",
+    "partOfSpeech": "自下一",
+    "translation": "溺水；沉迷",
+    "example": "酒に溺れる（沉湎于酒）"
+  },
+  {
+    "word": "おめにかける",
+    "kanji": "お目にかける",
+    "partOfSpeech": "词组",
+    "translation": "给……看。（見せる的谦让语）"
+  },
+  {
+    "word": "おもいきる",
+    "kanji": "思い切る",
+    "partOfSpeech": "自·他五",
+    "translation": "死心",
+    "example": "どうしても思い切れない（怎么也死不了心）"
+  },
+  {
+    "word": "おもえる",
+    "kanji": "思える",
+    "partOfSpeech": "自·他下一",
+    "translation": "可以认为",
+    "example": "本当と思える（可以认为是真的）"
+  },
+  {
+    "word": "およぼす",
+    "kanji": "及ぼす",
+    "partOfSpeech": "他五",
+    "translation": "波及",
+    "example": "影響 [えいきょう] を及ぼす（影响到）"
+  },
+  {
+    "word": "かかえる",
+    "kanji": "抱える",
+    "partOfSpeech": "他下一",
+    "translation": "抱；承担",
+    "example": "問題を抱える（存在问题）"
+  },
+  {
+    "word": "かかわる",
+    "kanji": "かかわる",
+    "partOfSpeech": "自五",
+    "translation": "关系到",
+    "example": "生命にかかわる（性命攸关）"
+  },
+  {
+    "word": "かきまぜる",
+    "kanji": "かき混ぜる",
+    "partOfSpeech": "他下一",
+    "translation": "搅拌",
+    "example": "セメントをかきまぜる（搅拌水泥）"
+  },
+  {
+    "word": "かじる",
+    "kanji": "かじる",
+    "partOfSpeech": "他五",
+    "translation": "咬，啃",
+    "example": "りんごを齧る（啃苹果）"
+  },
+  {
+    "word": "かたまる",
+    "kanji": "固まる",
+    "partOfSpeech": "自五",
+    "translation": "变硬，凝固",
+    "example": "コンクリートが固まる（混凝土凝固了）\n雨降って地固まる（不打不相识）"
+  },
+  {
+    "word": "かたむく",
+    "kanji": "傾く",
+    "partOfSpeech": "自五",
+    "translation": "倾斜",
+    "example": "思想が右に傾く（思想右倾）"
+  },
+  {
+    "word": "かたよる",
+    "kanji": "偏る",
+    "partOfSpeech": "自五",
+    "translation": "偏于一方；偏袒",
+    "example": "考えが偏っている（见解偏颇）"
+  },
+  {
+    "word": "からかう",
+    "kanji": "からかう",
+    "partOfSpeech": "他五",
+    "translation": "戏弄",
+    "example": "子どもをからかう（逗小孩）"
+  },
+  {
+    "word": "かる",
+    "kanji": "刈る",
+    "partOfSpeech": "他五",
+    "translation": "割，剪",
+    "example": "草を刈る（割草）"
+  },
+  {
+    "word": "かわいがる",
+    "kanji": "かわいがる",
+    "partOfSpeech": "他五",
+    "translation": "喜爱",
+    "example": "孫 [まご] をかわいがる（宠爱孙子）"
+  },
+  {
+    "word": "かわく",
+    "kanji": "渇く",
+    "partOfSpeech": "自五",
+    "translation": "干渴",
+    "example": "のどが渇いた（嗓子干渴）"
+  },
+  {
+    "word": "かんがえこむ",
+    "kanji": "考え込む",
+    "partOfSpeech": "自·他五",
+    "translation": "沉思",
+    "example": "1日中考え込む（一整天沉思苦想）"
+  },
+  {
+    "word": "きかえる",
+    "kanji": "着替える",
+    "partOfSpeech": "他下一",
+    "translation": "换衣服",
+    "example": "着物を着替える（换衣服）"
+  },
+  {
+    "word": "ききかえす",
+    "kanji": "聞き返す",
+    "partOfSpeech": "他五",
+    "translation": "反复问",
+    "example": "分からなかったら何度でも聞き返してよい（如果不明白,反复问多少次\n都可以）"
+  },
+  {
+    "word": "きせる",
+    "kanji": "着せる",
+    "partOfSpeech": "他下一",
+    "translation": "给……穿上",
+    "example": "娘に和服を着せる（给女儿穿上和服）"
+  },
+  {
+    "word": "きらう",
+    "kanji": "嫌う",
+    "partOfSpeech": "他五",
+    "translation": "厌恶",
+    "example": "戦争を嫌う（憎恶战争）"
+  },
+  {
+    "word": "きれる",
+    "kanji": "切れる",
+    "partOfSpeech": "自下一",
+    "translation": "锐利；断开",
+    "example": "よく切れた刀（锋利的刀）"
+  },
+  {
+    "word": "きんじる",
+    "kanji": "禁じる",
+    "partOfSpeech": "他上一",
+    "translation": "禁止；戒",
+    "example": "酒を禁じる（戒酒）"
+  },
+  {
+    "word": "くう",
+    "kanji": "食う",
+    "partOfSpeech": "他五",
+    "translation": "吃",
+    "example": "飯を食う（吃饭）"
+  },
+  {
+    "word": "くぎる",
+    "kanji": "区切る",
+    "partOfSpeech": "他五",
+    "translation": "分段；划分",
+    "example": "文章を区切る（把文章分段）"
+  },
+  {
+    "word": "くずす",
+    "kanji": "崩す",
+    "partOfSpeech": "他五",
+    "translation": "拆毁；打乱",
+    "example": "列を崩す（搞乱队形）"
+  },
+  {
+    "word": "くずれる",
+    "kanji": "崩れる",
+    "partOfSpeech": "自下一",
+    "translation": "坍塌，崩溃",
+    "example": "体調 [たいちょう] が崩れた（生病）"
+  },
+  {
+    "word": "くだく",
+    "kanji": "砕く",
+    "partOfSpeech": "他五",
+    "translation": "打碎",
+    "example": "夢を砕く（梦想破灭）"
+  },
+  {
+    "word": "くっつく",
+    "kanji": "くっつく",
+    "partOfSpeech": "自五",
+    "translation": "粘着；紧挨着",
+    "example": "家と家がくっついて建つ（房屋一家紧挨着一家）"
+  },
+  {
+    "word": "くっつける",
+    "kanji": "くっつける",
+    "partOfSpeech": "他下一",
+    "translation": "粘贴；使靠近",
+    "example": "のりでくっつける（用糨糊贴上）"
+  },
+  {
+    "word": "くばる",
+    "kanji": "配る",
+    "partOfSpeech": "他五",
+    "translation": "分配",
+    "example": "気を配る（留神；警惕）"
+  },
+  {
+    "word": "くみたてる",
+    "kanji": "組み立てる",
+    "partOfSpeech": "他下一",
+    "translation": "组装，组织",
+    "example": "文章を組み立てる（组成文章）"
+  },
+  {
+    "word": "けずる",
+    "kanji": "削る",
+    "partOfSpeech": "他五",
+    "translation": "削",
+    "example": "鉛筆を削る（削铅笔）"
+  },
+  {
+    "word": "こえる",
+    "kanji": "超える",
+    "partOfSpeech": "自下一",
+    "translation": "超过",
+    "example": "国境 [こっきょう] を超える（超越国界）"
+  },
+  {
+    "word": "こおる",
+    "kanji": "凍る",
+    "partOfSpeech": "自五",
+    "translation": "结冰",
+    "example": "川が凍る（河封冻）"
+  },
+  {
+    "word": "こぐ",
+    "kanji": "漕ぐ",
+    "partOfSpeech": "他五",
+    "translation": "划；蹬",
+    "example": "船を漕ぐ（划船）"
+  },
+  {
+    "word": "こげる",
+    "kanji": "焦げる",
+    "partOfSpeech": "自下一",
+    "translation": "烤焦",
+    "example": "焦げた臭いがする（有焦味儿）"
+  },
+  {
+    "word": "こごえる",
+    "kanji": "凍える",
+    "partOfSpeech": "自下一",
+    "translation": "冻僵",
+    "example": "手が凍える（手冻僵）"
+  },
+  {
+    "word": "こしかける",
+    "kanji": "腰掛ける",
+    "partOfSpeech": "自下一",
+    "translation": "坐下",
+    "example": "腰掛けて休む（坐下休息）"
+  },
+  {
+    "word": "こする",
+    "kanji": "擦る",
+    "partOfSpeech": "他五",
+    "translation": "摩擦",
+    "example": "あかをこする（擦污垢）"
+  },
+  {
+    "word": "ことなる",
+    "kanji": "異なる",
+    "partOfSpeech": "自五",
+    "translation": "不同",
+    "example": "姓が異なる（姓名不同）"
+  },
+  {
+    "word": "こめる",
+    "kanji": "込める",
+    "partOfSpeech": "他下一",
+    "translation": "装填；集中",
+    "example": "仕事に力を込める（把精力集中在工作上）"
+  },
+  {
+    "word": "こらえる",
+    "kanji": "堪える",
+    "partOfSpeech": "他下一",
+    "translation": "忍耐",
+    "example": "痛みを堪える（忍痛）"
+  },
+  {
+    "word": "さかのぼる",
+    "kanji": "さかのぼる",
+    "partOfSpeech": "自五",
+    "translation": "追溯",
+    "example": "太古 [たいこ] に遡る（追溯到上古）"
+  },
+  {
+    "word": "さからう",
+    "kanji": "逆らう",
+    "partOfSpeech": "自五",
+    "translation": "逆；违背",
+    "example": "風に逆らって進む（迎风前进）\n忠言 [ちゅうげん] 耳に逆らう（忠言逆耳）"
+  },
+  {
+    "word": "さぐる",
+    "kanji": "探る",
+    "partOfSpeech": "他五",
+    "translation": "探寻；试探",
+    "example": "相手の意向 [いこう] を探る（试探对方的意向）"
+  },
+  {
+    "word": "ささえる",
+    "kanji": "支える",
+    "partOfSpeech": "他下一",
+    "translation": "支撑；支持",
+    "example": "一家の暮らしを支える（维持一家生活）"
+  },
+  {
+    "word": "ささやく",
+    "kanji": "ささやく",
+    "partOfSpeech": "他五",
+    "translation": "低声私语",
+    "example": "こっそりささやく（窃窃私语）"
+  },
+  {
+    "word": "さしひく",
+    "kanji": "差し引く",
+    "partOfSpeech": "他五",
+    "translation": "扣除；相抵",
+    "example": "手数料 [てすうりょう]を差し引く（扣除手续费）"
+  },
+  {
+    "word": "さす",
+    "kanji": "指す",
+    "partOfSpeech": "他五",
+    "translation": "指；意味着",
+    "example": "犯人を指す（揭发犯人）"
+  },
+  {
+    "word": "さびる",
+    "kanji": "錆びる",
+    "partOfSpeech": "自上一",
+    "translation": "生锈",
+    "example": "小刀 [こがたな] がさびた（小刀生锈了）"
+  },
+  {
+    "word": "さまたげる",
+    "kanji": "妨げる",
+    "partOfSpeech": "他下一",
+    "translation": "妨碍",
+    "example": "交通を妨げる（妨碍交通）"
+  },
+  {
+    "word": "しく",
+    "kanji": "敷く",
+    "partOfSpeech": "他五",
+    "translation": "铺",
+    "example": "ふとんを敷く（铺被褥）"
+  },
+  {
+    "word": "しげる",
+    "kanji": "茂る",
+    "part_of_speech": "自五",
+    "definition": "繁茂",
+    "example": "草が茂っている（草长得茂盛）"
+  },
+  {
+    "word": "しびれる",
+    "kanji": "痺れる",
+    "part_of_speech": "自下一",
+    "definition": "麻木；发麻",
+    "example": "足が痺れる（腿麻）"
+  },
+  {
+    "word": "しぼむ",
+    "kanji": "",
+    "part_of_speech": "自五",
+    "definition": "枯萎",
+    "example": "花がしぼんだ（花枯萎了）"
+  },
+  {
+    "word": "しばる",
+    "kanji": "縛る",
+    "part_of_speech": "他五",
+    "definition": "捆绑；束缚",
+    "example": "まきを縛る（捆柴）"
+  },
+  {
+    "word": "すきとおる",
+    "kanji": "透き通る",
+    "part_of_speech": "自五",
+    "definition": "透明",
+    "example": "透き通った泉（清泉）"
+  },
+  {
+    "word": "すくう",
+    "kanji": "救う",
+    "part_of_speech": "他五",
+    "definition": "拯救；挽救",
+    "example": "命を救う（救命）"
+  },
+  {
+    "word": "すぐれる",
+    "kanji": "優れる",
+    "part_of_speech": "自下一",
+    "definition": "优秀；好，佳",
+    "example": "優れた学者（杰出的学者）"
+  },
+  {
+    "word": "ずらす",
+    "kanji": "",
+    "part_of_speech": "他五",
+    "definition": "挪动；错开",
+    "example": "位置をずらす（挪动位置）"
+  },
+  {
+    "word": "すれちがう",
+    "kanji": "すれ違う",
+    "part_of_speech": "自五",
+    "definition": "交错，错过",
+    "example": "肩と肩とがすれ違う（擦肩而过）"
+  },
+  {
+    "word": "せおう",
+    "kanji": "背負う",
+    "part_of_speech": "他五",
+    "definition": "背，负",
+    "example": "罪を背負う（承担罪名）"
+  },
+  {
+    "word": "せっする",
+    "kanji": "接する",
+    "part_of_speech": "自·他サ",
+    "definition": "接触；接连",
+    "example": "男に接する（接触男人）"
+  },
+  {
+    "word": "せまる",
+    "kanji": "迫る",
+    "part_of_speech": "自五",
+    "definition": "强迫；逼近",
+    "example": "夕暮れが迫る（夜幕降临）"
+  },
+  {
+    "word": "せめる",
+    "kanji": "責める",
+    "part_of_speech": "他下一",
+    "definition": "责备",
+    "example": "自分を責める（责备自己）"
+  },
+  {
+    "word": "せめる",
+    "kanji": "攻める",
+    "part_of_speech": "他下一",
+    "definition": "攻击",
+    "example": "城を攻める（攻城）"
+  },
+  {
+    "word": "ぞくする",
+    "kanji": "属する",
+    "part_of_speech": "自サ",
+    "definition": "属于；隶属",
+    "example": "すべての権力は人民に属する（一切权力属于人民）"
+  },
+  {
+    "word": "そなえる",
+    "kanji": "備える",
+    "part_of_speech": "他下一",
+    "definition": "防备；设置",
+    "example": "老後に備える（防老）"
+  },
+  {
+    "word": "そる",
+    "kanji": "剃る",
+    "part_of_speech": "他五",
+    "definition": "剃",
+    "example": "ひげを剃る（刮胡子）"
+  },
+  {
+    "word": "それる",
+    "kanji": "逸れる",
+    "part_of_speech": "自下一",
+    "definition": "脱离正轨",
+    "example": "たまが逸れた（子弹射偏）"
+  },
+  {
+    "word": "たいする",
+    "kanji": "対する",
+    "part_of_speech": "自サ",
+    "definition": "面对；关于",
+    "example": "文学に対する興味（对文学的兴趣）"
+  },
+  {
+    "word": "たがやす",
+    "kanji": "耕す",
+    "part_of_speech": "他五",
+    "definition": "耕",
+    "example": "畑を耕す（耕地）"
+  },
+  {
+    "word": "たく",
+    "kanji": "炊く",
+    "part_of_speech": "他五",
+    "definition": "炊，做（饭）",
+    "example": "ご飯を炊く（做饭）"
+  },
+  {
+    "word": "たくわえる",
+    "kanji": "蓄える",
+    "part_of_speech": "他下一",
+    "definition": "储存，留",
+    "example": "金を蓄える（存钱）"
+  },
+  {
+    "word": "たずねる",
+    "kanji": "尋ねる",
+    "part_of_speech": "他下一",
+    "definition": "寻找",
+    "example": "道を尋ねる（问路）"
+  },
+  {
+    "word": "たっする",
+    "kanji": "達する",
+    "part_of_speech": "自·他サ",
+    "definition": "达到；完成",
+    "example": "頂上に達する（到达山顶）"
+  },
+  {
+    "word": "たとえる",
+    "kanji": "例える",
+    "part_of_speech": "他下一",
+    "definition": "比如，比喻",
+    "example": "美人を花に例える（把美人比喻成花）"
+  },
+  {
+    "word": "ダブる",
+    "kanji": "double",
+    "part_of_speech": "自五",
+    "definition": "重复",
+    "example": "日曜と祭日がダブる（星期日和节日赶在一天了）"
+  },
+  {
+    "word": "だまる",
+    "kanji": "黙る",
+    "part_of_speech": "自五",
+    "definition": "沉默",
+    "example": "黙れ（住口!）"
+  },
+  {
+    "word": "ためす",
+    "kanji": "試す",
+    "part_of_speech": "他五",
+    "definition": "尝试",
+    "example": "性能を試す（试验性能）"
+  },
+  {
+    "word": "ちぎる",
+    "kanji": "契る",
+    "part_of_speech": "他五",
+    "definition": "誓约",
+    "example": "かたく契った恋人（海誓山盟的情人）"
+  },
+  {
+    "word": "ちぢむ",
+    "kanji": "縮む",
+    "part_of_speech": "自五",
+    "definition": "缩，收缩",
+    "example": "服のたけが縮んだ（衣服的长度缩短了）"
+  },
+  {
+    "word": "ちぢめる",
+    "kanji": "縮める",
+    "part_of_speech": "他下一",
+    "definition": "缩短，减少",
+    "example": "命を縮める（缩短寿命）"
+  },
+  {
+    "word": "ちぢれる",
+    "kanji": "縮れる",
+    "part_of_speech": "自下一",
+    "definition": "卷曲；起皱",
+    "example": "髪の毛が縮れている（头发卷曲）"
+  },
+  {
+    "word": "ちらす",
+    "kanji": "散らす",
+    "part_of_speech": "他五",
+    "definition": "散开；散步",
+    "example": "花を散らす（撒花）"
+  },
+  {
+    "word": "つきあたる",
+    "kanji": "突き当たる",
+    "part_of_speech": "自五",
+    "definition": "撞上；走到尽头",
+    "example": "困難に突き当たる（遇到困难）"
+  },
+  {
+    "word": "つきる",
+    "kanji": "尽きる",
+    "part_of_speech": "自上一",
+    "definition": "尽，完；到头",
+    "example": "手段が尽きる（用尽手段）"
+  },
+  {
+    "word": "つく",
+    "kanji": "就く",
+    "part_of_speech": "自五",
+    "definition": "就；从事",
+    "example": "席に就く（就座）"
+  },
+  {
+    "word": "つぐ",
+    "kanji": "次ぐ",
+    "part_of_speech": "自五",
+    "definition": "接着；次于",
+    "example": "首相に次ぐ地位（仅次于首相的地位）"
+  },
+  {
+    "word": "つくりだす",
+    "kanji": "作り出す",
+    "part_of_speech": "他五",
+    "definition": "开始做；发明",
+    "example": "新語を作り出す（创出新词）"
+  },
+  {
+    "word": "つくる",
+    "kanji": "造る",
+    "part_of_speech": "他五",
+    "definition": "建造",
+    "example": "船を造る（造船）"
+  },
+  {
+    "word": "つっこむ",
+    "kanji": "突っ込む",
+    "part_of_speech": "自他五",
+    "definition": "闯进；深入",
+    "example": "突っ込んだ話をする（深入地谈）"
+  },
+  {
+    "word": "つとめる",
+    "kanji": "努める",
+    "part_of_speech": "自下一",
+    "definition": "努力",
+    "example": "計画の完成に努める（努力完成计划）"
+  },
+  {
+    "word": "つとめる",
+    "kanji": "務める",
+    "part_of_speech": "他下一",
+    "definition": "担任",
+    "example": "司会を務める（担任主持人）"
+  },
+  {
+    "word": "つながる",
+    "kanji": "",
+    "part_of_speech": "自五",
+    "definition": "相连，相关",
+    "example": "事件につながる人々（与事件有牵连的人们）"
+  },
+  {
+    "word": "つりあう",
+    "kanji": "釣り合う",
+    "part_of_speech": "自五",
+    "definition": "平衡；匀称",
+    "example": "収入と支出が釣り合う（收支平衡）"
+  },
+  {
+    "word": "つる",
+    "kanji": "吊る",
+    "part_of_speech": "他五",
+    "definition": "吊，挂",
+    "example": "橋を吊る（架吊桥）"
+  },
+  {
+    "word": "つるす",
+    "kanji": "吊るす",
+    "part_of_speech": "他五",
+    "definition": "吊，悬",
+    "example": "風鈴を吊るす（挂风铃）"
+  },
+  {
+    "word": "てきする",
+    "kanji": "適する",
+    "part_of_speech": "自サ",
+    "definition": "适合；适当",
+    "example": "教師に適した人（适合当老师的人）"
+  },
+  {
+    "word": "でくわす",
+    "kanji": "出くわす",
+    "part_of_speech": "自五",
+    "definition": "偶遇",
+    "example": "思わぬことに出くわした（碰到意外的事）"
+  },
+  {
+    "word": "てらす",
+    "kanji": "照らす",
+    "part_of_speech": "他五",
+    "definition": "照耀；对照",
+    "example": "太陽が地球を照らす（太阳照耀地球）"
+  },
+  {
+    "word": "てる",
+    "kanji": "照る",
+    "part_of_speech": "自五",
+    "definition": "照，晒",
+    "example": "日が照る（太阳照射）"
+  },
+  {
+    "word": "といかける",
+    "kanji": "問いかける",
+    "part_of_speech": "他下一",
+    "definition": "打听",
+    "example": "矢つぎ早に問いかける（接二连三地问）"
+  },
+  {
+    "word": "とおす",
+    "kanji": "通す",
+    "part_of_speech": "他五",
+    "definition": "穿过，贯通",
+    "example": "ガラス戸は光を通す（玻璃门透光）"
+  },
+  {
+    "word": "とおりかかる",
+    "kanji": "通りかかる",
+    "part_of_speech": "自五",
+    "definition": "恰巧路过",
+    "example": "通りかかった汽船に助けられた（被恰好驶过的轮船救上来了）"
+  },
+  {
+    "word": "とがる",
+    "kanji": "尖る",
+    "part_of_speech": "自五",
+    "definition": "尖；发怒",
+    "example": "とがった顔（尖脸）"
+  },
+  {
+    "word": "とく",
+    "kanji": "解く",
+    "part_of_speech": "他五",
+    "definition": "解开；解除",
+    "example": "帯を解く（解开衣带）"
+  },
+  {
+    "word": "どく",
+    "kanji": "退く",
+    "part_of_speech": "自五",
+    "definition": "躲开",
+    "example": "ちょっとどいてくれ（躲开点!）"
+  },
+  {
+    "word": "とけこむ",
+    "kanji": "溶け込む",
+    "part_of_speech": "自五",
+    "definition": "融洽；溶解",
+    "example": "気持ちが溶け込む（心情融洽）"
+  },
+  {
+    "word": "とける",
+    "kanji": "溶ける",
+    "part_of_speech": "自下一",
+    "definition": "溶化",
+    "example": "鉄が溶ける（铁溶化）"
+  },
+  {
+    "word": "ともなう",
+    "kanji": "伴う",
+    "part_of_speech": "自·他五",
+    "definition": "伴随",
+    "example": "権力は責任を伴う（权力伴随责任）"
+  },
+  {
+    "word": "とらえる",
+    "kanji": "捉える／捕らえる",
+    "part_of_speech": "他下一",
+    "definition": "捕捉",
+    "example": "文章の意味を正しく捉える（正确掌握文章的含意）"
+  },
+  {
+    "word": "とりあげる",
+    "kanji": "取り上げる",
+    "part_of_speech": "他下一",
+    "definition": "拿起；提出",
+    "example": "受話器を取り上げる（拿起听筒）"
+  },
+  {
+    "word": "とりいれる",
+    "kanji": "取り入れる",
+    "part_of_speech": "他下一",
+    "definition": "收获；拿进",
+    "example": "外国の文化を取り入れる（引进外国的文化）"
+  },
+  {
+    "word": "ながびく",
+    "kanji": "長引く",
+    "part_of_speech": "自五",
+    "definition": "拖延",
+    "example": "病気が長引く（病未见好）"
+  },
+  {
+    "word": "ながめる",
+    "kanji": "眺める",
+    "part_of_speech": "他下一",
+    "definition": "眺望",
+    "example": "月を眺める（望月）"
+  },
+  {
+    "word": "なぐさめる",
+    "kanji": "慰める",
+    "part_of_speech": "他下一",
+    "definition": "安慰",
+    "example": "心を慰める（使心情安适）"
+  },
+  {
+    "word": "なぐる",
+    "kanji": "殴る",
+    "part_of_speech": "他五",
+    "definition": "殴打",
+    "example": "人を殴る（打人）"
+  },
+  {
+    "word": "なでる",
+    "kanji": "撫でる",
+    "part_of_speech": "他下一",
+    "definition": "抚摸；安抚",
+    "example": "ひげをなでる（捋胡子）"
+  },
+  {
+    "word": "なる",
+    "kanji": "成る",
+    "part_of_speech": "自五",
+    "definition": "做好，做完",
+    "example": "願いが成る（愿望实现了）"
+  },
+  {
+    "word": "にえる",
+    "kanji": "煮える",
+    "part_of_speech": "自下一",
+    "definition": "煮熟",
+    "example": "いもが煮える（白薯熟了）"
+  },
+  {
+    "word": "におう",
+    "kanji": "",
+    "part_of_speech": "自五",
+    "definition": "散发香味",
+    "example": "この花はよくにおいますね（这花真香呀）"
+  },
+  {
+    "word": "にがす",
+    "kanji": "逃がす",
+    "part_of_speech": "他五",
+    "definition": "放掉；错过",
+    "example": "どろぼうを逃がす（让小偷跑掉）"
+  },
+  {
+    "word": "にぎりしめる",
+    "kanji": "握り締める",
+    "part_of_speech": "他下一",
+    "definition": "紧握",
+    "example": "こぶしを握り締める（攥紧拳头）"
+  },
+  {
+    "word": "にぎる",
+    "kanji": "握る",
+    "part_of_speech": "他五",
+    "definition": "握；掌握",
+    "example": "ハンドルを握る（掌握方向盘）"
+  },
+  {
+    "word": "にくむ",
+    "kanji": "憎む",
+    "part_of_speech": "他五",
+    "definition": "憎恨",
+    "example": "敵を憎む（憎恨敌人）"
+  },
+  {
+    "word": "にごる",
+    "kanji": "濁る",
+    "part_of_speech": "自五",
+    "definition": "浑浊",
+    "example": "空気が濁っている（空气污浊）"
+  },
+  {
+    "word": "ぬう",
+    "kanji": "縫う",
+    "part_of_speech": "他五",
+    "definition": "缝",
+    "example": "着物を縫う（缝衣服）"
+  },
+  {
+    "word": "ねじる",
+    "kanji": "",
+    "part_of_speech": "他五",
+    "definition": "拧",
+    "example": "タオルをねじる（拧手巾）"
+  },
+  {
+    "word": "ねっする",
+    "kanji": "熱する",
+    "part_of_speech": "自他サ",
+    "definition": "发热；加热",
+    "example": "観衆が熱してきた（观众兴奋起来了）"
+  },
+  {
+    "word": "ねらう",
+    "kanji": "狙う",
+    "part_of_speech": "他五",
+    "definition": "瞄准；意图",
+    "example": "的を狙う（瞄准靶子）"
+  },
+  {
+    "word": "のがす",
+    "kanji": "逃す",
+    "part_of_speech": "他五",
+    "definition": "错过",
+    "example": "機会を逃した（错失良机）"
+  },
+  {
+    "word": "のぞむ",
+    "kanji": "望む",
+    "part_of_speech": "他五",
+    "definition": "希望，愿望",
+    "example": "出世を望む（期望发迹）"
+  },
+  {
+    "word": "のべる",
+    "kanji": "述べる",
+    "part_of_speech": "他下一",
+    "definition": "叙述",
+    "example": "感想を述べる（发表感想）"
+  },
+  {
+    "word": "のぼる",
+    "kanji": "昇る",
+    "part_of_speech": "自五",
+    "definition": "上升",
+    "example": "太陽が昇る（太阳升起）"
+  },
+  {
+    "word": "のりすごす",
+    "kanji": "乗り過ごす",
+    "part_of_speech": "自五",
+    "definition": "坐过站",
+    "example": "居眠りして乗り過ごした（因打瞌睡而坐过站）"
+  },
+  {
+    "word": "はえる",
+    "kanji": "生える",
+    "part_of_speech": "自下一",
+    "definition": "长，生",
+    "example": "ひげが生える（长胡须）"
+  },
+  {
+    "word": "はがす",
+    "kanji": "剥がす",
+    "part_of_speech": "他五",
+    "definition": "剥下，揭下",
+    "example": "切手を剥がす（揭下邮票）"
+  },
+  {
+    "word": "はく",
+    "kanji": "吐く",
+    "part_of_speech": "他五",
+    "definition": "吐；说出",
+    "example": "血を吐く（吐血）"
+  },
+  {
+    "word": "はさまる",
+    "kanji": "挟まる",
+    "part_of_speech": "自五",
+    "definition": "夹，塞",
+    "example": "指がドアに挟まった（手指夹在门缝里了）"
+  },
+  {
+    "word": "はさむ",
+    "kanji": "挟む",
+    "part_of_speech": "他五",
+    "definition": "夹；插",
+    "example": "口を挟む（插嘴）"
+  },
+  {
+    "word": "ばっする",
+    "kanji": "罰する",
+    "part_of_speech": "他サ",
+    "definition": "处罚",
+    "example": "きびしく罰する（严厉处罚）"
+  },
+  {
+    "word": "はなしかける",
+    "kanji": "話しかける",
+    "part_of_speech": "他下一",
+    "definition": "搭话",
+    "example": "英語で話しかける（用英语搭话）"
+  },
+  {
+    "word": "はなしこむ",
+    "kanji": "話し込む",
+    "part_of_speech": "自他五",
+    "definition": "谈话融洽",
+    "example": "深夜まで話し込んだ（畅谈到深夜）"
+  },
+  {
+    "word": "はなす",
+    "kanji": "離す",
+    "part_of_speech": "他五",
+    "definition": "放开",
+    "example": "手を離せ（放开手!）"
+  },
+  {
+    "word": "はやる",
+    "kanji": "流行る",
+    "part_of_speech": "自五",
+    "definition": "流行",
+    "example": "風邪が流行っている（现在感冒高发）"
+  },
+  {
+    "word": "はらいこむ",
+    "kanji": "払い込む",
+    "part_of_speech": "他五",
+    "definition": "缴纳",
+    "example": "銀行に金を払い込む（向银行交款）"
+  },
+  {
+    "word": "はりきる",
+    "kanji": "張り切る",
+    "part_of_speech": "自五",
+    "definition": "干劲十足",
+    "example": "張り切って働く（带劲地工作）"
+  },
+  {
+    "word": "ひきかえす",
+    "kanji": "引き返す",
+    "part_of_speech": "自五",
+    "definition": "折回",
+    "example": "途中から引き返す（半路上折回）"
+  },
+  {
+    "word": "ひきとめる",
+    "kanji": "引き止める",
+    "part_of_speech": "他下一",
+    "definition": "挽留",
+    "example": "客を引き止める（挽留客人）"
+  },
+  {
+    "word": "ひっかかる",
+    "kanji": "引っかかる",
+    "part_of_speech": "自五",
+    "definition": "挂；牵连",
+    "example": "網に引っかかる（挂到网上）"
+  },
+  {
+    "word": "ひっくりかえす",
+    "kanji": "ひっくり返す",
+    "part_of_speech": "他五",
+    "definition": "弄倒；翻过来",
+    "example": "札をひっくり返す（把牌子翻过来）"
+  },
+  {
+    "word": "ひっくりかえる",
+    "kanji": "ひっくり返る",
+    "part_of_speech": "自五",
+    "definition": "翻倒",
+    "example": "車がひっくり返った（车翻了）"
+  },
+  {
+    "word": "ひっこむ",
+    "kanji": "引っ込む",
+    "part_of_speech": "自五",
+    "definition": "退居",
+    "example": "田舎に引っ込む（退居乡间）"
+  },
+  {
+    "word": "ひっぱる",
+    "kanji": "引っ張る",
+    "part_of_speech": "他五",
+    "definition": "拉；拉拢",
+    "example": "車を引っ張る（拉车）"
+  },
+  {
+    "word": "ひねる",
+    "kanji": "",
+    "part_of_speech": "他五",
+    "definition": "捻；扭转",
+    "example": "首をひねる（转头；左思右想而不解）"
+  },
+  {
+    "word": "ひびく",
+    "kanji": "響く",
+    "part_of_speech": "自五",
+    "definition": "响；发出回音",
+    "example": "天下に名が響く（名震天下）"
+  },
+  {
+    "word": "ひろめる",
+    "kanji": "広める",
+    "part_of_speech": "他下一",
+    "definition": "扩大；推广",
+    "example": "知識を広める（扩大知识面）"
+  },
+  {
+    "word": "ふくらます",
+    "kanji": "膨らます",
+    "part_of_speech": "他五",
+    "definition": "吹鼓，使鼓起来",
+    "example": "風船を膨らます（把气球吹鼓）"
+  },
+  {
+    "word": "ふくらむ",
+    "kanji": "膨らむ",
+    "part_of_speech": "自五",
+    "definition": "膨胀",
+    "example": "腹が膨らむ（肚子鼓起）"
+  },
+  {
+    "word": "ふける",
+    "kanji": "更ける",
+    "part_of_speech": "自下一",
+    "definition": "深",
+    "example": "夜が更ける（夜深）"
+  },
+  {
+    "word": "ふさがる",
+    "kanji": "塞がる",
+    "part_of_speech": "自五",
+    "definition": "堵，塞",
+    "example": "道が塞がる（道路被堵塞了）"
+  },
+  {
+    "word": "ふさぐ",
+    "kanji": "塞ぐ",
+    "part_of_speech": "自五",
+    "definition": "郁闷；堵",
+    "example": "気が塞ぐ（心里郁闷）"
+  },
+  {
+    "word": "ふざける",
+    "kanji": "",
+    "part_of_speech": "自下一",
+    "definition": "开玩笑；愚弄",
+    "example": "ふざけるな（别开玩笑了!）"
+  },
+  {
+    "word": "ふせぐ",
+    "kanji": "防ぐ",
+    "part_of_speech": "他五",
+    "definition": "防御；预防",
+    "example": "火を防ぐ（防火）"
+  },
+  {
+    "word": "ぶらさがる",
+    "kanji": "ぶら下がる",
+    "part_of_speech": "自五",
+    "definition": "吊垂，悬",
+    "example": "つり革にぶら下がる（抓住拉手）"
+  },
+  {
+    "word": "ぶらさげる",
+    "kanji": "ぶら下げる",
+    "part_of_speech": "他下一",
+    "definition": "佩戴；提",
+    "example": "バケツをぶら下げる（手提水桶）"
+  },
+  {
+    "word": "ふりむく",
+    "kanji": "振り向く",
+    "part_of_speech": "自五",
+    "definition": "回头",
+    "example": "振り向く人もいない（没人理睬）"
+  },
+  {
+    "word": "ふるまう",
+    "kanji": "振る舞う",
+    "part_of_speech": "自五",
+    "definition": "行动",
+    "example": "偉そうに振舞う（摆架子）"
+  },
+  {
+    "word": "ふれる",
+    "kanji": "触れる",
+    "part_of_speech": "自下一",
+    "definition": "接触；涉及",
+    "example": "手で品物に触れる（用手摸东西）"
+  },
+  {
+    "word": "へこむ",
+    "kanji": "凹む",
+    "part_of_speech": "自五",
+    "definition": "凹下；屈服",
+    "example": "ボールがへこむ（球瘪了）"
+  },
+  {
+    "word": "へだたる",
+    "kanji": "隔たる",
+    "part_of_speech": "自五",
+    "definition": "相隔",
+    "example": "実力が隔たる（实力不同）"
+  },
+  {
+    "word": "へだてる",
+    "kanji": "隔てる",
+    "part_of_speech": "他下一",
+    "definition": "隔开；间隔",
+    "example": "海を隔てる（隔着大海）"
+  },
+  {
+    "word": "ほうる",
+    "kanji": "放る",
+    "part_of_speech": "他五",
+    "definition": "扔；丢开",
+    "example": "石を放る（扔石头）"
+  },
+  {
+    "word": "ほえる",
+    "kanji": "吠える",
+    "part_of_speech": "自下一",
+    "definition": "吼叫",
+    "example": "犬が吠えている（狗吠）"
+  },
+  {
+    "word": "ほる",
+    "kanji": "掘る",
+    "part_of_speech": "他五",
+    "definition": "挖掘",
+    "example": "井戸を掘る（打井）"
+  },
+  {
+    "word": "まく",
+    "kanji": "巻く",
+    "part_of_speech": "他五",
+    "definition": "卷；缠绕",
+    "example": "帯を巻く（缠腰带）"
+  },
+  {
+    "word": "まじる",
+    "kanji": "混じる",
+    "part_of_speech": "自五",
+    "definition": "掺混",
+    "example": "白髪の混じった髪（有白发的头发）"
+  },
+  {
+    "word": "ます",
+    "kanji": "増す",
+    "part_of_speech": "自五",
+    "definition": "增加，增大",
+    "example": "水が増す（涨水）"
+  },
+  {
+    "word": "まつる",
+    "kanji": "祭る",
+    "part_of_speech": "他五",
+    "definition": "祭祀；供奉",
+    "example": "祖先を祭る（祭奠祖先）"
+  },
+  {
+    "word": "まねる",
+    "kanji": "真似る",
+    "part_of_speech": "他下一",
+    "definition": "模仿",
+    "example": "人の作品を真似る（模仿别人的作品）"
+  },
+  {
+    "word": "まわす",
+    "kanji": "回す",
+    "part_of_speech": "他五",
+    "definition": "转动；传递",
+    "example": "杯を回す（传递酒杯）"
+  },
+  {
+    "word": "みだれる",
+    "kanji": "乱れる",
+    "part_of_speech": "自下一",
+    "definition": "紊乱；混乱",
+    "example": "心が乱れる（心乱）"
+  },
+  {
+    "word": "みちる",
+    "kanji": "満ちる",
+    "part_of_speech": "自上一",
+    "definition": "充满",
+    "example": "月が満ちた（月圆）"
+  },
+  {
+    "word": "みつめる",
+    "kanji": "見つめる",
+    "part_of_speech": "他下一",
+    "definition": "凝视",
+    "example": "相手の顔を見つめる（凝视对方的面孔）"
+  },
+  {
+    "word": "みとめる",
+    "kanji": "認める",
+    "part_of_speech": "他下一",
+    "definition": "承认；准许",
+    "example": "欠点を認める（承认缺点）"
+  },
+  {
+    "word": "みなれる",
+    "kanji": "見慣れる",
+    "part_of_speech": "自下一",
+    "definition": "看惯",
+    "example": "見なれた景色（熟悉的风景）"
+  },
+  {
+    "word": "みにつける",
+    "kanji": "身につける",
+    "part_of_speech": "他下一",
+    "definition": "学到，掌握",
+    "example": ""
+  },
+  {
+    "word": "みのる",
+    "kanji": "実る",
+    "part_of_speech": "自五",
+    "definition": "结果实；有成果",
+    "example": "かきが実る（结柿子）；苦心が実る（努力见成果）"
+  },
+  {
+    "word": "むかう",
+    "kanji": "向かう",
+    "part_of_speech": "自五",
+    "definition": "朝向；相对",
+    "example": "鏡に向かう（照镜子）"
+  },
+  {
+    "word": "むく",
+    "kanji": "剥く",
+    "part_of_speech": "他五",
+    "definition": "剥，削",
+    "example": "皮を剥く（剥皮）"
+  },
+  {
+    "word": "むける",
+    "kanji": "向ける",
+    "part_of_speech": "他下一",
+    "definition": "朝，向",
+    "example": "顔を下に向ける（低头）"
+  },
+  {
+    "word": "めいじる",
+    "kanji": "命じる",
+    "part_of_speech": "他上一",
+    "definition": "命令；任命",
+    "example": "局長を命じられる（被任命为局长）"
+  },
+  {
+    "word": "めぐまれる",
+    "kanji": "恵まれる",
+    "part_of_speech": "自下一",
+    "definition": "赋予，富有",
+    "example": "天気に恵まれる（天公作美）"
+  },
+  {
+    "word": "めぐる",
+    "kanji": "",
+    "part_of_speech": "自五",
+    "definition": "循环；巡游",
+    "example": "諸国を巡る（历访各国）"
+  },
+  {
+    "word": "めざす",
+    "kanji": "目指す",
+    "part_of_speech": "他五",
+    "definition": "以……为目标",
+    "example": "歌手を目指す（想当歌手）"
+  },
+  {
+    "word": "もうかる",
+    "kanji": "儲かる",
+    "part_of_speech": "自五",
+    "definition": "赚钱",
+    "example": "1万円もうかった（赚了一万日元）"
+  },
+  {
+    "word": "もうける",
+    "kanji": "設ける",
+    "part_of_speech": "他下一",
+    "definition": "准备；设置",
+    "example": "条件を設ける（创造条件）"
+  },
+  {
+    "word": "もぐる",
+    "kanji": "潜る",
+    "part_of_speech": "自五",
+    "definition": "潜水；躲入",
+    "example": "地下に潜る（潜入地下）"
+  },
+  {
+    "word": "もたれる",
+    "kanji": "",
+    "part_of_speech": "自下一",
+    "definition": "倚靠；存食",
+    "example": "胃にもたれる（胃里积食）"
+  },
+  {
+    "word": "もちあげる",
+    "kanji": "持ち上げる",
+    "part_of_speech": "他下一",
+    "definition": "举起，抬起",
+    "example": "荷物を持ち上げる（举起行李）"
+  },
+  {
+    "word": "もちいる",
+    "kanji": "用いる",
+    "part_of_speech": "他上一",
+    "definition": "使用；采用",
+    "example": "新人を用いる（录用新人）"
+  },
+  {
+    "word": "もとづく",
+    "kanji": "基づく",
+    "part_of_speech": "自五",
+    "definition": "根据；基于",
+    "example": "法律に基づいて（依法）"
+  },
+  {
+    "word": "もとめる",
+    "kanji": "求める",
+    "part_of_speech": "他下一",
+    "definition": "寻求； 请求",
+    "example": "職を求める（求职）"
+  },
+  {
+    "word": "もむ",
+    "kanji": "揉む",
+    "part_of_speech": "他五",
+    "definition": "搓，揉；争论",
+    "example": "肩を揉む（揉肩）"
+  },
+  {
+    "word": "やすまる",
+    "kanji": "休まる",
+    "part_of_speech": "自五",
+    "definition": "得到休息",
+    "example": "気が休まる（气定神闲）"
+  },
+  {
+    "word": "やっつける",
+    "kanji": "遣っ付ける",
+    "part_of_speech": "他下一",
+    "definition": "干完；教训",
+    "example": "あいつをやっつけてやろう（要整一整那个家伙）"
+  },
+  {
+    "word": "やってくる",
+    "kanji": "やって来る",
+    "part_of_speech": "自五",
+    "definition": "到来",
+    "example": "まもなく試験がやってくる（考试即将来临）"
+  },
+  {
+    "word": "やとう",
+    "kanji": "雇う",
+    "part_of_speech": "他五",
+    "definition": "雇用",
+    "example": "ガイドを雇う（雇向导）"
+  },
+  {
+    "word": "やぶれる",
+    "kanji": "敗れる",
+    "part_of_speech": "自下一",
+    "definition": "输，失败",
+    "example": "いくさに敗れる（战败）"
+  },
+  {
+    "word": "やめる",
+    "kanji": "辞める",
+    "part_of_speech": "他下一",
+    "definition": "停，辞",
+    "example": "会社を辞める（辞职）"
+  },
+  {
+    "word": "よす",
+    "kanji": "止す",
+    "part_of_speech": "他五",
+    "definition": "停止",
+    "example": "冗談はよせ（别开玩笑）"
+  },
+  {
+    "word": "よせる",
+    "kanji": "寄せる",
+    "part_of_speech": "自他下一",
+    "definition": "靠近",
+    "example": "車を左に寄せる（让汽车向左靠近）"
+  },
+  {
+    "word": "よびかける",
+    "kanji": "呼びかける",
+    "part_of_speech": "他下一",
+    "definition": "号召",
+    "example": "大衆に呼びかける（号召群众）"
+  },
+  {
+    "word": "わびる",
+    "kanji": "詫びる",
+    "part_of_speech": "他上一",
+    "definition": "道歉",
+    "example": "彼に詫びる（向他赔不是）"
+  },
+  {
+    "word": "あきっぽい",
+    "kanji": "飽きっぽい",
+    "part_of_speech": "イ形",
+    "definition": "容易厌烦的",
+    "example": "飽きっぽい性格（没常性的性格）"
+  },
+  {
+    "word": "あたたかい",
+    "kanji": "温かい",
+    "part_of_speech": "イ形",
+    "definition": "暖和的；温暖的",
+    "example": "暖かい天気（暖和的天气）"
+  },
+  {
+    "word": "あつかましい",
+    "kanji": "厚かましい",
+    "part_of_speech": "イ形",
+    "definition": "厚脸皮的，无耻的",
+    "example": "厚かましい男（厚颜无耻的男人）"
+  },
+  {
+    "word": "あやうい",
+    "kanji": "危うい",
+    "part_of_speech": "イ形",
+    "definition": "危险的",
+    "example": "命が危うい（生命危险）"
+  },
+  {
+    "word": "あわただしい",
+    "kanji": "慌ただしい",
+    "part_of_speech": "イ形",
+    "definition": "慌张的，匆忙的",
+    "example": "慌ただしい一生（匆忙度过的一生）"
+  },
+  {
+    "word": "えらい",
+    "kanji": "偉い",
+    "part_of_speech": "イ形",
+    "definition": "伟大的",
+    "example": "偉い人（伟人）"
+  },
+  {
+    "word": "おしい",
+    "kanji": "惜しい",
+    "part_of_speech": "イ形",
+    "definition": "可惜的",
+    "example": "時間が惜しい（时间宝贵）"
+  },
+  {
+    "word": "おもいがけない",
+    "kanji": "思いがけない",
+    "part_of_speech": "イ形",
+    "definition": "意想不到的",
+    "example": "思いがけない成功（意外的成功）"
+  },
+  {
+    "word": "きそくただしい",
+    "kanji": "規則正しい",
+    "part_of_speech": "イ形",
+    "definition": "守规则的，有规律的",
+    "example": "規則正しい生活（规律的生活）"
+  },
+  {
+    "word": "きよい",
+    "kanji": "清い",
+    "part_of_speech": "イ形",
+    "definition": "清澈的；干净的",
+    "example": "清い水（清水）"
+  },
+  {
+    "word": "くどい",
+    "kanji": "",
+    "part_of_speech": "イ形",
+    "definition": "啰嗦的",
+    "example": "話がくどい（说话啰嗦）"
+  },
+  {
+    "word": "けむい",
+    "kanji": "煙い",
+    "part_of_speech": "イ形",
+    "definition": "烟气呛人的；不易亲近的",
+    "example": "煙い存在（令人憋屈，不易亲近）"
+  },
+  {
+    "word": "こいしい",
+    "kanji": "恋しい",
+    "part_of_speech": "イ形",
+    "definition": "亲爱的；眷恋的",
+    "example": "恋しい人（情人；恋人）"
+  },
+  {
+    "word": "さわがしい",
+    "kanji": "騒がしい",
+    "part_of_speech": "イ形",
+    "definition": "嘈杂的；骚然的",
+    "example": "世の中が騒がしい（举世骚然）"
+  },
+  {
+    "word": "しかたがない",
+    "kanji": "仕方がない",
+    "part_of_speech": "イ形",
+    "definition": "没法子的；受不了的",
+    "example": "暑くて仕方がない（热得要命）"
+  },
+  {
+    "word": "しょうがない",
+    "kanji": "",
+    "part_of_speech": "イ形",
+    "definition": "没办法的",
+    "example": "多少の遅れはしょうがないだろう（迟到一会儿也是没办法的事吧）"
+  },
+  {
+    "word": "しょっぱい",
+    "kanji": "",
+    "part_of_speech": "イ形",
+    "definition": "咸的；为难的",
+    "example": "しょっぱい顔をする（作苦脸）"
+  },
+  {
+    "word": "しらじらしい",
+    "kanji": "白々しい",
+    "part_of_speech": "イ形",
+    "definition": "显而易见的，瞒不了人的",
+    "example": "白々しいうそをつく（睁着眼睛说瞎话）"
+  },
+  {
+    "word": "すっぱい",
+    "kanji": "酸っぱい",
+    "part_of_speech": "イ形",
+    "definition": "酸的",
+    "example": "酸っぱい味がする（有酸味）"
+  },
+  {
+    "word": "ずるい",
+    "kanji": "",
+    "part_of_speech": "イ形",
+    "definition": "狡猾的；不讲理",
+    "example": "ずるいことば（花言巧语）"
+  },
+  {
+    "word": "そうぞうしい",
+    "kanji": "騒々しい",
+    "part_of_speech": "イ形",
+    "definition": "嘈杂的；不安的",
+    "example": "騒々しい機械の音（嘈杂的机器声）"
+  },
+  {
+    "word": "たまらない",
+    "kanji": "",
+    "part_of_speech": "イ形",
+    "definition": "忍受不了的",
+    "example": "うれしくてたまらない（高兴得不得了）"
+  },
+  {
+    "word": "だらしない",
+    "kanji": "",
+    "part_of_speech": "イ形",
+    "definition": "散漫的；没出息的",
+    "example": "だらしないふうをする（邋遢打扮）"
+  },
+  {
+    "word": "ちからづよい",
+    "kanji": "力強い",
+    "part_of_speech": "イ形",
+    "definition": "强有力的",
+    "example": "力強い助け（有力的援助）"
+  },
+  {
+    "word": "なつかしい",
+    "kanji": "懐かしい",
+    "part_of_speech": "イ形",
+    "definition": "怀念的",
+    "example": "懐かしい思い出（甜蜜的回忆）"
+  },
+  {
+    "word": "にくらしい",
+    "kanji": "憎らしい",
+    "part_of_speech": "イ形",
+    "definition": "讨厌的；可憎的",
+    "example": "憎らしい顔つき（令人嫌恶的面孔）"
+  },
+  {
+    "word": "にぶい",
+    "kanji": "鈍い",
+    "part_of_speech": "イ形",
+    "definition": "钝的；迟钝的；不响亮的",
+    "example": "神経が鈍い（神经迟钝）"
+  },
+  {
+    "word": "のろい",
+    "kanji": "",
+    "part_of_speech": "イ形",
+    "definition": "缓慢的；迟钝的",
+    "example": "足がのろい（走路慢）"
+  },
+  {
+    "word": "はなはだしい",
+    "kanji": "甚だしい",
+    "part_of_speech": "イ形",
+    "definition": "很，非常",
+    "example": "甚だしい誤解（天大的误会）"
+  },
+  {
+    "word": "ひとしい",
+    "kanji": "等しい",
+    "part_of_speech": "イ形",
+    "definition": "相同的，一样的",
+    "example": "高さが等しい（高度相等）"
+  },
+  {
+    "word": "まっしろい",
+    "kanji": "真っ白い",
+    "part_of_speech": "イ形",
+    "definition": "雪白的，纯白的",
+    "example": "真っ白い布（纯白的布）"
+  },
+  {
+    "word": "みっともない",
+    "kanji": "",
+    "part_of_speech": "イ形",
+    "definition": "不体面的；难看的",
+    "example": "みっともない顔をしている（长得丑）"
+  },
+  {
+    "word": "めでたい",
+    "kanji": "",
+    "part_of_speech": "イ形",
+    "definition": "可喜的；幸运的",
+    "example": "めでたい日（吉庆的日子）"
+  },
+  {
+    "word": "ものすごい",
+    "kanji": "",
+    "part_of_speech": "イ形",
+    "definition": "令人害怕的；惊人的",
+    "example": "ものすごく寒い（冷得要命）"
+  },
+  {
+    "word": "あいまいな",
+    "kanji": "",
+    "part_of_speech": "ナ形",
+    "definition": "暧昧的；含糊不清的",
+    "example": "あいまいな返事（含糊不清的回答）"
+  },
+  {
+    "word": "あらたな",
+    "kanji": "新たな",
+    "part_of_speech": "ナ形",
+    "definition": "新的；重新",
+    "example": "人生の新たな出発（人生的重新开始）"
+  },
+  {
+    "word": "いだいな",
+    "kanji": "偉大な",
+    "part_of_speech": "ナ形",
+    "definition": "伟大的",
+    "example": "偉大な祖国（伟大的祖国）"
+  },
+  {
+    "word": "おおげさな",
+    "kanji": "大げさな",
+    "part_of_speech": "ナ形",
+    "definition": "夸张的；小题大做的",
+    "example": "おおげさな言葉（大话；吹牛）"
+  },
+  {
+    "word": "おだやかな",
+    "kanji": "穏やかな",
+    "part_of_speech": "ナ形",
+    "definition": "平稳的；温和的",
+    "example": "穏やかな人（安详的人）"
+  },
+  {
+    "word": "おんこうな",
+    "kanji": "温厚な",
+    "part_of_speech": "ナ形",
+    "definition": "温厚的",
+    "example": "温厚な青年（敦厚的青年）"
+  },
+  {
+    "word": "おんだんな",
+    "kanji": "温暖な",
+    "part_of_speech": "ナ形",
+    "definition": "温暖的",
+    "example": "温暖な気候（温暖的气候）"
+  },
+  {
+    "word": "かだいな",
+    "kanji": "過大な",
+    "part_of_speech": "ナ形",
+    "definition": "过大的",
+    "example": ""
+  },
+  {
+    "word": "きょうりょくな",
+    "kanji": "強力な",
+    "part_of_speech": "ナ形",
+    "definition": "强有力的",
+    "example": "強力なモーター（马力大的马达）"
+  },
+  {
+    "word": "きょだいな",
+    "kanji": "巨大な",
+    "part_of_speech": "ナ形",
+    "definition": "巨大的",
+    "example": "巨大な建物（高大建筑物）"
+  },
+  {
+    "word": "きんとうな",
+    "kanji": "均等な",
+    "part_of_speech": "ナ形",
+    "definition": "均等的",
+    "example": "機会均等（机会均等）"
+  },
+  {
+    "word": "ぐたいてきな",
+    "kanji": "具体的な",
+    "part_of_speech": "ナ形",
+    "definition": "具体的",
+    "example": "具体的な例（具体的例子）"
+  },
+  {
+    "word": "けんきょな",
+    "kanji": "謙虚な",
+    "part_of_speech": "ナ形",
+    "definition": "谦虚的",
+    "example": "謙虚な態度（谦和的态度）"
+  },
+  {
+    "word": "けんじつな",
+    "kanji": "堅実な",
+    "part_of_speech": "ナ形",
+    "definition": "坚实的",
+    "example": "堅実な方法（切实的方法）"
+  },
+  {
+    "word": "げんじゅうな",
+    "kanji": "厳重な",
+    "part_of_speech": "ナ形",
+    "definition": "严重的，严格的",
+    "example": "厳重な検査をする（进行严格的检查）"
+  },
+  {
+    "word": "ごういんな",
+    "kanji": "強引な",
+    "part_of_speech": "ナ形",
+    "definition": "强行的，强制的",
+    "example": "強引な決定（强行决定）"
+  },
+  {
+    "word": "ごうかな",
+    "kanji": "豪華な",
+    "part_of_speech": "ナ形",
+    "definition": "豪华的，奢华的",
+    "example": "豪華な食事（高级菜肴）"
+  },
+  {
+    "word": "こうへいな",
+    "kanji": "公平な",
+    "part_of_speech": "ナ形",
+    "definition": "公平的",
+    "example": "公平な判断を下す（作公平的判断）"
+  },
+  {
+    "word": "ごうりてきな",
+    "kanji": "合理的な",
+    "part_of_speech": "ナ形",
+    "definition": "合理的",
+    "example": "合理的な説（合理的说法）"
+  },
+  {
+    "word": "さいわいな",
+    "kanji": "幸いな",
+    "part_of_speech": "ナ形",
+    "definition": "幸运的",
+    "example": "幸いな出来事（幸运的事）"
+  },
+  {
+    "word": "さまざまな",
+    "kanji": "様々な",
+    "part_of_speech": "ナ形",
+    "definition": "各种各样的",
+    "example": "様々な型（各种类型）"
+  },
+  {
+    "word": "さわやかな",
+    "kanji": "爽やかな",
+    "part_of_speech": "ナ形",
+    "definition": "爽朗的；清楚的",
+    "example": "爽やかな秋（秋高气爽）"
+  },
+  {
+    "word": "じみな",
+    "kanji": "地味な",
+    "part_of_speech": "ナ形",
+    "definition": "朴素的；朴实的",
+    "example": "地味な色（朴素的颜色）"
+  },
+  {
+    "word": "じゅうだいな",
+    "kanji": "重大な",
+    "part_of_speech": "ナ形",
+    "definition": "重大的",
+    "example": "重大な責任（重大的责任）"
+  },
+  {
+    "word": "しゅような",
+    "kanji": "主要な",
+    "part_of_speech": "ナ形",
+    "definition": "主要的",
+    "example": "主要な人物（重要人物）"
+  },
+  {
+    "word": "じゅんすいな",
+    "kanji": "純粋な",
+    "part_of_speech": "ナ形",
+    "definition": "纯净的；纯粹的",
+    "example": "純粋な若者（纯真的年轻人）"
+  },
+  {
+    "word": "じゅんちょうな",
+    "kanji": "順調な",
+    "part_of_speech": "ナ形",
+    "definition": "顺利的",
+    "example": "順調な一生（顺利的一生）"
+  },
+  {
+    "word": "しんせんな",
+    "kanji": "新鮮な",
+    "part_of_speech": "ナ形",
+    "definition": "新鲜的",
+    "example": "新鮮な空気（清新的空气）"
+  },
+  {
+    "word": "しんちょうな",
+    "kanji": "慎重な",
+    "part_of_speech": "ナ形",
+    "definition": "慎重的，谨慎的",
+    "example": "慎重な発言（小心谨慎的发言）"
+  },
+  {
+    "word": "せっきょくてきな",
+    "kanji": "積極的な",
+    "part_of_speech": "ナ形",
+    "definition": "积极的",
+    "example": "積極的な態度（积极的态度）"
+  },
+  {
+    "word": "そっちょくな",
+    "kanji": "率直な",
+    "part_of_speech": "ナ形",
+    "definition": "直率的",
+    "example": "率直な意見（直率的意见）"
+  },
+  {
+    "word": "そぼくな",
+    "kanji": "素朴な",
+    "part_of_speech": "ナ形",
+    "definition": "朴素的，淳朴的",
+    "example": "素朴な考え方（单纯的想法）"
+  },
+  {
+    "word": "そまつな",
+    "kanji": "粗末な",
+    "part_of_speech": "ナ形",
+    "definition": "粗糙的；疏忽的",
+    "example": "粗末な食事（粗茶淡饭）"
+  },
+  {
+    "word": "たいくつな",
+    "kanji": "退屈な",
+    "part_of_speech": "ナ形",
+    "definition": "无聊的",
+    "example": "退屈なゲーム（无聊的游戏）"
+  },
+  {
+    "word": "たいらな",
+    "kanji": "平らな",
+    "part_of_speech": "ナ形",
+    "definition": "平坦的",
+    "example": "平らな道（平坦的道路）"
+  },
+  {
+    "word": "だとうな",
+    "kanji": "妥当な",
+    "part_of_speech": "ナ形",
+    "definition": "妥当的",
+    "example": "妥当な答え（妥当的回答）"
+  },
+  {
+    "word": "たんじゅんな",
+    "kanji": "単純な",
+    "part_of_speech": "ナ形",
+    "definition": "单纯的",
+    "example": "頭が単純だ（头脑简单）"
+  },
+  {
+    "word": "てきかくな",
+    "kanji": "的確な",
+    "part_of_speech": "ナ形",
+    "definition": "准确的",
+    "example": "的確な表現（正确的表现；用词准确）"
+  },
+  {
+    "word": "てきせつな",
+    "kanji": "適切な",
+    "part_of_speech": "ナ形",
+    "definition": "确切的",
+    "example": "適切な説明（确切的说明）"
+  },
+  {
+    "word": "てきどな",
+    "kanji": "適度な",
+    "part_of_speech": "ナ形",
+    "definition": "适度的",
+    "example": "適度な運動（适度的运动）"
+  },
+  {
+    "word": "でたらめな",
+    "kanji": "",
+    "part_of_speech": "ナ形",
+    "definition": "荒唐的",
+    "example": "でたらめな話（荒唐的话）"
+  },
+  {
+    "word": "どういつな",
+    "kanji": "同一な",
+    "part_of_speech": "ナ形",
+    "definition": "同样的；同等的",
+    "example": "同一の服装（同样的服装）"
+  },
+  {
+    "word": "とうめいな",
+    "kanji": "透明な",
+    "part_of_speech": "ナ形",
+    "definition": "透明的",
+    "example": "透明なガラス（透明的玻璃）"
+  },
+  {
+    "word": "とくしゅな",
+    "kanji": "特殊な",
+    "part_of_speech": "ナ形",
+    "definition": "特殊的",
+    "example": "特殊な目的（特殊的目的）"
+  },
+  {
+    "word": "どくとくな",
+    "kanji": "独特な",
+    "part_of_speech": "ナ形",
+    "definition": "独特的",
+    "example": "独特な香り（独特的香味）"
+  },
+  {
+    "word": "なまいきな",
+    "kanji": "生意気な",
+    "part_of_speech": "ナ形",
+    "definition": "自大的，不逊",
+    "example": "生意気な子（狂妄的小孩）"
+  },
+  {
+    "word": "にがてな",
+    "kanji": "苦手な",
+    "part_of_speech": "ナ形",
+    "definition": "不擅长的",
+    "example": "苦手な科目（不擅长的科目）"
+  },
+  {
+    "word": "のんきな",
+    "kanji": "呑気な",
+    "part_of_speech": "ナ形",
+    "definition": "懒散的",
+    "example": "呑気な生活（悠闲的生活）"
+  },
+  {
+    "word": "ばくだいな",
+    "kanji": "莫大な",
+    "part_of_speech": "ナ形",
+    "definition": "巨大的",
+    "example": "莫大な金額（巨大款额）"
+  },
+  {
+    "word": "はでな",
+    "kanji": "派手な",
+    "part_of_speech": "ナ形",
+    "definition": "华丽的，花哨的",
+    "example": "派手な服装（华丽的服装）"
+  },
+  {
+    "word": "ひじょうしきな",
+    "kanji": "非常識な",
+    "part_of_speech": "ナ形",
+    "definition": "不合乎常理的",
+    "example": "非常識な言動（不合乎常理的言行）"
+  },
+  {
+    "word": "びみょうな",
+    "kanji": "微妙な",
+    "part_of_speech": "ナ形",
+    "definition": "微妙的",
+    "example": "微妙な違い（微妙的差别）"
+  },
+  {
+    "word": "びょうどうな",
+    "kanji": "平等な",
+    "part_of_speech": "ナ形",
+    "definition": "平等的",
+    "example": "男女平等（男女平等）"
+  },
+  {
+    "word": "ふあんな",
+    "kanji": "不安な",
+    "part_of_speech": "ナ形",
+    "definition": "不安的",
+    "example": "不安な心持ち（不安的心情）"
+  },
+  {
+    "word": "ふうんな",
+    "kanji": "不運な",
+    "part_of_speech": "ナ形",
+    "definition": "不幸运的",
+    "example": "不運な家庭（不幸的家庭）"
+  },
+  {
+    "word": "ふきそくな",
+    "kanji": "不規則な",
+    "part_of_speech": "ナ形",
+    "definition": "不规则的",
+    "example": "不規則な形（形状不规则）"
+  },
+  {
+    "word": "ふけつな",
+    "kanji": "不潔な",
+    "part_of_speech": "ナ形",
+    "definition": "不干净的",
+    "example": "不潔な水（不干净的水）"
+  },
+  {
+    "word": "ふこうな",
+    "kanji": "不幸な",
+    "part_of_speech": "ナ形",
+    "definition": "不幸的",
+    "example": "不幸な事故（不幸的事故）"
+  },
+  {
+    "word": "ふこうへいな",
+    "kanji": "不公平な",
+    "part_of_speech": "ナ形",
+    "definition": "不公平的",
+    "example": "不公平な扱い（不公平的对待）"
+  },
+  {
+    "word": "ふしぎな",
+    "kanji": "不思議な",
+    "part_of_speech": "ナ形",
+    "definition": "不可思议的",
+    "example": "不思議な夢（不可思议的梦）"
+  },
+  {
+    "word": "ふゆかいな",
+    "kanji": "不愉快な",
+    "part_of_speech": "ナ形",
+    "definition": "不愉快的",
+    "example": "不愉快に感ずる（感到不愉快）"
+  },
+  {
+    "word": "ふりな",
+    "kanji": "不利な",
+    "part_of_speech": "ナ形",
+    "definition": "不利的",
+    "example": "不利な立場（不利的立场）"
+  },
+  {
+    "word": "ぼうだいな",
+    "kanji": "膨大な",
+    "part_of_speech": "ナ形",
+    "definition": "巨大的",
+    "example": "膨大な予算（庞大的预算）"
+  },
+  {
+    "word": "ほうふな",
+    "kanji": "豊富な",
+    "part_of_speech": "ナ形",
+    "definition": "丰富的",
+    "example": "豊富な知識（知识丰富）"
+  },
+  {
+    "word": "ほがらかな",
+    "kanji": "朗らかな",
+    "part_of_speech": "ナ形",
+    "definition": "开朗的",
+    "example": "朗らかな笑顔（灿烂的笑容）"
+  },
+  {
+    "word": "まれな",
+    "kanji": "稀な",
+    "part_of_speech": "ナ形",
+    "definition": "稀少的",
+    "example": "稀な出来事（少有的事）"
+  },
+  {
+    "word": "みごとな",
+    "kanji": "見事な",
+    "part_of_speech": "ナ形",
+    "definition": "完美的",
+    "example": "見事な試合（精彩的比赛）"
+  },
+  {
+    "word": "みじめな",
+    "kanji": "惨めな",
+    "part_of_speech": "ナ形",
+    "definition": "凄惨的",
+    "example": "惨めな生活（悲惨的生活）"
+  },
+  {
+    "word": "みょうな",
+    "kanji": "妙な",
+    "part_of_speech": "ナ形",
+    "definition": "奇妙的",
+    "example": "妙な夢を見た（做了个怪梦）"
+  },
+  {
+    "word": "めちゃくちゃな",
+    "kanji": "",
+    "part_of_speech": "ナ形",
+    "definition": "荒谬的；杂乱无章的",
+    "example": "めちゃくちゃな言い分（胡说八道）"
+  },
+  {
+    "word": "やっかいな",
+    "kanji": "厄介な",
+    "part_of_speech": "ナ形",
+    "definition": "麻烦的",
+    "example": "厄介な問題（棘手的问题）"
+  },
+  {
+    "word": "ゆうしゅうな",
+    "kanji": "優秀な",
+    "part_of_speech": "ナ形",
+    "definition": "优秀的",
+    "example": "優秀な成績（优异的成绩）"
+  },
+  {
+    "word": "ゆうのうな",
+    "kanji": "有能な",
+    "part_of_speech": "ナ形",
+    "definition": "有才能的",
+    "example": "有能な作家（有才干的作家）"
+  },
+  {
+    "word": "ゆうりな",
+    "kanji": "有利な",
+    "part_of_speech": "ナ形",
+    "definition": "有利的",
+    "example": "有利な立場に立つ（处于有利的立场）"
+  },
+  {
+    "word": "ゆかいな",
+    "kanji": "愉快な",
+    "part_of_speech": "ナ形",
+    "definition": "愉快的",
+    "example": "愉快な1日を送る（度过愉快的一天）"
+  },
+  {
+    "word": "ゆたかな",
+    "kanji": "豊かな",
+    "part_of_speech": "ナ形",
+    "definition": "丰富的",
+    "example": "豊かな内容（丰富的内容）"
+  },
+  {
+    "word": "よういな",
+    "kanji": "容易な",
+    "part_of_speech": "ナ形",
+    "definition": "容易的",
+    "example": "容易な方法（容易的方法）"
+  },
+  {
+    "word": "ようちな",
+    "kanji": "幼稚な",
+    "part_of_speech": "ナ形",
+    "definition": "幼稚的",
+    "example": "幼稚なやり方（幼稚的做法）"
+  },
+  {
+    "word": "よけいな",
+    "kanji": "余計な",
+    "part_of_speech": "ナ形",
+    "definition": "多余的",
+    "example": "余計なお世話（多管闲事）"
+  },
+  {
+    "word": "らっかんてきな",
+    "kanji": "楽観的な",
+    "part_of_speech": "ナ形",
+    "definition": "乐观的",
+    "example": "楽観的な見通し（乐观的预测）"
+  },
+  {
+    "word": "らんぼうな",
+    "kanji": "乱暴な",
+    "part_of_speech": "ナ形",
+    "definition": "粗野的",
+    "example": "乱暴なことばづかい（说话粗鲁）"
+  },
+  {
+    "word": "わずかな",
+    "kanji": "",
+    "part_of_speech": "ナ形",
+    "definition": "些微的",
+    "example": "わずかな時間（些微的时间）"
+  },
+  {
+    "word": "あくる",
+    "kanji": "明くる",
+    "part_of_speech": "连体",
+    "definition": "下一个，翌",
+    "example": "明くる年（翌年）"
+  },
+  {
+    "word": "あらゆる",
+    "kanji": "",
+    "part_of_speech": "连体",
+    "definition": "所有，一切",
+    "example": "あらゆる問題（所有问题）"
+  },
+  {
+    "word": "ある",
+    "kanji": "",
+    "part_of_speech": "连体",
+    "definition": "某",
+    "example": "ある日（某一天）"
+  },
+  {
+    "word": "たんなる",
+    "kanji": "単なる",
+    "part_of_speech": "连体",
+    "definition": "仅仅，只不过",
+    "example": "単なるうわさだ（仅是传言）"
+  },
+  {
+    "word": "ちょっとした",
+    "kanji": "",
+    "part_of_speech": "连体",
+    "definition": "一点，少许",
+    "example": "ちょっとした風邪（轻微感冒）"
+  },
+  {
+    "word": "ほんの",
+    "kanji": "",
+    "part_of_speech": "连体",
+    "definition": "仅仅，一点点",
+    "example": "ほんの少し（一点点）"
+  },
+  {
+    "word": "わが～",
+    "kanji": "我が～",
+    "part_of_speech": "连体",
+    "definition": "我们",
+    "example": "我が国（我国）"
+  },
+  {
+    "word": "あいついで",
+    "kanji": "相次いで",
+    "part_of_speech": "副",
+    "definition": "相继，陆续",
+    "example": "相次いで登場する（相继出场）"
+  },
+  {
+    "word": "あいにく",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "不凑巧，偏巧",
+    "example": ""
+  },
+  {
+    "word": "あくまで（も）",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "彻底；始终",
+    "example": "あくまで闘う（斗争到底）"
+  },
+  {
+    "word": "あまりにも",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "太，过于",
+    "example": ""
+  },
+  {
+    "word": "あらためて",
+    "kanji": "改めて",
+    "part_of_speech": "副",
+    "definition": "重新；再",
+    "example": "改めて調査する（重新调查）"
+  },
+  {
+    "word": "あんまり",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "太",
+    "example": ""
+  },
+  {
+    "word": "いくぶん",
+    "kanji": "幾分",
+    "part_of_speech": "副",
+    "definition": "一点儿，一些",
+    "example": "幾分似ている（有几分像）"
+  },
+  {
+    "word": "いずれ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "哪个，无论",
+    "example": ""
+  },
+  {
+    "word": "いちおう",
+    "kanji": "一応",
+    "part_of_speech": "副",
+    "definition": "姑且，首先",
+    "example": "一応行ってみよう（姑且去看一下）"
+  },
+  {
+    "word": "いちだんと",
+    "kanji": "一段と",
+    "part_of_speech": "副",
+    "definition": "更加，越发",
+    "example": "一段と美しくなった（越发美丽了）"
+  },
+  {
+    "word": "いっそう",
+    "kanji": "一層",
+    "part_of_speech": "副",
+    "definition": "越发，更加",
+    "example": "なお一層の努力を望む（希望今后更加努力）"
+  },
+  {
+    "word": "うんと",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "多，很",
+    "example": ""
+  },
+  {
+    "word": "えんりょなく",
+    "kanji": "遠慮なく",
+    "part_of_speech": "副",
+    "definition": "不必客气",
+    "example": "遠慮なく意見を言う（直言）"
+  },
+  {
+    "word": "おおよそ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "大体，大概",
+    "example": ""
+  },
+  {
+    "word": "おそらく",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "恐怕，大概",
+    "example": ""
+  },
+  {
+    "word": "おのおの",
+    "kanji": "各々",
+    "part_of_speech": "副",
+    "definition": "各自；各位",
+    "example": ""
+  },
+  {
+    "word": "おもいきり",
+    "kanji": "思い切り",
+    "part_of_speech": "副",
+    "definition": "狠狠地；尽情",
+    "example": "思い切り泣いた（痛哭一场）"
+  },
+  {
+    "word": "かえって",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "反而",
+    "example": ""
+  },
+  {
+    "word": "きっぱり（と）",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "断然，干脆",
+    "example": "きっぱりと断る（断然拒绝）"
+  },
+  {
+    "word": "ぐずぐず（と）",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "慢腾腾；嘟囔",
+    "example": "ぐずぐずするな（别磨磨蹭蹭的）"
+  },
+  {
+    "word": "くれぐれも",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "反复，周到",
+    "example": ""
+  },
+  {
+    "word": "げんに",
+    "kanji": "現に",
+    "part_of_speech": "副",
+    "definition": "实际，现在",
+    "example": "現にこの目で見た（我亲眼所见）"
+  },
+  {
+    "word": "ごく",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "非常，极其",
+    "example": "ごく簡単だ（极其简单）"
+  },
+  {
+    "word": "さいさん",
+    "kanji": "再三",
+    "part_of_speech": "副",
+    "definition": "再三，屡次",
+    "example": "再三試みる（再三尝试）"
+  },
+  {
+    "word": "さすが",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "不愧是，果然",
+    "example": "さすがうまい（果然好吃）"
+  },
+  {
+    "word": "さっそく",
+    "kanji": "早速",
+    "part_of_speech": "副",
+    "definition": "立刻，马上",
+    "example": "さっそく始めましょう（马上开始吧！）"
+  },
+  {
+    "word": "しきりに",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "频繁地",
+    "example": "しきりに催促する（一再催促）"
+  },
+  {
+    "word": "しじゅう",
+    "kanji": "始終",
+    "part_of_speech": "副",
+    "definition": "始终；经常",
+    "example": ""
+  },
+  {
+    "word": "しだいに",
+    "kanji": "次第に",
+    "part_of_speech": "副",
+    "definition": "逐渐",
+    "example": ""
+  },
+  {
+    "word": "じつに",
+    "kanji": "実に",
+    "part_of_speech": "副",
+    "definition": "实在；竟",
+    "example": "実にうれしい（实在高兴）"
+  },
+  {
+    "word": "しばしば",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "屡次，每每",
+    "example": "しばしば雨が降る（常常下雨）"
+  },
+  {
+    "word": "じゅんじゅんに",
+    "kanji": "順々に",
+    "part_of_speech": "副",
+    "definition": "依次；逐渐",
+    "example": ""
+  },
+  {
+    "word": "すっきり",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "痛快；流畅",
+    "example": "すっきりした気持ち（心情舒畅）"
+  },
+  {
+    "word": "すっと",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "迅速，轻快地",
+    "example": "すっと立ちあがる（立刻站起来）"
+  },
+  {
+    "word": "ぜったい",
+    "kanji": "絶対",
+    "part_of_speech": "副",
+    "definition": "绝对；坚决",
+    "example": "絶対に禁じる（绝对禁止）"
+  },
+  {
+    "word": "ぜひとも",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "一定，无论如何",
+    "example": ""
+  },
+  {
+    "word": "せめて",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "至少，哪怕",
+    "example": ""
+  },
+  {
+    "word": "そのうち",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "不久，过一阵",
+    "example": "そのうち会いましょう（改天再见）"
+  },
+  {
+    "word": "たえず",
+    "kanji": "絶えず",
+    "part_of_speech": "副",
+    "definition": "不断，经常",
+    "example": ""
+  },
+  {
+    "word": "ただ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "只有，只是",
+    "example": "ただ聞いてみただけです（只是打听了一下）"
+  },
+  {
+    "word": "ただちに",
+    "kanji": "直ちに",
+    "part_of_speech": "副",
+    "definition": "立刻，直接",
+    "example": ""
+  },
+  {
+    "word": "たちまち",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "转瞬间；忽然",
+    "example": "たちまち売り切れる（迅速卖完）"
+  },
+  {
+    "word": "たとえ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "即使，就算",
+    "example": ""
+  },
+  {
+    "word": "たびたび",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "屡次，再三",
+    "example": ""
+  },
+  {
+    "word": "だぶだぶ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "肥大",
+    "example": ""
+  },
+  {
+    "word": "ちかぢか",
+    "kanji": "近々",
+    "part_of_speech": "副",
+    "definition": "不久，过几天",
+    "example": "近々上京する（过几天上京）"
+  },
+  {
+    "word": "ちなみに",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "顺便，附带",
+    "example": "ちなみに言う（顺便说一下）"
+  },
+  {
+    "word": "ちゃくちゃくと",
+    "kanji": "着々と",
+    "part_of_speech": "副",
+    "definition": "稳步，顺利",
+    "example": ""
+  },
+  {
+    "word": "ついでに",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "顺便，顺手",
+    "example": "ついでに見る（顺便）"
+  },
+  {
+    "word": "つまり",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "即，也就是说",
+    "example": ""
+  },
+  {
+    "word": "どうしても",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "怎么也，无论如何也",
+    "example": "どうしてもやりとげる（非完成不可）"
+  },
+  {
+    "word": "どうせ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "反正；归根结底",
+    "example": ""
+  },
+  {
+    "word": "とうぜん",
+    "kanji": "当然",
+    "part_of_speech": "副",
+    "definition": "当然，应该",
+    "example": ""
+  },
+  {
+    "word": "とうぶん",
+    "kanji": "当分",
+    "part_of_speech": "副",
+    "definition": "暂时，一时",
+    "example": "雨は当分やむまい（雨一时不会停）"
+  },
+  {
+    "word": "ところどころ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "这儿那儿；有些地方",
+    "example": ""
+  },
+  {
+    "word": "とっくに",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "早就，已经",
+    "example": ""
+  },
+  {
+    "word": "なお",
+    "kanji": "",
+    "part_of_speech": "副·接续",
+    "definition": "依然；更",
+    "example": ""
+  },
+  {
+    "word": "なぜなら",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "因为，原因是",
+    "example": ""
+  },
+  {
+    "word": "なにしろ",
+    "kanji": "何しろ",
+    "part_of_speech": "副",
+    "definition": "无论怎样，反正",
+    "example": "なにしろ行ってみよう（反正得去看看）"
+  },
+  {
+    "word": "なにぶん",
+    "kanji": "何分",
+    "part_of_speech": "副",
+    "definition": "请；无奈",
+    "example": ""
+  },
+  {
+    "word": "なんか",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "哪；有些",
+    "example": "なんかうれしそうな顔だ（好像很高兴的样子）"
+  },
+  {
+    "word": "なんて",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "多么",
+    "example": "なんてかわいいだろう（多么可爱啊！）"
+  },
+  {
+    "word": "なんで",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "为什么",
+    "example": ""
+  },
+  {
+    "word": "なんとか",
+    "kanji": "何とか",
+    "part_of_speech": "副",
+    "definition": "设法；总算",
+    "example": "なんとか間に合った（总算赶上了）"
+  },
+  {
+    "word": "なんとなく",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "总觉得；无意中",
+    "example": "なんとなく泣きたくなる（不由得想哭）"
+  },
+  {
+    "word": "なんとも",
+    "kanji": "何とも",
+    "part_of_speech": "副",
+    "definition": "实在；怎么也",
+    "example": "なんとも思わない（毫不介意）"
+  },
+  {
+    "word": "なんらか",
+    "kanji": "何らか",
+    "part_of_speech": "副",
+    "definition": "多少，某些",
+    "example": ""
+  },
+  {
+    "word": "にこにこ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "笑嘻嘻",
+    "example": "にこにこ笑う（笑嘻嘻）"
+  },
+  {
+    "word": "にどと",
+    "kanji": "二度と",
+    "part_of_speech": "副",
+    "definition": "再（也不）",
+    "example": "二度と行かない（再也不去）"
+  },
+  {
+    "word": "のこらず",
+    "kanji": "残らず",
+    "part_of_speech": "副",
+    "definition": "全部，统统",
+    "example": ""
+  },
+  {
+    "word": "のちほど",
+    "kanji": "後ほど",
+    "part_of_speech": "副",
+    "definition": "回头，随后",
+    "example": "後ほど連絡します（之后再联系）"
+  },
+  {
+    "word": "はたして",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "果真；到底",
+    "example": ""
+  },
+  {
+    "word": "はらはら",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "扑簌簌地",
+    "example": "桜の花びらがはらはらと散る（樱花花瓣纷纷飘落）"
+  },
+  {
+    "word": "ひかくてき",
+    "kanji": "比較的",
+    "part_of_speech": "副",
+    "definition": "比较",
+    "example": ""
+  },
+  {
+    "word": "ひととおり",
+    "kanji": "一通り",
+    "part_of_speech": "副",
+    "definition": "大概；一般",
+    "example": "英語が一通りできる（略懂英语）"
+  },
+  {
+    "word": "ひとりでに",
+    "kanji": "独りでに",
+    "part_of_speech": "副",
+    "definition": "自己，自动地",
+    "example": ""
+  },
+  {
+    "word": "ひとりひとり",
+    "kanji": "一人一人",
+    "part_of_speech": "副",
+    "definition": "每人，各自",
+    "example": ""
+  },
+  {
+    "word": "ふたたび",
+    "kanji": "再び",
+    "part_of_speech": "副",
+    "definition": "再，又",
+    "example": "再びやってみる（再做一次试试）"
+  },
+  {
+    "word": "ふと",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "偶然；突然",
+    "example": "ふと思い出す（偶然想起）"
+  },
+  {
+    "word": "ふわふわ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "轻飘飘；软绵绵",
+    "example": ""
+  },
+  {
+    "word": "ほぼ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "大约，左右",
+    "example": ""
+  },
+  {
+    "word": "ぼんやり",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "模糊；恍惚",
+    "example": "ぼんやりした記憶（模糊的记忆）"
+  },
+  {
+    "word": "みずから",
+    "kanji": "自ら",
+    "part_of_speech": "副",
+    "definition": "亲自",
+    "example": ""
+  },
+  {
+    "word": "むしろ",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "与其，不如",
+    "example": ""
+  },
+  {
+    "word": "めいめい",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "各自",
+    "example": "切符はめいめいお持ちください（车票请各自携带）"
+  },
+  {
+    "word": "めっきり",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "显著，急剧",
+    "example": "めっきり寒くなる（急剧变冷）"
+  },
+  {
+    "word": "めったに",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "几乎（不）",
+    "example": "めったに外出しない（不怎么外出）"
+  },
+  {
+    "word": "もしかして",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "大概，莫非",
+    "example": ""
+  },
+  {
+    "word": "もしも",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "假使，万一",
+    "example": ""
+  },
+  {
+    "word": "もともと",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "根本，本来",
+    "example": "元々優れていた（本来就很优秀）"
+  },
+  {
+    "word": "やがて",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "马上；大约",
+    "example": ""
+  },
+  {
+    "word": "やや",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "稍微",
+    "example": "やや難しい（有点难）"
+  },
+  {
+    "word": "ゆうゆう",
+    "kanji": "悠々",
+    "part_of_speech": "副",
+    "definition": "不慌不忙",
+    "example": "悠々と走る（慢腾腾地跑）"
+  },
+  {
+    "word": "ようするに",
+    "kanji": "要するに",
+    "part_of_speech": "副",
+    "definition": "总而言之",
+    "example": ""
+  },
+  {
+    "word": "わくわく",
+    "kanji": "",
+    "part_of_speech": "副",
+    "definition": "扑通扑通，忐忑",
+    "example": "胸がわくわくする（心扑通扑通跳）"
+  },
+  {
+    "word": "したがって",
+    "kanji": "従って",
+    "part_of_speech": "接续",
+    "definition": "因此，所以",
+    "example": ""
+  },
+  {
+    "word": "そこで",
+    "kanji": "",
+    "part_of_speech": "接续",
+    "definition": "于是；那么",
+    "example": "そこで本論に入る（那么进入正题）"
+  },
+  {
+    "word": "そのうえ",
+    "kanji": "その上",
+    "part_of_speech": "接续",
+    "definition": "而且；然后",
+    "example": ""
+  },
+  {
+    "word": "そのため",
+    "kanji": "",
+    "part_of_speech": "接续",
+    "definition": "为此，因为",
+    "example": ""
+  },
+  {
+    "word": "それでも",
+    "kanji": "",
+    "part_of_speech": "接续",
+    "definition": "尽管，即使那样",
+    "example": ""
+  },
+  {
+    "word": "それどころか",
+    "kanji": "",
+    "part_of_speech": "接续",
+    "definition": "岂止如此；相反",
+    "example": ""
+  },
+  {
+    "word": "ただし",
+    "kanji": "",
+    "part_of_speech": "接续",
+    "definition": "但是，不过",
+    "example": ""
+  },
+  {
+    "word": "すなわち",
+    "kanji": "",
+    "part_of_speech": "接续",
+    "definition": "即，换言之",
+    "example": ""
+  },
+  {
+    "word": "ところが",
+    "kanji": "",
+    "part_of_speech": "接续",
+    "definition": "可是",
+    "example": ""
+  },
+  {
+    "word": "ところで",
+    "kanji": "",
+    "part_of_speech": "接续",
+    "definition": "这个，那个（开启另一个话题时用）",
+    "example": "ところで彼女は最近元気ですか（那个她最近身体好吗？）"
+  },
+  {
+    "word": "あるいは",
+    "kanji": "",
+    "part_of_speech": "接续",
+    "definition": "或者",
+    "example": ""
+  },
+  {
+    "word": "さて",
+    "kanji": "",
+    "part_of_speech": "接续",
+    "definition": "那么，就",
+    "example": "さて話は変わって（那么转变一下话题）"
+  },
+  {
+    "word": "しかも",
+    "kanji": "",
+    "part_of_speech": "接续",
+    "definition": "而且",
+    "example": ""
+  },
+  {
+    "word": "げん～",
+    "kanji": "現～",
+    "part_of_speech": "接头",
+    "definition": "现在的",
+    "example": "現住所（现住址）"
+  },
+  {
+    "word": "しょ～",
+    "kanji": "諸～",
+    "part_of_speech": "接头",
+    "definition": "诸~",
+    "example": "諸君（诸位）"
+  },
+  {
+    "word": "てい～",
+    "kanji": "低～",
+    "part_of_speech": "接头",
+    "definition": "低~",
+    "example": "低レベル（低水平）"
+  },
+  {
+    "word": "どう～",
+    "kanji": "同～",
+    "part_of_speech": "接头",
+    "definition": "同~",
+    "example": "同年齢（同岁）"
+  },
+  {
+    "word": "はつ～",
+    "kanji": "初～",
+    "part_of_speech": "接头",
+    "definition": "最初，首次~",
+    "example": "初売り（开市）"
+  },
+  {
+    "word": "む～",
+    "kanji": "無～",
+    "part_of_speech": "接头",
+    "definition": "无~",
+    "example": "無意識（无意识）"
+  },
+  {
+    "word": "わ～",
+    "kanji": "和～",
+    "part_of_speech": "接头",
+    "definition": "日式",
+    "example": "和菓子（日式点心）"
+  },
+  {
+    "word": "～かん",
+    "kanji": "～感",
+    "part_of_speech": "接尾",
+    "definition": "~感",
+    "example": "劣等感（自卑感）"
+  },
+  {
+    "word": "～ごう",
+    "kanji": "～号",
+    "part_of_speech": "接尾",
+    "definition": "~号",
+    "example": ""
+  },
+  {
+    "word": "～だらけ",
+    "kanji": "",
+    "part_of_speech": "接尾",
+    "definition": "满是~",
+    "example": "間違いだらけ（满篇错误）"
+  },
+  {
+    "word": "～たらず",
+    "kanji": "～足らず",
+    "part_of_speech": "接尾",
+    "definition": "不足，少于~",
+    "example": ""
+  },
+  {
+    "word": "～つき",
+    "kanji": "～付き",
+    "part_of_speech": "接尾",
+    "definition": "附带~",
+    "example": "条件付き（附有条件）"
+  },
+  {
+    "word": "～ふう",
+    "kanji": "～風",
+    "part_of_speech": "接尾",
+    "definition": "~风格",
+    "example": "田舎風（乡村风）"
+  },
+  {
+    "word": "～むけ",
+    "kanji": "～向け",
+    "part_of_speech": "接尾",
+    "definition": "向，对~",
+    "example": "子供向け（面向儿童）"
+  },
+  {
+    "word": "～りつ",
+    "kanji": "～率",
+    "part_of_speech": "接尾",
+    "definition": "~率",
+    "example": "合格率（合格率）"
+  },
+  {
+    "word": "アクセント",
+    "kanji": "accent",
+    "part_of_speech": "名",
+    "definition": "声调",
+    "example": "関西のアクセント（关西口音）"
+  },
+  {
+    "word": "ウイスキー",
+    "kanji": "whisky",
+    "part_of_speech": "名",
+    "definition": "威士忌酒",
+    "example": ""
+  },
+  {
+    "word": "ウール",
+    "kanji": "wool",
+    "part_of_speech": "名",
+    "definition": "羊毛；毛织品",
+    "example": "ウール地（毛料）"
+  },
+  {
+    "word": "カー",
+    "kanji": "car",
+    "part_of_speech": "名",
+    "definition": "汽车",
+    "example": ""
+  },
+  {
+    "word": "キャプテン",
+    "kanji": "captain",
+    "part_of_speech": "名",
+    "definition": "首领；队长",
+    "example": "野球部のキャプテン（棒球队队长）"
+  },
+  {
+    "word": "キャンペーン",
+    "kanji": "campaign",
+    "part_of_speech": "名",
+    "definition": "宣传活动",
+    "example": "キャンペーンセール（促销；大甩卖）"
+  },
+  {
+    "word": "クラシック",
+    "kanji": "classic",
+    "part_of_speech": "名",
+    "definition": "古典的",
+    "example": "クラシック音楽（古典音乐）"
+  },
+  {
+    "word": "クラブ",
+    "kanji": "club",
+    "part_of_speech": "名",
+    "definition": "俱乐部",
+    "example": ""
+  },
+  {
+    "word": "グランド",
+    "kanji": "grand",
+    "part_of_speech": "名",
+    "definition": "巨大的，宏伟的",
+    "example": ""
+  },
+  {
+    "word": "クリーム",
+    "kanji": "cream",
+    "part_of_speech": "名",
+    "definition": "奶油；雪花膏",
+    "example": "アイスクリーム（冰淇淋）"
+  },
+  {
+    "word": "クリスマス",
+    "kanji": "Christmas",
+    "part_of_speech": "名",
+    "definition": "圣诞节",
+    "example": ""
+  },
+  {
+    "word": "コース",
+    "kanji": "course",
+    "part_of_speech": "名",
+    "definition": "课程；路线",
+    "example": ""
+  },
+  {
+    "word": "コーチ",
+    "kanji": "coach",
+    "part_of_speech": "名",
+    "definition": "教练",
+    "example": ""
+  },
+  {
+    "word": "コーナー",
+    "kanji": "corner",
+    "part_of_speech": "名",
+    "definition": "专栏；弯道",
+    "example": ""
+  },
+  {
+    "word": "サークル",
+    "kanji": "circle",
+    "part_of_speech": "名",
+    "definition": "圆；社团",
+    "example": ""
+  },
+  {
+    "word": "サイレン",
+    "kanji": "siren",
+    "part_of_speech": "名",
+    "definition": "汽笛，警报器",
+    "example": ""
+  },
+  {
+    "word": "シーズン",
+    "kanji": "season",
+    "part_of_speech": "名",
+    "definition": "季节；旺季",
+    "example": "蟹のシーズン（吃蟹的季节）"
+  },
+  {
+    "word": "ジーンズ",
+    "kanji": "jeans",
+    "part_of_speech": "名",
+    "definition": "牛仔（裤）",
+    "example": ""
+  },
+  {
+    "word": "ジャーナリスト",
+    "kanji": "journalist",
+    "part_of_speech": "名",
+    "definition": "记者",
+    "example": "ジャーナリストになる（当记者）"
+  },
+  {
+    "word": "シャッター",
+    "kanji": "shutter",
+    "part_of_speech": "名",
+    "definition": "（照相机的）快门；百叶窗",
+    "example": "シャッターを押す（按快门）"
+  },
+  {
+    "word": "ジョギング",
+    "kanji": "jogging",
+    "part_of_speech": "名",
+    "definition": "跑步",
+    "example": ""
+  },
+  {
+    "word": "シリーズ",
+    "kanji": "series",
+    "part_of_speech": "名",
+    "definition": "系列",
+    "example": "シリーズ小説（连载小说）"
+  },
+  {
+    "word": "スープ",
+    "kanji": "soup",
+    "part_of_speech": "名",
+    "definition": "汤",
+    "example": "スープを吸う（喝汤）"
+  },
+  {
+    "word": "スタート",
+    "kanji": "start",
+    "part_of_speech": "名",
+    "definition": "开始",
+    "example": "スタートをきる（出发）"
+  },
+  {
+    "word": "ステージ",
+    "kanji": "stage",
+    "part_of_speech": "名",
+    "definition": "舞台",
+    "example": "ステージに立つ（登上舞台/讲坛）"
+  },
+  {
+    "word": "スポンサー",
+    "kanji": "sponsor",
+    "part_of_speech": "名",
+    "definition": "赞助商",
+    "example": "スポンサー探し（找赞助）"
+  },
+  {
+    "word": "ゼミ",
+    "kanji": "Semina",
+    "part_of_speech": "名",
+    "definition": "研究班",
+    "example": ""
+  },
+  {
+    "word": "セメント",
+    "kanji": "cement",
+    "part_of_speech": "名",
+    "definition": "水泥",
+    "example": ""
+  },
+  {
+    "word": "タイヤ",
+    "kanji": "tire",
+    "part_of_speech": "名",
+    "definition": "轮胎",
+    "example": ""
+  },
+  {
+    "word": "ダイヤ",
+    "kanji": "diamond",
+    "part_of_speech": "名",
+    "definition": "钻石",
+    "example": "ダイヤの指輪（钻石戒指）"
+  },
+  {
+    "word": "トランプ",
+    "kanji": "trump",
+    "part_of_speech": "名",
+    "definition": "扑克",
+    "example": "トランプをする（玩扑克）"
+  },
+  {
+    "word": "ナイロン",
+    "kanji": "nylon",
+    "part_of_speech": "名",
+    "definition": "尼龙",
+    "example": ""
+  },
+  {
+    "word": "ナンバー",
+    "kanji": "number",
+    "part_of_speech": "名",
+    "definition": "编号",
+    "example": ""
+  },
+  {
+    "word": "バイオリン",
+    "kanji": "violin",
+    "part_of_speech": "名",
+    "definition": "小提琴",
+    "example": ""
+  },
+  {
+    "word": "パイプ",
+    "kanji": "pipe",
+    "part_of_speech": "名",
+    "definition": "导管；烟斗",
+    "example": ""
+  },
+  {
+    "word": "パイロット",
+    "kanji": "pilot",
+    "part_of_speech": "名",
+    "definition": "宇航员",
+    "example": ""
+  },
+  {
+    "word": "パターン",
+    "kanji": "pattern",
+    "part_of_speech": "名",
+    "definition": "模式",
+    "example": "ワンパターン（一成不变，老是一种模式）"
+  },
+  {
+    "word": "バッグ",
+    "kanji": "bag",
+    "part_of_speech": "名",
+    "definition": "包",
+    "example": ""
+  },
+  {
+    "word": "パンツ",
+    "kanji": "pants",
+    "part_of_speech": "名",
+    "definition": "短裤",
+    "example": ""
+  },
+  {
+    "word": "ハンドル",
+    "kanji": "handle",
+    "part_of_speech": "名",
+    "definition": "方向盘",
+    "example": "ハンドルをとる（握方向盘；操舵轮）"
+  },
+  {
+    "word": "ピストル",
+    "kanji": "pistol",
+    "part_of_speech": "名",
+    "definition": "手枪",
+    "example": "ピストルを撃つ（放手枪）"
+  },
+  {
+    "word": "ビニール",
+    "kanji": "vinyl",
+    "part_of_speech": "名",
+    "definition": "乙烯，塑料",
+    "example": ""
+  },
+  {
+    "word": "ピンポン",
+    "kanji": "ping-pong",
+    "part_of_speech": "名",
+    "definition": "乒乓",
+    "example": ""
+  },
+  {
+    "word": "ブーム",
+    "kanji": "boom",
+    "part_of_speech": "名",
+    "definition": "热潮",
+    "example": "ブームに乗る（赶高潮）"
+  },
+  {
+    "word": "フライパン",
+    "kanji": "frypan",
+    "part_of_speech": "名",
+    "definition": "平底锅",
+    "example": ""
+  },
+  {
+    "word": "プラスチック",
+    "kanji": "plastics",
+    "part_of_speech": "名",
+    "definition": "塑料",
+    "example": ""
+  },
+  {
+    "word": "ベテラン",
+    "kanji": "veteran",
+    "part_of_speech": "名",
+    "definition": "老手",
+    "example": "ベテラン選手（老选手）"
+  },
+  {
+    "word": "ヘリコプター",
+    "kanji": "helicopter",
+    "part_of_speech": "名",
+    "definition": "直升飞机",
+    "example": "ヘリコプターで行く（乘直升飞机去）"
+  },
+  {
+    "word": "ホームステイ",
+    "kanji": "homestay",
+    "part_of_speech": "名",
+    "definition": "寄宿留学",
+    "example": ""
+  },
+  {
+    "word": "マーケット",
+    "kanji": "market",
+    "part_of_speech": "名",
+    "definition": "市场；商场",
+    "example": ""
+  },
+  {
+    "word": "マイペース",
+    "kanji": "my+pace",
+    "part_of_speech": "名",
+    "definition": "自己的做法",
+    "example": "マイペースで勉強する（按自己的一套来学习）"
+  },
+  {
+    "word": "マスター",
+    "kanji": "master",
+    "part_of_speech": "名",
+    "definition": "老板；师傅",
+    "example": "店のマスター（店老板）"
+  },
+  {
+    "word": "ミシン",
+    "kanji": "sewing machine",
+    "part_of_speech": "名",
+    "definition": "缝纫机",
+    "example": ""
+  },
+  {
+    "word": "メモ",
+    "kanji": "memo",
+    "part_of_speech": "名",
+    "definition": "笔记；记录",
+    "example": "メモをとる（记笔记）"
+  },
+  {
+    "word": "メリット",
+    "kanji": "merit",
+    "part_of_speech": "名",
+    "definition": "优点，好处",
+    "example": ""
+  },
+  {
+    "word": "モーター",
+    "kanji": "motor",
+    "part_of_speech": "名",
+    "definition": "发动机",
+    "example": "モーターを動かす（开动发动机）"
+  },
+  {
+    "word": "モダン",
+    "kanji": "modern",
+    "part_of_speech": "名·ナ形",
+    "definition": "现代，摩登",
+    "example": "モダンな服装（时髦的服装）"
+  },
+  {
+    "word": "モデル",
+    "kanji": "model",
+    "part_of_speech": "名",
+    "definition": "模型；模范；模特",
+    "example": "モデル·カー（模型汽车）"
+  },
+  {
+    "word": "モノレール",
+    "kanji": "monorail",
+    "part_of_speech": "名",
+    "definition": "单轨铁路，单轨电车",
+    "example": ""
+  },
+  {
+    "word": "ヨット",
+    "kanji": "yacht",
+    "part_of_speech": "名",
+    "definition": "游艇，帆船",
+    "example": ""
+  },
+  {
+    "word": "ライター",
+    "kanji": "lighter",
+    "part_of_speech": "名",
+    "definition": "打火机",
+    "example": ""
+  },
+  {
+    "word": "ラケット",
+    "kanji": "racket",
+    "part_of_speech": "名",
+    "definition": "球拍",
+    "example": ""
+  },
+  {
+    "word": "リズム",
+    "kanji": "rhythm",
+    "part_of_speech": "名",
+    "definition": "节奏，韵律",
+    "example": "生活のリズムが崩れる（生活规律紊乱）"
+  },
+  {
+    "word": "ロッカー",
+    "kanji": "locker",
+    "part_of_speech": "名",
+    "definition": "橱柜",
+    "example": ""
+  },
+  {
+    "word": "ワイン",
+    "kanji": "wine",
+    "part_of_speech": "名",
+    "definition": "葡萄酒",
+    "example": "ワイン·グラス（葡萄酒杯）"
+  }
+]
